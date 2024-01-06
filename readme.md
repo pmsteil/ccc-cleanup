@@ -10,19 +10,10 @@ The CCC is available in many languages, but this repository only contains the En
 
 The file 'ccc-raw.txt' was the original file which was not standardized in terms of formatting of footnotes, CCC paragraphs, Bible references etc.
 
-The file 'ccc-standard.txt' contains the text of the CCC in a standardized format.
+The file 'ccc.md' contains the text of the CCC in a markdown format, but the markdown formatting is not yet complete.
 
 This is only a very early alpha version.
 
 I intend to produce a markdown version of the CCC and I intend to test this with an LLM to make sure it can correctly read all
 the paragraphs and footnotes and Scripture references.
 
-
-Sample standard notations for ccc-standard.txt:
-
-
-### CCC 125
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore.[^1]
-
-[^1]: John 17:3
-```
