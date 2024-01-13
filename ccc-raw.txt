@@ -14,7 +14,7 @@ In his Son and through him, he invites men to become, in the Holy Spirit, his ad
 2 So that this call should resound throughout the world, Christ sent forth the apostles he had chosen, commissioning them to proclaim the gospel: "Go therefore and make disciples of all nations, baptizing them in the name of the Father and of the Son and of the Holy Spirit, teaching them to observe all that I have commanded you; and lo, I am with you always, to the close of the age."4 Strengthened by this mission, the apostles "went forth and preached everywhere, while the Lord worked with them and confirmed the message by the signs that attended it."5
 3 Those who with God's help have welcomed Christ's call and freely responded to it are urged on by love of Christ to proclaim the Good News everywhere in the world.This treasure, received from the apostles, has been faithfully guarded by their successors. All Christ's faithful are called to hand it on from generation to generation, by professing the faith, by living it in fraternal sharing, and by celebrating it in liturgy and prayer.6
 4 Mt 28:19-20
-5Mk 16:20
+5 Mk 16:20
 6 Cf. Acts 2:42
 PROLOGUE
 II. Handing on the Faith: Catechesis
@@ -206,7 +206,7 @@ God forms his people Israel
 12 Cf. Rom 1:18-25.
 13 Cf. Gen 9:16; Lk 21:24; DV 3.
 14 Cf. Gen 14:18; Heb 7:3; Ezek 14:14.
-15Jn 11:52
+15 Jn 11:52
 16 Gen 12:1
 17 Gen 17:5; 12:3 (LXX); cf. Gal 3:8
 18 Cf. Rom 11:28; Jn 11:52; 10:16.
@@ -230,7 +230,7 @@ made completely explicit; it remains for Christian faith gradually to grasp its 
 67 Throughout the ages, there have been so-called "private" revelations, some of which have been recognized by the authority of the Church. They do not belong, however, to the deposit of faith. It is not their role to improve or complete Christ's definitive Revelation, but to help live more fully by it in a certain period of history. Guided by the Magisterium of the Church, the sensus fidelium knows how to discern and welcome in these revelations whatever constitutes an authentic call of Christ or his saints to the Church.
 Christian faith cannot accept "revelations" that claim to surpass or correct the Revelation of which Christ is the fulfilment, as is the case in certain non Christian religions and also in certain recent sects which base themselves on such "revelations".
 25 DV 2.
-26Heb 1:1-2
+26 Heb 1:1-2
 27 St. John of the Cross, the Ascent of Mount Carmel 2, 22, 3-5 in The Collected Works of St. John of the Cross, tr. K. Kavanaugh OCD and O.Rodriguez OCD (Washington DC: Institute of Carmelite Studies, 1979),179-180: LH, Advent, week 2, Monday, OR.
 28 DV 4; cf. I Tim 6:14; Titus 2:13
 
@@ -252,7 +252,7 @@ CHAPTER TWO: GOD COMES TO MEET MAN
 Article 2 THE TRANSMISSION OF DIVINE REVELATION
 74 God "desires all men to be saved and to come to the knowledge of the truth":29 that is, of Christ Jesus.30 Christ must be proclaimed to all nations and individuals, so that this revelation may reach to the ends of the earth:
 God graciously arranged that the things he had once revealed for the salvation of all peoples should remain in their entirety, throughout the ages, and be transmitted to all generations.31
-291 Tim 2:4
+29 1 Tim 2:4
 30 cf. Jn 14:6
 31 DV 7; cf. 2 Cor 1:20; 3:16 - 4:6
 
@@ -325,17 +325,17 @@ Growth in understanding the faith
 95 "It is clear therefore that, in the supremely wise arrangement of God, sacred Tradition, Sacred Scripture and the Magisterium of the Church are so connected and associated that one of them cannot stand without the others. Working together, each in its own way, under the action of the one Holy Spirit, they all contribute effectively to the salvation of souls."62
 45 DV 10 # 1; cf.I Tim 6:20; 2 Tim 1:12-14(Vulg.).
 46 DV 10 # 1; cf. Acts 2:42 (Greek); Pius XII, Apost. Const. Munificentissimus Deus, 1 November 1950: AAS 42 (1950), 756, taken along with the words of St. Cyprian, Epist. 66, 8: CSEL 3/2, 733: "The Church is the people united to its Priests, the flock adhering to its Shepherd."
-47DV10# 2.
+47 DV 10# 2.
 48 DV 10 para 2.
-49Lk 10:16; cf. LG 20.
-50Cf Jn 8:31-32.
+49 Lk 10:16; cf. LG 20.
+50 Cf Jn 8:31-32.
 51 Cf.Vatican Council I: DS 3016: nexus mysteriorum; LC 25.
 52 UR II.
 53 Cf. I Jn 2:20, 27
 54 Cf. . Jn 16:13
 55 LG 12; cf. St. Augustine, De praed. sanct. 14, 27: PL 44, 980.
 56 LG 12; cf. Jude 3.
-57DV8# 2;cf.Lk2:19,51
+57 DV8# 2;cf.Lk2:19,51
 58 GS 62 # 7; cf. GS 44 # 2; DV 23; 24; UR 4.
 59 DV 8 # 2.
 60 DV 8 # 2.
@@ -531,13 +531,13 @@ Mary - "Blessed is she who believed"
 4 Heb 11:8; cf. Gen 12:1-4.
 5 Cf. Gen 23:4
 6 Cf. Heb 11:17
-7Heb 11:1
-8Rom 4:3; cf. Gen 15:6
+7 Heb 11:1
+8 Rom 4:3; cf. Gen 15:6
 9 Rom 4:11, 18; 4:20; cf. Gen 15:5.
 10 Heb 11:2, 39
 11 Heb 11:40; 12:2
-12Lk 1:37-38; cf. Gen 18:14
-13Lk 1:45
+12 Lk 1:37-38; cf. Gen 18:14
+13 Lk 1:45
 14 Cf. Lk 1:48
 15 Cf. Lk 2:35
 
@@ -554,11 +554,11 @@ To believe in the Holy Spirit
 The Church never ceases to proclaim her faith in one only God: Father, Son and Holy Spirit.
 16 2 Tim 1:12
 17 Cf. Jer 17:5-6; Pss 40:5; 146:3-4
-18Mk 1:11; cf. 9:7
-19Jn 14:1
+18 Mk 1:11; cf. 9:7
+19 Jn 14:1
 20 Jn 1:18.
 21 Jn 6:46; cf. Mt 11:27
-22I Cor 12:3
+22 I Cor 12:3
 23 I Cor 2:10-11.
 
 PART ONE:THE PROFESSION OF FAITH
@@ -589,7 +589,7 @@ When we contemplate the blessings of faith even now, as if gazing at a reflectio
 164 Now, however, "we walk by faith, not by sight";49 we perceive God as "in a mirror, dimly" and only "in part".50 Even though enlightened by him in whom it believes, faith is often lived in darkness and can be put to the test. the world we live in often seems very far
 from the one promised us by faith. Our experiences of evil and suffering, injustice and death, seem to contradict the Good News; they can shake our faith and become a temptation against it.
 165 It is then we must turn to the witnesses of faith: to Abraham, who "in hope... believed against hope";51 to the Virgin Mary, who, in "her pilgrimage of faith", walked into the "night of faith"52 in sharing the darkness of her son's suffering and death; and to so many others: "Therefore, since we are surrounded by so great a cloud of witnesses, let us also lay aside every weight, and sin which clings so closely, and let us run with perseverance the race that is set before us, looking to Jesus the pioneer and perfecter of our faith."53
-24Mt 16:17; cf. Gal 1:15; Mt 11:25.
+24 Mt 16:17; cf. Gal 1:15; Mt 11:25.
 25 DV 5; cf. DS 377; 3010.
 26 Dei Filius: 3: DS 3008.
 27 St. Thomas Aquinas, STh II-II, 2, 9; cf Dei Filius 3; DS 3010.
@@ -611,13 +611,13 @@ from the one promised us by faith. Our experiences of evil and suffering, injust
 44 1 Tim 1:18-19
 45 Cf. Mk 9:24; Lk 17:5; 22:32
 46 Gal 5:6; Rom 15:13; cf. Jas 2:14-26
-471 Cor 13:12; I Jn 3:2
+47 1 Cor 13:12; I Jn 3:2
 48 St. Basil De Spiritu Sancto 15, 36: PG 32, 132; cf. St.Thomas Aquinas,S Th II-II, 4, 1.
 49 2 Cor 5:7.
-50l Cor 13:12.
+50 1 Cor 13:12.
 51 Rom 4:18
 52 LG 58; John Paul II, RMat 18.
-53Heb 12:1-2. Article 2
+53 Heb 12:1-2. Article 2
 
 PART ONE:THE PROFESSION OF FAITH
 SECTION ONE: "I BELIEVE" - "WE BELIEVE"
@@ -814,7 +814,7 @@ IN BRIEF
 3 Roman Catechism I, 2, 2.
 4 Dt 6:45.
 5 Is 45:22-24; cf. Phil 2:10-11.
-6Mk 12:29-30
+6 Mk 12:29-30
 7 Cf. Mk 12:35-37.
 9 EX 3:6
 10 EX 3:13-15
@@ -849,9 +849,9 @@ IN BRIEF
 39 Cf. Is 43:1-7; Hos 2.
 40 Jn 3:16; cf. Hos 11:1; Is 49:14-15; 62 :4-5; Ezek 16; Hos 11.
 41 Is 54:8.
-42Is 54: 10; cf. 54:8.
+42 Is 54: 10; cf. 54:8.
 43 Jer 31:3.
-44l Jn 4:8, 16
+44 1 Jn 4:8, 16
 45 Cf. I Cor 2:7-16; Eph 3:9-12.
 46 Job 36:26.
 47 St. Joan of Arc.
@@ -918,7 +918,7 @@ that, in the Father and with the Father the Son is one and the same God.
 265 By the grace of Baptism "in the name of the Father and of the Son and of the Holy Spirit", we are called to share in the life of the Blessed Trinity, here on earth in the obscurity of faith, and after death in eternal light (cf. Paul VI, CPG # 9).
 266 "Now this is the Catholic faith: We worship one God in the Trinity and the Trinity in unity, without either confusing the persons or dividing the substance; for the person of the Father is one, the Son's is another, the Holy Spirit's another; but the Godhead of the Father, Son and Holy Spirit is one, their glory equal, their majesty coeternal" (Athanasian Creed: DS 75; ND 16).
 267 Inseparable in what they are, the divine persons are also inseparable in what they do. But within the single divine operation each shows forth what is proper to him in the Trinity, especially in the divine missions of the Son's Incarnation and the gift of the Holy Spirit.
-53Mt 28:19.
+53 Mt 28:19.
 54 St. Caesarius of Arles, Sermo 9, Exp. symb.: CCL 103, 47.
 55 Cf. Profession of faith of Pope Vigilius I (552): DS 415.
 56 GCD 43.
@@ -929,10 +929,10 @@ that, in the Father and with the Father the Son is one and the same God.
 61 Cf. 2 Sam 7:14; Ps 68:6.
 62 Cf. Is 66:13; Ps 131:2.
 63 Cf. Ps 27:10; Eph 3:14; Is 49:15.
-64Mt 11-27.
-65Jn 1:1; Col 1:15; Heb 1:3.
+64 Mt 11-27.
+65 Jn 1:1; Col 1:15; Heb 1:3.
 66 The English phrases "of one being" and "one in being" translate the Greek word homoousios, which was rendered in Latin by consubstantialis.
-67Niceno-Constantinopolitan Creed; cf. DS 150.
+67 Niceno-Constantinopolitan Creed; cf. DS 150.
 68 Cf. Gen 1:2; Nicene Creed (DS 150); Jn 14:17, 26; 16:13.
 69 Cf. Jn 14:26; 15:26; 16:14.
 70 Cf. Jn 7:39.
@@ -942,11 +942,11 @@ that, in the Father and with the Father the Son is one and the same God.
 74 Nicene Creed; cf. DS 150.
 75 Council of Florence (1439): DS 1300-1301.
 76 Cf. Leo I, Quam laudabiliter (447): DS 284.
-77Jn 15:26; cf. AG 2.
+77 Jn 15:26; cf. AG 2.
 78 Council of Florence (1439): DS 1302.
 79 Council of Florence (1442): DS 1331.
 80 Cf. Council of Lyons II(1274): DS 850.
-812 Cor 13:14; cf. I Cor 12:4 - 6; Eph 4:4-6.
+81 2 Cor 13:14; cf. I Cor 12:4 - 6; Eph 4:4-6.
 82 Paul VI, CPC # 2.
 83 Council of Constantinople II (553): DS 421.
 84 Council of Toledo XI (675): DS 530:26.
@@ -959,14 +959,14 @@ that, in the Father and with the Father the Son is one and the same God.
 91 Council of Florence (1442): DS 1331.
 92 St. Gregory of Nazianzus, Oratio 40, 41: PG 36,417.
 93 LH, Hymn for Evening Prayer.
-94Eph 1:4-5, 9; Rom 8:15, 29.
+94 Eph 1:4-5, 9; Rom 8:15, 29.
 95 2 Tim 1:9-10.
 96 Cf. AG 2-9.
 97 Council of Florence (1442): DS 1331; cf. Council of Constantinople II (553): DS 421.
 98 Council of Constantinople II: DS 421.
 99 Cf. Jn 6:44; Rom 8:14.
 100 Cf. Jn 17:21-23.
-101Jn 14:23.
+101 Jn 14:23.
 102 Prayer of Blessed Elizabeth of the Trinity.
 
 PART ONE:THE PROFESSION OF FAITH
@@ -991,17 +991,17 @@ IN BRIEF
 277 God shows forth his almighty power by converting us from our sins and restoring us to his friendship by grace. "God, you show your almighty power above all in your mercy and forgiveness. . ." (Roman Missal, 26th Sunday, Opening Prayer).
 278 If we do not believe that God's love is almighty, how can we believe that the Father could create us, the Son redeem us and the Holy Spirit sanctify us?
 103 Cf. Gen 1:1; Jn 1:3; Mt 6:9; 2 Cor 12:9; cf. I Cor 1:18.
-104Ps 115:3.
+104 Ps 115:3.
 105 Gen 49:24; Is 1:24 etc.; Pss 24:8-10; 135 6.
 106 Cf. Jer 27:5; 32:17; Lk 1:37
 107 Wis 11:21; cf. Esth 4:17b; Prov 21:1; Tob 13:2.
 108 Wis 11:23.
 109 2 Cor 6:18; cf. Mt 6:32.
 110 St. Thomas Aquinas, STh I, 25, 5, ad I.
-1111 Cor 1:24-25.
+111 1 Cor 1:24-25.
 112 Eph 1:19-22.
 113 Cf. 2 Cor 12:9; Phil 4:13.
-114Lk 1:37, 49.
+114 Lk 1:37, 49.
 115 Roman Catechism I, 2, 13
 
 PART ONE:THE PROFESSION OF FAITH
@@ -1079,21 +1079,21 @@ IN BRIEF
 322 Christ invites us to filial trust in the providence of our heavenly Father (cf Mt 6:26-34), and St. Peter the apostle repeats: "Cast all your anxieties on him, for he cares about you" (I Pt 5:7; cf. Ps 55:23).
 323 Divine providence works also through the actions of creatures.To human beings God grants the ability to co-operate freely with his plans.
 324 The fact that God permits physical and even moral evil is a mystery that God illuminates by his Son Jesus Christ who died and rose to vanquish evil. Faith gives us the certainty that God would not permit an evil if he did not cause a good to come from that very evil, by ways that we shall fully know only in eternal life.
-116Gen 1:1.
+116 Gen 1:1.
 117 GCD 51.
-118Gen 1:1; cf. Rom 8:18-23.
+118 Gen 1:1; cf. Rom 8:18-23.
 119 Cf. Egeria, Peregrinatio at loca sancta 46: PLS 1, 1047; St. Augustine, De catechizantis rudibus 3, 5: PL 40, 256.
 120 Cf. NA 2.
 121 Wis 7: 17-22.
 122 Cf.Vatican Council I, can. 2 # I: DS 3026.
-123Heb 11:3.
+123 Heb 11:3.
 124 Cf. Acts 17:24-29; Rom 1:19-20.
 125 Cf. Is 43:1; Pss 115:15; 124:8; 134:3.
 126 Cf. Gen 15:5; Jer 33:19-26.
 127 Cf. Is 44:24; Ps 104; Prov 8:22-31.
-128Gen 1:1.
+128 Gen 1:1.
 129 Jn 1:1-3.
-130Col 1:16-17.
+130 Col 1:16-17.
 131 Cf. Nicene Creed: DS 150; Hymn Veni, Creator Spiritus; Byzantine Troparion of Pentecost Vespers, "O heavenly King, Consoler".
 132 Cf. Pss 33 6; 104:30; Gen 1:2-3.
 133 St. Irenaeus, Adv. haeres. 2, 30, 9; 4, 20, I: PG 7/1, 822, 1032.
@@ -1101,12 +1101,12 @@ IN BRIEF
 135 St. Bonaventure, In II Sent. I, 2, 2, 1.
 136 St. Thomas Aquinas, Sent. II, prol.
 137 Dei Filius I: DS 3002; cf Lateran Council IV (1215): DS 800.
-138Eph 1:5-6.
+138 Eph 1:5-6.
 139 St. Irenaeus, Adv. haeres. 4, 20, 7: PG 7/1, 1037.
 140 AG 2; cf. I Cor 15:28.
 141 Cf.Wis 9:9.
 142 Rev 4:11.
-143Pss 104:24; 145:9.
+143 Pss 104:24; 145:9.
 144 Cf. Dei Filius, cann. 2-4: DS 3022-3024.
 145 Lateran Council IV (1215): DS 800; cf. DS 3025.
 146 St. Theophilus of Antioch, Ad Autolycum II, 4: PG 6, 1052.
@@ -1117,15 +1117,15 @@ IN BRIEF
 151 Wis 11:20.
 152 Col 1:15, Gen 1:26.
 153 Cf. Ps 19:2-5; Job 42:3.
-154Gen 1:4, 10, 12, 18, 21, 31.
+154 Gen 1:4, 10, 12, 18, 21, 31.
 155 Cf. DS 286; 455-463; 800; 1333; 3002.
-156Ps 8:1; cf. Sir 43:28.
+156 Ps 8:1; cf. Sir 43:28.
 157 Ps 145:3.
-158Acts 17:28.
+158 Acts 17:28.
 159 St. Augustine, Conf: 3, 6, 11: PL 32, 688.
 160 Wis 11:24-26.
 161 Vatican Council I, Dei Filius I: DS 3003; cf. Wis 8:1; Heb 4:13.
-162Ps 115:3.
+162 Ps 115:3.
 163 Rev 3:7.
 164 Prov 19:21.
 165 Cf. Is 10:5-15; 45:51; Dt 32:39; Sir 11:14.
@@ -1134,7 +1134,7 @@ IN BRIEF
 168 Cf. Gen 1:26-28.
 169 Cf. Col 1:24.
 170 I Cor 3:9; I Th 3:2; Col 4:11.
-171Phil 2:13; cf. I Cor 12:6.
+171 Phil 2:13; cf. I Cor 12:6.
 172 GS 36 # 3.
 173 Cf. Mt 19:26; Jn 15:5; 14:13
 174 Cf. St.Thomas Aquinas, STh I, 25, 6.
@@ -1147,7 +1147,7 @@ IN BRIEF
 181 St. Catherine of Siena, Dialogue IV, 138 "On Divine Providence".
 182 The Correspondence of Sir Thomas More, ed. Elizabeth F. Rogers (Princeton: Princeton University Press, 1947), letter 206, lines 661- 663.
 183 Julian of Norwich, the Revelations of Divine Love, tr. James Walshe SJ (London: 1961), ch. 32, 99-100.
-184I Cor 13:12.
+184 I Cor 13:12.
 185 Cf. Gen 2:2.
 -
 
@@ -1197,18 +1197,18 @@ together for the benefit of us all" (St. Thomas Aquinas, STh I, 114, 3, ad 3).
 352 The Church venerates the angels who help her on her earthly pilgrimage and protect every human being.
 353 God willed the diversity of his creatures and their own particular goodness, their interdependence and their order. He destined all material creatures for the good of the human race. Man, and through him all creation, is destined for the glory of God.
 354 Respect for laws inscribed in creation and the relations which derive from the nature of things is a principle of wisdom and a foundation for morality.
-186Pss 115:16; 19:2; Mt 5:16.
+186 Pss 115:16; 19:2; Mt 5:16.
 187 Lateran Council IV (1215): DS 800; cf. DS 3002 and Paul VI, CPG # 8.
 188 St. Augustine, En. in Ps. 103, 1, 15: PL 37, 1348.
-189Mt 18:10; Ps 103:20.
+189 Mt 18:10; Ps 103:20.
 190 Cf. Pius XII, Humani generis: DS 3891; Lk 20:36; Dan 10:9- 12.
 191 Mt 25:31.
 192 Col 1:16.
 193 Heb 1:14.
 194 Cf. Job 38:7 (where angels are called "sons of God"); Gen 3:24; 19; 21: 17; 22:11; Acts 7:53; Ex 23:20-23; Judg 13; 6:11-24; Is 6:6; 1 Kings 19:5.
 195 Cf. Lk 1:11, 26.
-196Heb 1:6.
-197Lk 2:14.
+196 Heb 1:6.
+197 Lk 2:14.
 198 Cf. Mt 1:20; 2:13 19; 4:11; 26:53; Mk 1:13; Lk 22:43; Macc 10:29-30; 11:8.
 199 Cf. Lk 2:8-14; Mk 16:5-7.
 200 Cf. Acts 1:10-11; Mt 13:41; 24:31; Lk 12:8-9. the angels in the life of the Church
@@ -1290,7 +1290,7 @@ IN BRIEF
 226 Acts 17:26; cf. Tob 8:6.
 227 Pius XII. Enc. Summi pontificatus 3; cf. NA 1.
 228 Pius XII Summi pontificatus 3.
-229Gen 2:7.
+229 Gen 2:7.
 230 Cf. Mt 16:25-26; Jn 15:13; Acts 2:41
 231 Cf. Mt 10:28; 26:38; Jn 12:27; 2 Macc 6 30.
 232 Cf. I Cor 6:19-20; 15:44-45.
@@ -1303,7 +1303,7 @@ IN BRIEF
 239 Cf. Jer 31:33; Dt 6:5; 29:3; Is 29:13; Ezek 36:26; Mt 6:21; Lk 8:15; Rom 5:5.
 240 Cf. Gen 2:7, 22.
 241 Cf. Is 49:14-15; 66: 13; Ps 131:2-3; Hos 11:1-4; Jer 3:4- 19.
-242Gen 2:18.
+242 Gen 2:18.
 243 Gen 2:19-20.
 244 Gen 2:23
 245 Gen 2:24
@@ -1422,7 +1422,7 @@ himself up against God, and sought to attain his goal apart from him" (GS 13 # 1
 297 Cf. DS 1510-1516.
 298 Council of Trent (1546): DS 1511; cf. Heb 2:14.
 299 Cf. John Paul II, CA 25.
-300Jn 1:29.
+300 Jn 1:29.
 301 Cf. John Paul II, RP 16.
 302 I Jn 5:19; cf. I Pt 5:8.
 303 GS 37 3 2.
@@ -1453,12 +1453,12 @@ catechist should be able to apply to himself the mysterious words of Jesus: 'My 
 3 Mk 1:11; cf. Lk 1:5, 68.
 4 Jn 13:3.
 5 Jn 3:13; 6:33.
-61 Jn 4:2.
+6 1 Jn 4:2.
 7 Jn 1:14,16.
 8 Mt 16:16.
 9 Cf. Mt 16:18; St. Leo the Great, Sermo 4 3: PL 54,150 - 152; 51,1: PL 54, 309B; 62, 2: PL 54, 350-351; 83, 3: PL 54, 431-432.
 10 Eph 3:8.
-11Acts 4:20.
+11 Acts 4:20.
 12 1 Jn 1:1-4.
 13 CT 5.
 14 CT 5.
@@ -1505,16 +1505,16 @@ life as a ransom for many."41 Hence the true meaning of his kingship is revealed
 29 Cf. Ex 29:7; Lev 8:12; 1 Sam 9:16; 10:1; 16:1, 12-13; I Kings 1:39; 19:16.
 30 Cf. Ps 2:2; Acts 4:26-27.
 31 Cf. Is 11:2; 61:1; Zech 4:14; 6:13; Lk 4:16-21.
-32Lk 2:11.
+32 Lk 2:11.
 33 Jn 10:36; cf. Lk 1:35.
-34Mt 1:20; cf. 1:16; Rom 1:1; 2 Tim 2:8; Rev 22:16.
+34 Mt 1:20; cf. 1:16; Rom 1:1; 2 Tim 2:8; Rev 22:16.
 35 St. Irenaeus, Adv. haeres. 3,18,3: PG 7/1, 934.
 36 Acts 10:38; Jn 1:31.
 37 Mk 1:24; Jn 6:69; Acts 3:14.
 38 Cf Mt 2:2; 9:27; 12:23; 15:22; 20:30; 21:9.15.
 39 Cf. Jn 4:25-26; 6:15; 11:27; Mt 22:41-46; Lk 24:21.
 40 Cf. Mt 16:16-23.
-41Jn 3:13; Mt 20:28; cf. Jn 6:62; Dan 7:13; Is 53:10-12.
+41 Jn 3:13; Mt 20:28; cf. Jn 6:62; Dan 7:13; Is 53:10-12.
 42 Cf. Jn 19:19-22; Lk 23:39-43.
 43 Acts 2:36.
 
@@ -1531,13 +1531,13 @@ Christian confession is already heard. Only in the Paschal mystery can the belie
 445 After his Resurrection, Jesus' divine sonship becomes manifest in the power of his glorified humanity. He was "designated Son of God in power according to the Spirit of holiness by his Resurrection from the dead".57 The apostles can confess: "We have beheld his glory, glory as of the only Son from the Father, full of grace and truth."58
 44 Cf. Dt 14:1; (LXX) 32:8; Job 1:6; Ex 4:22; Hos 2:1; 11:1; Jer 3:19; Sir 36:11; Wis 18:13; 2 Sam 7:14; Ps 82:6.
 45 Cf. I Chr 17:13; Ps 2:7; Mt 27:54; Lk 23:47.
-46Mt 16:16-17.
-47Gal 1:15-16.
-48Acts 9:20.
+46 Mt 16:16-17.
+47 Gal 1:15-16.
+48 Acts 9:20.
 49 Cf. I Th 1:10; Jn 20:31; Mt 16:18.
-50Lk 22:70; cf. Mt 26:64; Mk 14:61-62.
+50 Lk 22:70; cf. Mt 26:64; Mk 14:61-62.
 51 Cf. Mt 11:27; 21:34-38; 24:36.
-52Mt 5:48; 6:8-9; 7:21; Lk 11:13; Jn 20:17.
+52 Mt 5:48; 6:8-9; 7:21; Lk 11:13; Jn 20:17.
 53 Cf. Mt 3:17; cf. 17:5.
 54 Jn 3:16; cf. 10:36.
 55 Jn 3:18.
@@ -1634,8 +1634,8 @@ became incarnate; without losing his divine nature he has assumed human nature.
 71 St. Gregory of Nyssa, Orat. catech 15: PG 45, 48B.
 72 I Jn 4:9.
 73 Jn 3:16.
-74Mt 11:29; Jn 14:6.
-75Mk 9:7; cf. Dt 6:4-5.
+74 Mt 11:29; Jn 14:6.
+75 Mk 9:7; cf. Dt 6:4-5.
 76 Jn 15:12.
 77 Cf. Mk 8:34.
 78 2 Pt 1:4.
@@ -1643,7 +1643,7 @@ became incarnate; without losing his divine nature he has assumed human nature.
 80 St. Athanasius, De inc. 54, 3: PG 25, 192B.
 81 St. Thomas Aquinas, Opusc. 57, 1-4.
 82 Jn 1:14.
-83Phil 2:5-8; cf. LH, Saturday, Canticle at Evening Prayer.
+83 Phil 2:5-8; cf. LH, Saturday, Canticle at Evening Prayer.
 84 Heb 10:5-7, citing Ps 40:6-8 (7-9 LXX).
 85 I Jn 4:2.
 86 1 Tim 3:16.
@@ -1735,15 +1735,15 @@ IN BRIEF
 122 Cf. Jn 16:14-15.
 123 Cf. Mt 1:20; 2:1 12; Lk 1:35; 2:8-20; Jn 1:3 1-34; 2:11.
 124 Acts 10:38.
-125Gal 4:4; Heb 10:5.
-126Lk 1:26-27.
+125 Gal 4:4; Heb 10:5.
+126 Lk 1:26-27.
 127 LG 56; cf. LG 61.
 128 Cf. Gen 3:15, 20.
 129 Cf. Gen 18:10-14; 21:1-2.
 130 Cf. I Cor 1:17; I Sam 1.
 131 LG 55.
 132 LG 56.
-133Lk 1:28.
+133 Lk 1:28.
 134 Lk 1:28.
 135 Pius IX, Ineffabilis Deus (1854): DS 2803.
 136 LG 53, 56.
@@ -1754,11 +1754,11 @@ IN BRIEF
 141 St. Irenaeus, Adv. haeres. 3, 22, 4: PG 7/1, 959A.
 142 St. Irenaeus, Adv. haeres. 3, 22, 4: PG 7/1, 959A.
 143 LC 56; St. Epiphanius, Panarion 2, 78, 18: PG 42, 728CD- 729AB; St. Jerome, Ep. 22, 21: PL 22, 408.
-144Lk 1:43; Jn 2:1; 19:25; cf. Mt 13:55; et al.
+144 Lk 1:43; Jn 2:1; 19:25; cf. Mt 13:55; et al.
 145 Council of Ephesus (431): DS 251.
 146 Council of the Lateran (649): DS 503; cf. DS 10-64.
 147 St. Ignatius of Antioch, Ad Smyrn 1-2: Apostolic Fathers, ed. J. B. Lightfoot (London: Macmillan, 1889), 11/2, 289-293; SCh 10, 154- 156; cf. Rom 1:3; Jn 1:13.
-148Mt 1 18-25; Lk 1:26-38.
+148 Mt 1 18-25; Lk 1:26-38.
 149 Mt 1:20.
 150 Is 7:14 (LXX), quoted in Mt 1:23 (Greek).
 151 Cf. St. Justin, Dial. 99, 7: PG 6, 708-709; Origen, Contra Celsum 1, 32, 69: PG 11, 720-721; et al.
@@ -1768,15 +1768,15 @@ IN BRIEF
 155  LG 57.
 156  Cf. LG 52.
 157  Cf. Mk 3:31-35; 6:3; I Cor 9:5; Gal 1:19.
-158Mt 13:55; 28:1; cf. Mt 27:56.
+158 Mt 13:55; 28:1; cf. Mt 27:56.
 159 Cf. Gen 13:8; 14:16; 29:15; etc.
 160 LG 63; cf. Jn 19:26-27; Rom 8:29; Rev 12:17.
 161 Council of Friuli (796): DS 619; cf. Lk 2:48-49.
-162I Cor 15:45, 47.
+162 I Cor 15:45, 47.
 163 Jn 3:34.
-164Jn 1:16; cf. Col 1:18.
+164 Jn 1:16; cf. Col 1:18.
 165 Lk 1:34; cf. Jn 3:9.
-166Jn 1:13.
+166 Jn 1:13.
 167 Cf. 2 Cor 11:2.
 168 LG 63; cf. l Cor 7:34-35.
 169 St. Augustine, De virg. 3: PL 40, 398.
@@ -1889,10 +1889,10 @@ IN BRIEF
 172 Cf. Jn 20:30.
 173 Jn 20:31.
 174 Cf. Mk 1:1; Jn 21:24.
-175Cf. Lk 2:7; Mt 27: 48; Jn 20:7.
-176Col 2:9.
+175 Cf. Lk 2:7; Mt 27: 48; Jn 20:7.
+176 Col 2:9.
 177 Jn 14:9; Lk 9:35; cf. Mt 17:5; Mk 9:7, "my beloved Son".
-178Jn 4:9.
+178 Jn 4:9.
 179 Cf. Eph 1:7; Col 1:13-14; 2 Pt 1:18-19.
 180 Cf. 2 Cor 8:9.
 181 Cf. Lk 2:51.
@@ -1904,35 +1904,35 @@ IN BRIEF
 187 John Paul II, RH II.
 188 I Cor 15:3; Rom 4:25.
 189 I Jn 2:1 Heb 7:25.
-190Heb 9:24.
+190 Heb 9:24.
 191 GS 38; cf. Rom 1 5:5; Phil 2:5.
 192 Cf. Jn 13:15; Lk 11:1; Mt 5:11-12.
 193 GS 22 # 2.
 194 St. John Eudes: LH, week 33, Friday, OR.
 195 Heb 9:15.
 196 Cf. Acts 13:24; Mt 3:3.
-197Lk 1:76; cf. 7:26; Mt 11:13.
-198Jn 1 29; cf. Acts 1:22; Lk 1:41; 16:16; Jn 3:29.
-199Lk 1:17; cf. Mk 6:17-29.
+197 Lk 1:76; cf. 7:26; Mt 11:13.
+198 Jn 1 29; cf. Acts 1:22; Lk 1:41; 16:16; Jn 3:29.
+199 Lk 1:17; cf. Mk 6:17-29.
 200 Cf Rev 22:17.
-201Jn 3:30.
+201 Jn 3:30.
 202 Cf. Lk 2:61.
 203 Cf. Lk 2:8-20.
 204 Kontakion of Romanos the Melodist.
 205 Cf. Mt 18:3-4.
-206Jn 3 7; 1:13; 1:12; cf. Mt 23:12.
+206 Jn 3 7; 1:13; 1:12; cf. Mt 23:12.
 207 Cf. Gal 4:19.
 208 LH, 1 January, Antiphon I of Evening Prayer.
 209 Cf. Lk 2:21.
 210 Cf. Gal 4:4.
 211 Cf. Col 2:11-13.
-212Mt 2:1; cf. LH, Epiphany, Evening Prayer II, Antiphon at the Canticle of Mary.
+212 Mt 2:1; cf. LH, Epiphany, Evening Prayer II, Antiphon at the Canticle of Mary.
 213 Cf Mt 2:2; Num 24:17-19; Rev 22:16.
 214 Cf Jn 4 22; Mt 2:4-6.
 215 St. Leo the Great, Sermo 3 in epiphania Domini 1-3, 5: PL 54, 242; LH, Epiphany, OR; Roman Missal, Easter Vigil 26, Prayer after the third reading.
 216 Cf. Lk 2:22-39; EX 13:2, 12-13.
 217 Cf. Mt 2:13-18.
-218Jn 1:11.
+218 Jn 1:11.
 219 Cf. Jn 15:20.
 220 Cf. Mt 2:15; Hos 11:1.
 221 Cf. Gal 4:4.
@@ -1943,16 +1943,16 @@ IN BRIEF
 226 Cf. Lk 2:41-52.
 227 Lk 2:49 alt.
 228 Cf. Lk 3:23; Acts 1:22.
-229Lk 3:3.
+229 Lk 3:3.
 230 Cf. Lk 3:10-14; Mt 3:7; 21:32.
 231 Mt 3:13-17.
 232 Jn 1:29; cf. Is 53:12.
 233 Cf. Mk 10:38; Lk 12:50.
-234Mt 3:15; cf. 26:39.
+234 Mt 3:15; cf. 26:39.
 235 Cf. Lk 3:22; Is 42:1.
 236 Jn 1:32-33; cf. Is 11:2.
-237Mt 3:16.
-238Rom 6:4.
+237 Mt 3:16.
+238 Rom 6:4.
 239 St. Gregory of Nazianzus, Oratio 40, 9: PG 36, 369.
 240 St. Hilary of Poitiers, In Matth. 2, 5: PL 9, 927.
 241 Cf. Mk 1:12-13.
@@ -1967,13 +1967,13 @@ IN BRIEF
 250 Jn 12:32; cf. LG 3.
 251 Cf. Mt 8:11 10:5-7; 28:19.
 252 LC 5; cf. Mk 4:14, 26-29; Lk 12:32.
-253Lk 4:18; cf. 7:22.
-254Mt 5:3.
+253 Lk 4:18; cf. 7:22.
+254 Mt 5:3.
 255 Cf. Mt 11:25.
 256 Cf. Mt 21:18; Mk 2:23-26; Jn 4:6 1; 19:28; Lk 9:58.
 257 Cf. Mt 25:31-46.
 258 Mk 2:17; cf. l Tim 1:15.
-259Lk 15:7; cf. 7:11-32.
+259 Lk 15:7; cf. 7:11-32.
 260 Mt 26:28.
 261 Cf. Mk 4:33-34.
 262 Cf. Mt 13:44-45; 22:1-14.
@@ -1981,8 +1981,8 @@ IN BRIEF
 264 Cf. Mt 13:3-9.
 265 Cf. t 25:14-30.
 266 Mt 13:11.
-267Mk 4:11; cf. Mt 13:10-15.
-268Acts 2:22; cf. Lk 7:18-23.
+267 Mk 4:11; cf. Mt 13:10-15.
+268 Acts 2:22; cf. Lk 7:18-23.
 269 cf. Jn 5:36; 10:25, 38.
 270 Cf. Mk 5:25-34; 10:52; etc.
 271 Cf. Jn 10:31-38.
@@ -1991,8 +1991,8 @@ IN BRIEF
 274 Cf. Jn 6:5-15; Lk 19:8; Mt 11:5.
 275 Cf. Lk 12 13-14; Jn 18:36.
 276 Cf. Jn 8:34-36.
-277Mt 12:26, 28.
-278Jn 12:31; cf. Lk 8:26-39.
+277 Mt 12:26, 28.
+278 Jn 12:31; cf. Lk 8:26-39.
 279 LH, Lent, Holy Week, Evening Prayer, Hymn Vexilla Regis: Regnavit a ligno Deus.
 280 Cf. Mk 3:13-19.
 281 Lk 9:2.
@@ -2001,26 +2001,26 @@ IN BRIEF
 284 Mt 16:18.
 285 I Pt 2:4.
 286 Cf. Lk 22:32.
-287Mt 16:19.
+287 Mt 16:19.
 288 Jn 21:15-17; Cf. 10:11.
 289 Cf. Mt 18:18.
 290 Mt 16:21.
 291 Cf. Mt 16:22-23; 17:23; Lk 9:45.
 292 Cf. Mt 17:1-8 and parallels; 2 Pt 1:16-18.
 293 Lk 9:31.
-294Lk 9:35.
-295Lk 24:26.
+294 Lk 9:35.
+295 Lk 24:26.
 296 Cf. Lk 24:27.
 297 Cf. Is 42:1.
 298 St. Thomas Aquinas, STh III, 45, 4, ad 2.
 299 Byzantine Liturgy, Feast of the Transfiguration, Kontakion.
 300 St. Thomas Aquinas, STh III, 45, 4, ad 2.
-301Phil 3:21.
-302Acts 14:22.
+301 Phil 3:21.
+302 Acts 14:22.
 303 St. Augustine, Sermo 78, 6: PL 38, 492-493; cf. Lk 9:33.
-304Lk 9:51; cf. Jn 13:1.
+304 Lk 9:51; cf. Jn 13:1.
 305 Lk 13:33; cf. Mk 8:31-33; 9:31-32; 10:32-34.
-306Mt 23:37.
+306 Mt 23:37.
 307 Lk 19:41-42.
 308 Lk 1:32; cf. Mt 21:1-11; Jn 6:15.
 309 Ps 24:7-10; Zech 9:9.
@@ -2038,7 +2038,7 @@ Article 4
 573 Faith can therefore try to examine the circumstances of Jesus' death, faithfully handed on by the Gospels316 and illuminated by other historical sources, the better to understand the meaning of the Redemption.
 313 Heb 9:26.
 314 Lk 24:26-27, 44-45.
-315Mk 8:31; Mt 20:19.
+315 Mk 8:31; Mt 20:19.
 316 Cf. DV 19.
 
 PART ONE:THE PROFESSION OF FAITH
@@ -2078,32 +2078,32 @@ IN BRIEF
 318 Cf. Mt 12:24; Mk 2:7, 14-17; 3:1-6; 7:14-23.
 319 Cf. Mk 3:22; Jn 8:48; 10:20.
 320 Cf. Mk 2:7; Jn 5:18; 7:12, 52; 8:59; 10:31, 33.
-321Lk 2:34.
+321 Lk 2:34.
 322 Cf. Jn 1:19; 2:18; 5:10; 7:13; 9:22; 18:12; 19:38; 20:19.
-323Jn 7:48-49.
+323 Jn 7:48-49.
 324 Cf Lk 13:31.
 325 Cf. Lk 7:36; 14:1.
 326 Cf. Mt 22:23-34; Lk 20:39.
 327 Cf. Mt 6:18.
 328 Cf. Mk 12:28-34.
-329Mt 5:17-19.
+329 Mt 5:17-19.
 330 Mt 5:19.
 331 Cf. Jn 8:46.
 332 Cf. Jn 7:19; Acts 13:38-41; 15:10.
-333Jas 2:10; cf. Gal 3:10; 5:3.
+333 Jas 2:10; cf. Gal 3:10; 5:3.
 334 Cf. Rom 10:2.
 335 Cf. Mt 15:31; Lk 11:39-54.
 336 Cf Is 53:11; Heb 9:15.
 337 Cf. Gal 4:4.
 338 Jer 31:33; Is 42:3, 6.
-339Gal 3:13; 3:10; Heb 9:15.
+339 Gal 3:13; 3:10; Heb 9:15.
 340 Cf Jn 11:28; 3:2; Mt 22:23-24, 34-36.
 341 Cf. Mt 12:5; 9:12; Mk 2:23-27; Lk 6:6-g; Jn 7:22-23.
-342Mt 7:28-29.
+342 Mt 7:28-29.
 343 Cf. Mt 5:1.
-344Mt 5:33-34.
+344 Mt 5:33-34.
 345 Mk 7:13; cf. 3:8.
-346Mk 7:18-21; cf. Gal 3:24.
+346 Mk 7:18-21; cf. Gal 3:24.
 347 Cf. Jn 5:36; 10:25, 37-38; 12:37.
 348 Cf. Num 28 9; Mt 12:5; Mk 2:25-27; Lk 13:15-16; 14:3-4; Jn 7:22-24.
 349 Lk 2:22-39.
@@ -2122,15 +2122,15 @@ IN BRIEF
 362 Jn 4:21; cf. 4:23-24; Mt 27:5; Heb 9:11; Rev 21:22.
 363 Cf. Lk 2:34; 20:17-18; Ps 118:22.
 364 Cf. Lk 5:30; 7:36; 11:37; 14:1.
-365Lk 18:9; 5:32; cf. Jn 7:49; 9:34.
+365 Lk 18:9; 5:32; cf. Jn 7:49; 9:34.
 366 Cf. Jn 8:33-36; 9:40-41.
 367 Cf. Mt 9:13; Hos 6:6.
 368 Cf. Lk 15:1-2, 22-32.
 369 Mk 2:7.
 370 Cf. Jn 5:18; 10:33; 17:6,26.
 371 Cf. Mt 12:6, 30, 36, 37, 41-42.
-372Jn 8:58; 10:30.
-373Jn 10:36-38.
+372 Jn 8:58; 10:30.
+373 Jn 10:36-38.
 374 Cf. Jn 3:7; 6:44.
 375 Cf. Is 53:1.
 376 Cf. Mk 3:6; Mt 26:64-66.
@@ -2223,16 +2223,16 @@ IN BRIEF
 401 Cf. Lk 24:25-27, 44-45.
 402 I Pt 1:18-20.
 403 Cf. Rom 5:12; I Cor 15:56.
-4042 Cor 5:21; cf. Phil 2:7; Rom 8:3.
+404 2 Cor 5:21; cf. Phil 2:7; Rom 8:3.
 405 Cf. Jn 8:46.
-406Mk 15:34; Ps 22:2; cf. Jn 8:29.
-407Rom 8:32; 5:10.
-408I John 4:10; 4:19.
+406 Mk 15:34; Ps 22:2; cf. Jn 8:29.
+407 Rom 8:32; 5:10.
+408 I John 4:10; 4:19.
 409 Rom 5:8.
-410Mt 18:14.
-411Mt 20:28; cf. Rom 5:18-19.
+410 Mt 18:14.
+411 Mt 20:28; cf. Rom 5:18-19.
 412 Council of Quiercy (853): DS 624; cf. 2 Cor 5:15; I Jn 2:2.
-413Jn 6:38.
+413 Jn 6:38.
 414 Heb 10:5-10.
 415 Jn 4:34.
 416 1 Jn 2:2.
@@ -2241,16 +2241,16 @@ IN BRIEF
 419 Jn 12:27.
 420 Jn 18:11.
 421 Jn 19:30; 19:28.
-422Jn 1:29; cf. Lk 3:21; Mt 3:14-15; Jn 1:36.
-423Is 53:7, 12; cf. Jer 11:19; Ex 12:3-14; Jn 19:36; 1 Cor 5:7.
+422 Jn 1:29; cf. Lk 3:21; Mt 3:14-15; Jn 1:36.
+423 Is 53:7, 12; cf. Jer 11:19; Ex 12:3-14; Jn 19:36; 1 Cor 5:7.
 424 Mk 10:45.
-425Jn 13:1; 15:13.
+425 Jn 13:1; 15:13.
 426 Cf. Heb 2:10, 17-18; 4:15; 5:7-9.
-427Jn 10:18.
+427 Jn 10:18.
 428 Cf. Jn 18:4-6; Mt 26:53.
 429 Roman Missal, EP III; cf. Mt 26:20; I Cor 11:23.
 430 Lk 22:19; Mt 26:28; cf. I5.7Cor 5:7.
-4311 Cor 11:25.
+431 1 Cor 11:25.
 432 Cf. Lk 22:19.
 433 Jn 17:19; cf. Council of Trent: DS 1752; 1764.
 434 Cf. Mt 26:42; Lk 22:20.
@@ -2258,7 +2258,7 @@ IN BRIEF
 436 Cf. Rom 5:12; Heb 4:15.
 437 Cf. Acts 3:15; Rev 1:17; Jn 1:4; 5:26.
 438 2 Pt 224; cf. Mt 26:42.
-439Jn 1:29; cf. 8:34-36; 1 Cor 5:7; 2 Pt 1:19.
+439 Jn 1:29; cf. 8:34-36; 1 Cor 5:7; 2 Pt 1:19.
 440 Mt 26:28; cf. Ex 24:8; Lev 16:15-16; 2 Cor 11:25.
 441 Cf. Heb 10:10.
 442 Cf. Jn 10:17-18; 15:13; Heb 9:14; 1 Jn 4:10.
@@ -2267,7 +2267,7 @@ IN BRIEF
 445 Cf. Council of Trent (1547): DS 1529.
 446 Jn 13:1.
 447 Cf. Gal 2:20; Eph 5:2, 25.
-4482 Cor 5:14.
+448 2 Cor 5:14.
 449 Heb 5:9.
 450 Council of Trent: DS 1529.
 451 LH, Lent, Holy Week, Evening Prayer, Hymn Vexilla Regis.
@@ -2307,10 +2307,10 @@ IN BRIEF
 464 Cf Col 1: 18-20.
 465 Rev 1:18.
 466 St. Gregory of Nyssa, Orat. catech. 16: PG 45, 52D.
-467Acts 3:15.
+467 Acts 3:15.
 468 Lk 24:5-6.
 469 St. John Damascene, De fide orth. 3, 27: PG 94, 1097.
-469Bis Acts 2:24.
+469 Bis Acts 2:24.
 470 St. Thomas Aquinas, STh III, 51, 3.
 471 Is 53:8.
 472 Acts 2:26-27; cf. Ps 16:9-10.
@@ -2347,9 +2347,9 @@ IN BRIEF
 481 Roman Catechism 1, 6, 3.
 482 Cf. Council of Rome (745): DS 587; Benedict XII, Cum dudum (1341): DS 1011; Clement VI, Super quibusdam (1351): DS 1077; Council of Toledo IV (625): DS 485; Mt 27:52-53.
 483 I Pt 4:6.
-484Jn 5:25; cf. Mt 12:40; Rom 10:7; Eph 4:9.
-485Heb 2:14-15; cf. Acts 3:15.
-486Rev 1:18; Phil 2:10.
+484 Jn 5:25; cf. Mt 12:40; Rom 10:7; Eph 4:9.
+485 Heb 2:14-15; cf. Acts 3:15.
+486 Rev 1:18; Phil 2:10.
 487 Ancient Homily for Holy Saturday: PG 43, 440A, 452C; LH, Holy Saturday, OR.
 
 PART ONE:THE PROFESSION OF FAITH
@@ -2392,38 +2392,38 @@ IN BRIEF
 489 Byzantine Liturgy,Troparion of Easter.
 490 I Cor 15:3-4.
 491 Cf. Acts 9:3-18.
-492Lk 24:5-6.
+492 Lk 24:5-6.
 493 Cf. Jn 20:13; Mt 28:11-15.
 494 Cf. Lk 24:3, 12, 22-23.
 495 Jn 20:2, 6, 8.
 496 Cf. Jn 11:44; 20:5-7.
-497Mk 16:1; Lk 24:1; Jn 19:31, 42.
+497 Mk 16:1; Lk 24:1; Jn 19:31, 42.
 498 Cf Lk 24:9-10; Mt 28:9-10; Jn 20:11-18.
 499 Cf I Cor 15:5; Lk 22:31-32.
-500Lk 24:34, 36.
-501I Cor 15:4-8; cf. Acts 1:22.
+500 Lk 24:34, 36.
+501 I Cor 15:4-8; cf. Acts 1:22.
 502 Cf. Lk 22:31-32.
 503 1 Lk 24:17; cf. Jn 20:19.
 504 Lk 24:11; cf. Mk 16:11, 13.
-505Mk 16:14.
+505 Mk 16:14.
 506 Lk 24:38-41.
 507 Cf Jn 20:24-27; Mt 28:17.
 508 Cf. Lk 24:30, 39-40, 41-43; Jn 20:20, 27; 21:9, 13-15.
-509Cf. Mt 28:9, 16-17; Lk 24:15, 36; Jn 20:14, 17, 19, 26; 21:4.
+509 Cf. Mt 28:9, 16-17; Lk 24:15, 36; Jn 20:14, 17, 19, 26; 21:4.
 510 Cf. Mk 16:12; Jn 20:14-16; 21:4, 7.
 511 Cf. 1 Cor 15:35-50.
 512 O vere beata nox, quae sola meruit scire tempus et horam, in qua Christus ab inferis resurrexit!
 513 Acts 13:31; cf. Jn 14:22.
-514Rom I 3-4; cf. Acts 2:24.
+514 Rom I 3-4; cf. Acts 2:24.
 515 Cf. Rom 6:4; 2 Cor 13:4; Phil 3:10; Eph 1:19-22; Heb 7:16.
 516 Cf. Mk 8:31; 9:9-31; 10:34.
-517Jn 10:17-18.
-518I Th 4:14.
+517 Jn 10:17-18.
+518 I Th 4:14.
 519 St. Gregory of Nyssa, In Christi res. Orat. I: PG 46, 617B; cf. also DS 325; 359; 369.
 520 I Cor 15:14.
 521 Cf. Mt 28:6; Mk 16:7; Lk 24:6-7, 26-27, 44-48.
 522 Cf. I Cor 15:3-4; cf. the Nicene Creed.
-523Jn 8:28.
+523 Jn 8:28.
 524 Acts 13:32-33; cf. Ps 2:7.
 526 Cf. Eph 2:4-5; I Pt 1:3.
 527 Mt 28:10; Jn 20:17.
@@ -2450,7 +2450,7 @@ glory of the risen Christ and that of the Christ exalted to the Father's right h
 536 Jn 20:17.
 537 Cf. Jn 16:28.
 538 Jn 3:13; cf. Eph 4:8-10.
-539Jn 14:2.
+539 Jn 14:2.
 540 Missale Romanum, Preface of the Ascension: sed ut illuc confideremus, sua membra, nos subsequi quo ipse, caput nostrum principiumque, praecessit.
 541 Jn 12:32.
 542 Heb 9:24.
@@ -2491,7 +2491,7 @@ The Church's ultimate trial
 677 The Church will enter the glory of the kingdom only through this final Passover, when she will follow her Lord in his death and Resurrection.578 The kingdom will be fulfilled, then, not by a historic triumph of the Church through a progressive ascendancy, but only by God's victory over the final unleashing of evil, which will cause his Bride to come down from heaven.579 God's triumph over the revolt of evil will take the form of the Last Judgement after the final cosmic upheaval of this passing world.580
 548 Rom 14:9.
 549 Eph 1:20-22.
-550Eph 1:10; cf. 4:10; 1 Cor 15:24, 27-28.
+550 Eph 1:10; cf. 4:10; 1 Cor 15:24, 27-28.
 551 Cf. Eph 1:22.
 552 LG 3; 5; cf. Eph 4:11-13.
 553 I Jn 2:18; cf. I Pt 4:7.
@@ -2507,13 +2507,13 @@ The Church's ultimate trial
 563 Cf. Acts 1:8; I Cor 7:26; Eph 5:16; I Pt 4:17.
 564 Cf. Mt 25:1, 13; Mk 13:33-37; I Jn 2:18; 4:3; I Tim 4:1.
 565 Cf. Rev 22:20.
-566Acts 1:7; Cf. Mk 13:32.
+566 Acts 1:7; Cf. Mk 13:32.
 567 Cf. Mt 24:44; I Th 5:2; 2 Th 2:3-12.
-568Rom I 1:20-26; cf. Mt 23:39.
+568 Rom I 1:20-26; cf. Mt 23:39.
 569 Acts 3:19-21.
-570Rom 11:15.
-571Rom 11:12, 25; cf. Lk 21:24.
-572Eph 4:13; I Cor 15:28.
+570 Rom 11:15.
+571 Rom 11:12, 25; cf. Lk 21:24.
+572 Eph 4:13; I Cor 15:28.
 573 Cf. Lk 18:8; Mt 24:12.
 574 Cf. Lk 21:12; Jn 15:19-20.
 575 Cf. 2Th 2:4-12; ITh 5:2-3; 2 Jn 7; I Jn 2:1 8, 22.
@@ -2535,8 +2535,8 @@ neighbour will disclose acceptance or refusal of grace and divine love.584 On th
 582 Cf Mk 12:38-40; Lk 12:1-3; Jn 3:20-21; Rom 2:16; I Cor 4:5.
 583 Cf. Mt 11:20-24; 12:41-42.
 584 Cf. Mt 5:22; 7:1-5.
-585Mt 25:40.
-586Jn 5:22; cf. 5:27; Mt 25:31; Acts 10:42; 17:31; 2 Tim 4:1.
+585 Mt 25:40.
+586 Jn 5:22; cf. 5:27; Mt 25:31; Acts 10:42; 17:31; 2 Tim 4:1.
 587 Cf. Jn 3:17; 5:26.
 588 Cf. Jn 3:18; 12:48; Mt 12:32; I Cor 3:12-15; Heb 6:4-6; 10:26-31.
 
@@ -2582,7 +2582,7 @@ ARTICLE 8 "I BELIEVE IN THE HOLY SPIRIT"
 - in the witness of saints through whom he manifests his holiness and continues the work of salvation.
 7 1 Cor 2:11.
 8 Jn 16:13.
-9Jn 14:17.
+9 Jn 14:17.
 
 PART ONE:THE PROFESSION OF FAITH
 SECTION TWO: I. THE CREEDS
@@ -2594,7 +2594,7 @@ I.The Joint Mission of the Son and the Spirit
 The notion of anointing suggests . . . that there is no distance between the Son and the Spirit. Indeed, just as between the surface of the body and the anointing with oil neither reason nor sensation recognizes any intermediary, so the contact of the Son with the Spirit is immediate, so that anyone who would make contact with the Son by faith must first encounter the oil by contact. In fact there is no part that is not covered by the Holy Spirit.That is why the confession of the Son's Lordship is made in the Holy Spirit by those who receive him, the Spirit coming from all sides to those who approach the Son in faith.15
 10 Cf. Gal 4:6.
 11 Cf. Jn 3:34.
-12Jn 7:39.
+12 Jn 7:39.
 13 Cf. Jn 17:22.
 14 Cf. Jn 16:14.
 15 St. Gregory of Nyssa, De Spiritu Sancto, 16: PG 45, 1321A-B.
@@ -2629,9 +2629,9 @@ of the cloud, saying, 'This is my Son, my Chosen; listen to him!'"48 Finally, th
 21 Cf. Gal 3:14; Eph 1:13.
 22 Rom 8:15; Gal 4:6.
 23 Rom 8:9.
-242 Cor 3:17.
-25Rom 8:9, Rom 8:9 4; 15:19; 1 Cor 6:11; 7:40.
-261 Pet 4:14.
+24 2 Cor 3:17.
+25 Rom 8:9, Rom 8:9 4; 15:19; 1 Cor 6:11; 7:40.
+26 1 Pet 4:14.
 27 1 Cor 12:13.
 28 Jn 19:34; 1 Jn 5:8.
 29 Cf. Jn 4:10-14; 738; Ex 17:1-6; Isa 55:1; Zech 14:8; 1 Cor 10:4; Rev 21:6; 22:17.
@@ -2641,8 +2641,8 @@ of the cloud, saying, 'This is my Son, my Chosen; listen to him!'"48 Finally, th
 33 Cf. Lk 2:11, 26-27.
 34 Cf. Lk 4:1; 6:19; 8:46.
 35 Cf. Rom 1:4; 8:11.
-36Eph 4:13; cf. Acts 2:36.
-37Sir 48:1; cf. 1 Kings 18:38-39.
+36 Eph 4:13; cf. Acts 2:36.
+37 Sir 48:1; cf. 1 Kings 18:38-39.
 38 Lk 1:17; 3:16.
 39 Lk 12:49.
 40 Acts 2:3-4.
@@ -2653,14 +2653,14 @@ of the cloud, saying, 'This is my Son, my Chosen; listen to him!'"48 Finally, th
 45 Cf. Ex 40:36-38; 1 Cor 10:1-2.
 46 Cf. 1 Kings 8:10-12.
 47 Lk 1:35.
-48Lk 9:34-35.
+48 Lk 9:34-35.
 49 Cf. Acts 1:9; cf. Lk 21:27.
-50Jn 6:27; cf. 2 Cor 1:22; Eph 1:13; 4:30.
+50 Jn 6:27; cf. 2 Cor 1:22; Eph 1:13; 4:30.
 51 Cf. Mk 6:5; 8:23; 10:16.
 52 Cf. Mk 16:18; Acts 5:12; 14:3.
 53 Cf. Acts 8:17-19; 13:3; 19:6.
 54 Cf. Heb 6:2.
-55Lk 11:20.
+55 Lk 11:20.
 56 Ex 31:18; 2 Cor 3:3.
 57 LH, Easter Season after Ascension, Hymn at Vespers: digitus paternae dexterae.
 58 Cf. Gen 8:8-12.
@@ -2710,24 +2710,24 @@ The Spirit of the LORD God is upon me, because the LORD has anointed me to bring
 68 Cf. Gen 18:1-15; Lk 1:26-38. 54-55; Jn 1:12-13; Rom 4:16-21.
 69 Cf. Gen 12:3; Gal 3:16.
 70 Cf. In 11:52.
-71Eph 1:13-14; cf. Gen 22:17-19; Lk 1:73; Jn 3:16; Rom 8:32; Gal 3:14.
+71 Eph 1:13-14; cf. Gen 22:17-19; Lk 1:73; Jn 3:16; Rom 8:32; Gal 3:14.
 72 Cf. Ex 19- 20; Deut 1-11; 29-30.
-73Gal 3:24.
+73 Gal 3:24.
 74 Cf. Rom 3:20.
-75Ex 19:5-6; Cf. 1 Pet 2:9.
+75 Ex 19:5-6; Cf. 1 Pet 2:9.
 76 Cf. 2 Sam 7; Ps 89; Lk 1:32-33.
 77 Cf. Lk 24:26.
-78Isa 43:19.
+78 Isa 43:19.
 79 Cf. Zeph 2:3; Lk 2:25, 38.
-80Jn 12:41; cf. Isa 6-12.
-81Isa 11:1-2.
+80 Jn 12:41; cf. Isa 6-12.
+81 Isa 11:1-2.
 82 Cf. Isa 42:1-9; cf. Mt 12:18-21; Jn 1:32-34; then cf. Isa 49:1-6; cf. Mt 3:17; Lk 2:32; finally cf. Isa 50:4-10 and Isa 52:13-53:12.
-83Phil 2:7.
-84Isa 61:1-2; cf. Lk 4:18-19.
+83 Phil 2:7.
+84 Isa 61:1-2; cf. Lk 4:18-19.
 85 Cf. Ezek 11:19; 36:25-28; 37:1-14; Jer 31:31-34; and cf. Joel 3:1-5.
 86 Cf. Acts 2:17-21.
 87 Cf. Zeph 2:3; Pss 22:27; 34:3; Isa 49:13; 61:1; etc.
-88Lk 1:17.
+88 Lk 1:17.
 
 
 PART ONE:THE PROFESSION OF FAITH
@@ -2786,7 +2786,7 @@ Everything in the second chapter of: the Creed is to be read in this light. Chri
 118 Cf. Lk 23:46; Jn 19:30.
 119 Rom 6:4.
 120 Cf. Jn 20:22.
-121Jn 20:21; cf. Mt 28:19; Lk 24:47-48; Acts 1:8.
+121 Jn 20:21; cf. Mt 28:19; Lk 24:47-48; Acts 1:8.
 
 PART ONE:THE PROFESSION OF FAITH
 SECTION TWO: I. THE CREEDS
@@ -2812,12 +2812,12 @@ All of us who have received one and the same Spirit, that is, the Holy Spirit, a
 122 Cf. Acts 2:33-36.
 123 Byzantine liturgy, Pentecost Vespers, Troparion, repeated after communion.
 124 1 Jn 4:8,16.
-125Rom 5:5.
+125 Rom 5:5.
 126 2 Cor 13:14.
 127 1 Jn 4: 12; cf. Rom 8:23; 2 Cor 1:21.
 128 Acts 1:8; cf. 1 Cor 13
-129Gal 5:22-23.
-130Gal 5:25; cf. Mt 16:24-26.
+129 Gal 5:22-23.
+130 Gal 5:25; cf. Mt 16:24-26.
 131 St. Basil, De Spiritu Sancto, 15,36: PG 32,132.
 132 Jn 15:8, 16.
 133 St. Cyril of Alexandria, In Jo. ev., 11,11: PG 74, 561.
@@ -2925,7 +2925,7 @@ IN BRIEF
 153 Pastor Hermae, Vision 2, 4, 1: PG 2,899; cf. Aristides, Apol. 16, 6; St. Justin, Apol. 2,7: PG 6, 456; Tertullian, Apol. 31, 3; 32, 1: PL 1, 508-509.
 154 Cf. St. Epiphanius, Panarion 1, 1, 5: PG 41, 181C.
 155 Clement of Alex., Paed. 1, 6, 27: PG 8, 281.
-156Acts 10:35; cf. LG 9; 13; 16.
+156 Acts 10:35; cf. LG 9; 13; 16.
 157 Cf. Gen 12:2; 15:5-6.
 158 Cf. Ex 19:5-6; Deut 7:6; Isa 2:2-5; Mic 4:1-4.
 159 LG 9; cf. Hos 1; Isa 1:2-4; Jer 2; 31:31-34; Isa 55:3.
@@ -2934,7 +2934,7 @@ IN BRIEF
 162 LG 3.
 163 LG 5.
 164 LG 5.
-165Lk 12:32; cf. Mt 10:16; 26:31; In 10:1-21.
+165 Lk 12:32; cf. Mt 10:16; 26:31; In 10:1-21.
 166 Cf. Mt 12:49.
 167 Cf. Mt 5- 6.
 168 Cf. Mk 3:14-15.
@@ -2958,16 +2958,16 @@ IN BRIEF
 186 LG 8.
 187 SC 2, Cf. Heb 13:14.
 188 St. Bernard of Clairvaux, In Cant. Sermo 27:14 PL 183:920D.
-189Eph 1:10.
-190Eph 5:32; 3:9-11; 5:25-27.
-191Col 1:27.
-1921 Cor 13:8; cf. LG 48.
+189 Eph 1:10.
+190 Eph 5:32; 3:9-11; 5:25-27.
+191 Col 1:27.
+192 1 Cor 13:8; cf. LG 48.
 193 John Paul II, MD 27.
-194Eph 5:27.
+194 Eph 5:27.
 195 Cf. John Paul II, MD 27.
 196 St. Augustine, Ep. 187,11,34: PL 33, 846.
 197 LG 1.
-198Rev 7:9.
+198 Rev 7:9.
 199 LG 9 # 2, 48 # 2; GS 45 # 1.
 200 Paul VI, June 22, 1973; AG 7 # 2; cf. LG 17.
 
@@ -3034,7 +3034,7 @@ IN BRIEF
 809 The Church is the Temple of the Holy Spirit. the Spirit is the soul, as it were, of the Mystical Body, the source of its life, of its unity in diversity, and of the riches of its gifts and charisms.
 810 "Hence the universal Church is seen to be 'a people brought into unity from the unity of the Father, the Son, and the Holy Spirit'" (LG 4 citing St. Cyprian, De Dom. orat. 23: PL 4, 553).
 201 LG 9; Cf. Acts 10:35; 1 Cor 11:25.
-2021 Pet 2:9.
+202 1 Pet 2:9.
 203 Jn 3:3-5.
 204 Cf. Jn 13 34
 205 Rom 8:2; Gal 5:25.
@@ -3067,17 +3067,17 @@ IN BRIEF
 232 St. Thomas Aquinas, STh III, 48, 2.
 233 Acts of the Trial of Joan of Arc.
 234 Jn 3:29.
-235Mk 2:19.
+235 Mk 2:19.
 236 Cf. Mt 22:1-14; 25:1-13; 1 Cor 6:15-17; 2 Cor 11:2.
 237 Cf. Rev 22:17; Eph 1:4. 5:27.
 238 Eph 5:25-26.
 239 Cf. Eph 5:29.
 240 Eph 5:31-32.
-241Mt 19:6.
+241 Mt 19:6.
 242 St. Augustine, En. in Ps. 74:4: PL 36, 948-949.
 243 St. Augustine, Sermo 267, 4: PL 38, 1231D.
 244 Pius XII, encyclical, Mystici Corporis: DS 3808.
-2452 Cor 6:16; cf. 1 Cor 3:16-17; Eph 2:21.
+245 2 Cor 6:16; cf. 1 Cor 3:16-17; Eph 2:21.
 246 St. Irenaeus, Adv. haeres. 3, 24, 1: PG 7/1, 966.
 247 Pius XII, encyclical, Mystici Corporis: DS 3808.
 248 Cf. Eph 4:16.
@@ -3087,7 +3087,7 @@ IN BRIEF
 252 LG 12 # 2; cf. AA 3.
 253 Cf. 1 Cor 13.
 254 LG 12; cf. 30; 1 Thess 5:12, 19-21; John Paul II, Christifideles Laici, 24.
-2551 Cor 12:7.
+255 1 Cor 12:7.
 
 PART ONE:THE PROFESSION OF FAITH
 SECTION TWO: I. THE CREEDS
@@ -3276,7 +3276,7 @@ made up of sinners." Her holiness shines in the saints; in Mary she is already a
 325 LG 16.
 326 Cf. NA 4.
 327 Roman Missal, Good Friday 13: General Intercessions, VI.
-328Rom 9:4-5.
+328 Rom 9:4-5.
 329 Rom 11:29.
 330 LG 16; cf. NA 3.
 331 NA 1.
@@ -3288,11 +3288,11 @@ made up of sinners." Her holiness shines in the saints; in Mary she is already a
 337 LG 16; cf. DS 3866-3872.
 338 AG 7; cf. Heb 11:6; 1 Cor 9:16.
 339 AG 1; cf. Mt 16:15.
-340Mt 28:19-20.
+340 Mt 28:19-20.
 341 AG 2.
 342 Cf. John Paul II, RMiss 23.
-3432 Cor 5:14; cf. AA 6; RMiss 11.
-3441 Tim 2:4.
+343 2 Cor 5:14; cf. AA 6; RMiss 11.
+344 1 Tim 2:4.
 345 John Paul II, RMiss 21.
 346 AG 5.
 347 Tertullian, Apol. 50, 13: PL 1, 603.
@@ -3310,17 +3310,17 @@ made up of sinners." Her holiness shines in the saints; in Mary she is already a
 359 Cf. RMiss 55.
 360 AG 9.
 361 AG 9.
-362Eph 2:20; Rev 21:14.
+362 Eph 2:20; Rev 21:14.
 363 Cf. Mt 28:16-20; Acts 1:8; 1 Cor 9:1; 15:7-8; Gal 1:1; etc.
 364 Cf. Acts 2:42.
 365 Cf. 2 Tim 1:13-14.
 366 AG 5.
 367 Roman Missal, Preface of the Apostles I.
-368Mk 3:13-14.
-369Jn 20:21; cf. Jn 13:20; Jn 17:18.
+368 Mk 3:13-14.
+369 Jn 20:21; cf. Jn 13:20; Jn 17:18.
 370 Mt 10:40; cf. Lk 10:16.
 371 Jn 5:19, 30; cf. Jn 15:5.
-3722 Cor 3:6; 6:4; 5:20; 1 Cor 4:1.
+372 2 Cor 3:6; 6:4; 5:20; 1 Cor 4:1.
 373 LG 20; cf. Mt 28:20.
 374 LG 20; cf. Acts 20:28; St. Clement of Rome, Ad Cor. 42, 44: PG 1, 291-300.
 375 LG 20 # 2.
@@ -3526,8 +3526,8 @@ divine worship, above all the Eucharist, and guiding their Churches as true past
 458 PC 1.
 459 Cf. CIC, can. 605.
 460 CIC, can. 603 # 1.
-460B Cf. I Cor 7:34-36.
-460T Cf. John Paul II,Vita Consecrata 7.
+460 B Cf. I Cor 7:34-36.
+460 T Cf. John Paul II,Vita Consecrata 7.
 461 Mt 19:12.
 462 CIC, can. 604 # 1.
 463 Ordo Consecrationis Virginum, Praenotanda 1.
@@ -3589,7 +3589,7 @@ IN BRIEF
 486 Cf. Lk 16:1, 3.
 487 Rom 14:7.
 488 1 Cor 12:26-27.
-4891 Cor 13:5; cf. 10:24.
+489 1 Cor 13:5; cf. 10:24.
 490 LG 49; cf. Mt 25:31; 1 Cor 15:26-27; Council of Florence (1439): DS 1305.
 491 LG 49; cf. Eph 4:16.
 492 LG 49.
@@ -3658,7 +3658,7 @@ CHAPTER THREE: I BELIEVE IN THE HOLY SPIRIT
 Article 10 "I BELIEVE IN THE FORGIVENESS OF SINS"
 976 The Apostle's Creed associates faith in the forgiveness of sins not only with faith in the Holy Spirit, but also with faith in the Church and in the communion of saints. It was when he gave the Holy Spirit to his apostles that the risen Christ conferred on them his own divine power to forgive sins: "Receive the Holy Spirit. If you forgive the sins of any, they are forgiven; if you retain the sins of any, they are retained."518
 (Part Two of the catechism will deal explicitly with the forgiveness of sins through Baptism, the sacrament of Penance, and the other sacraments, especially the Eucharist. Here it will suffice to suggest some basic facts briefly.)
-518Jn 20:22-23.
+518 Jn 20:22-23.
 
 PART ONE:THE PROFESSION OF FAITH
 SECTION TWO: I. THE CREEDS
@@ -3671,7 +3671,7 @@ full and complete that there remained in us absolutely nothing left to efface, n
 979 In this battle against our inclination towards evil, who could be brave and watchful enough to escape every wound of sin? "If the Church has the power to forgive sins, then Baptism cannot be her only means of using the keys of the Kingdom of heaven received from Jesus Christ. the Church must be able to forgive all penitents their offenses, even if they should sin until the last moment of their lives."522
 980 It is through the sacrament of Penance that the baptized can be reconciled with God and with the Church:
 Penance has rightly been called by the holy Fathers "a laborious kind of baptism." This sacrament of Penance is necessary for salvation for those who have fallen after Baptism, just as Baptism is necessary for salvation for those who have not yet been reborn.523
-519Mk 16:15-16.
+519 Mk 16:15-16.
 520 Rom 6:4; Cf. 4:25.
 521 Roman Catechism I, 11,3.
 522 Roman Catechism I, 11,4.
@@ -3693,7 +3693,7 @@ Were there no forgiveness of sins in the Church, there would be no hope of life 
 985 Baptism is the first and chief sacrament of the forgiveness of sins: it unites us to Christ, who died and rose, and gives us the Holy Spirit.
 986 By Christ's will, the Church possesses the power to forgive the sins of the baptized and exercises it through bishops and priests normally in the sacrament of Penance.
 987 "In the forgiveness of sins, both priests and sacraments are instruments which our Lord Jesus Christ, the only author and liberal giver of salvation, wills to use in order to efface our sins and give us the grace of justification" (Roman Catechism, I, 11, 6).
-524Lk 24:47.
+524 Lk 24:47.
 525 2 Cor 5:18.
 526 St. Augustine, Sermo 214, 11: PL 38, 1071-1072.
 527 Roman Catechism I, 11, 5.
@@ -3713,9 +3713,9 @@ If the Spirit of him who raised Jesus from the dead dwells in you, he who raised
 991 Belief in the resurrection of the dead has been an essential element of the Christian faith from its beginnings. "The confidence of Christians is the resurrection of the dead; believing this we live."536
 How can some of you say that there is no resurrection of the dead? But if there is no resurrection of the dead, then Christ has not been raised; if Christ has not been raised, then our preaching is in vain and your faith is in vain.... But in fact Christ has been raised from the dead, the first fruits of those who have fallen asleep.537
 532 Cf. Jn 6:39-40.
-533Rom 8:11; cf. 1 Thess 4:14; 1 Cor 6:14; 2 Cor 4:14; Phil 3:10-11.
+533 Rom 8:11; cf. 1 Thess 4:14; 1 Cor 6:14; 2 Cor 4:14; Phil 3:10-11.
 534 Cf. Gen 6:3; Ps 56:5; Isa 40:6.
-535Rom 8:11.
+535 Rom 8:11.
 536 Tertullian, De res, 1,1: PL 2, 841.
 537 1 Cor 15:12-14.
 
@@ -3747,9 +3747,9 @@ And you were buried with him in Baptism, in which you were also raised with him 
 1004 In expectation of that day, the believer's body and soul already participate in the dignity of belonging to Christ.This dignity entails the demand that he should treat with respect his own body, but also the body of every other person, especially the suffering:
 The body [is meant] for the Lord, and the Lord for the body. and God raised the Lord and will also raise us up by his power. Do you not know that your bodies are members of Christ? ....You are not your own; .... So glorify God in your body.561
 538 2 Macc 7:9.
-5392 Macc 7:14; cf. 7:29; Dan 12:1-13.
-540Mk 12:24; cf. In 11:24; Acts 23:6.
-541Mk 12:27.
+539 2 Macc 7:14; cf. 7:29; Dan 12:1-13.
+540 Mk 12:24; cf. In 11:24; Acts 23:6.
+541 Mk 12:27.
 542 Jn 11:25.
 543 Cf. Jn 5:24-25; 6:40, 54.
 544 Cf. Mk 5:21-42; Lk 7:11-17; Jn 11.
@@ -3761,15 +3761,15 @@ The body [is meant] for the Lord, and the Lord for the body. and God raised the 
 550 Jn 5:29; cf. Dan 12:2.
 551 Lk 24:39.
 552 Lateran Council IV (1215): DS 801; Phil 3:21; 2 Cor 15:44.
-5531 Cor 15:35-37, 42, 52, 53.
+553 1 Cor 15:35-37, 42, 52, 53.
 554 St. Irenaeus, Adv. haeres. 4, 18, 4-5: PG 7/1, 1028-1029.
 555 Jn 6: 39-40, 44, 54; 11:24; LG 48 # 3.
 556 1 Thess 4:16.
-557Col 2:12; 3:1.
+557 Col 2:12; 3:1.
 558 Col 3:3; cf. Phil 3:20.
-559Eph 2:6.
-560Col 3:4.
-5611 Cor 6:13-15, 19-20.
+559 Eph 2:6.
+560 Col 3:4.
+561 1 Cor 6:13-15, 19-20.
 
 PART ONE:THE PROFESSION OF FAITH
 SECTION TWO: I. THE CREEDS
@@ -3811,7 +3811,7 @@ Praised are you, my Lord, for our sister bodily Death, from whom no living man c
 574 Phil 1:21.
 575 2 Tim 2:11.
 576 St. Ignatius of Antioch, Ad Rom., 6, 1-2: Apostolic Fathers, II/2, 217-220.
-577Phil 1:23.
+577 Phil 1:23.
 578 Cf. Lk 23:46.
 579 St. Ignatius of Antioch, Ad Rom., 6, 1- 2: Apostolic Fathers, II/2, 223-224.
 580 St. Teresa of Avila, Life, chap. 1.
@@ -3917,7 +3917,7 @@ Since we know neither the day nor the hour, we should follow the advice of the L
 her faithful, the Church implores the mercy of God, who does not want "any to perish, but all to come to repentance":619
 Father, accept this offeringfrom your whole family.Grant us your peace in this life,save us from final damnation,and count us among those you have chosen.620
 610 1 Jn 3:14-15.
-611Cf. Mt 25:31-46.
+611 Cf. Mt 25:31-46.
 612 Cf. Mt 5:22, 29; 10:28; 13:42, 50; Mk 9:43-48.
 613 Mt 13:41-42.
 614 Mt 25:41.
@@ -3967,14 +3967,14 @@ righteousness dwells, in which happiness will fill and surpass all the desires o
 1050 "When we have spread on earth the fruits of our nature and our enterprise . . . according to the command of the Lord and in his Spirit, we will find them once again, cleansed this time from the stain of sin, illuminated and transfigured, when Christ presents to his Father an eternal and universal kingdom."641 God will then be "all in all" in eternal life:642
 True and subsistent life consists in this: the Father, through the Son and in the Holy Spirit, pouring out his heavenly gifts on all things without exception. Thanks to his mercy, we too, men that we are, have received the inalienable promise of eternal life.643
 629 LG 48; Cf. Acts 3:21; Eph 1:10; Col 1:20; 2 Pet 3:10-13.
-6302 Pet 3:13; Cf. Rev 21:1.
-631Eph 1:10.
+630 2 Pet 3:13; Cf. Rev 21:1.
+631 Eph 1:10.
 632 Cf. Rev 21:5.
-633ev 21:4.
+633 Rev 21:4.
 634 Cf. LG 1.
-635Rev 21:2, 9.
+635 Rev 21:2, 9.
 636 Cf. Rev 21:27.
-637Rom 8:19-23.
+637 Rom 8:19-23.
 638 St. Irenaeus, Adv. haeres. 5, 32, 1 PG 7/2, 210.
 639 GS 39 # 1.
 640 GS 39 # 2.
@@ -4017,6 +4017,7 @@ God, for ever and ever. AMEN.
 647 St. Augustine, Sermo 58, 11, 13: PL 38, 399.
 648 Rev 3:14.
 649 2 Cor 1:20.
+
 PART TWO: THE CELEBRATION OF THE CHRISTIAN MYSTERY
 Why the liturgy?
 1066 In the Symbol of the faith the Church confesses the mystery of the Holy Trinity and of the plan of God's "good pleasure" for all creation: the Father accomplishes the "mystery of his will" by giving his beloved Son and his Holy Spirit for the salvation of the world and for the glory of his name.1
@@ -4110,7 +4111,7 @@ II. Christ's Work in the Liturgy Christ glorified . . .
 . . . which participates in the liturgy of heaven
 1090 "In the earthly liturgy we share in a foretaste of that heavenly liturgy which is celebrated in the Holy City of Jerusalem toward which
 we journey as pilgrims, where Christ is sitting at the right hand of God, Minister of the sanctuary and of the true tabernacle.With all the warriors of the heavenly army we sing a hymn of glory to the Lord; venerating the memory of the saints, we hope for some part and fellowship with them; we eagerly await the Savior, our Lord Jesus Christ, until he, our life, shall appear and we too will appear with him in glory."13
-8Rom 6:10; Heb 7:27; 9:12; cf. Jn 13:1; 17:1.
+8 Rom 6:10; Heb 7:27; 9:12; cf. Jn 13:1; 17:1.
 9 SC 6.
 10 Cf. Jn 20:21-23.
 11 SC 7; Mt 18:20.
@@ -4209,7 +4210,7 @@ II.The Sacraments of the Church
 1120 The ordained ministry or ministerial priesthood is at the service of the baptismal priesthood.38 The ordained priesthood guarantees that it really is Christ who acts in the sacraments through the Holy Spirit for the Church. the saving mission entrusted by the Father to his incarnate Son was committed to the apostles and through them to
 their successors: they receive the Spirit of Jesus to act in his name and in his person.39 The ordained minister is the sacramental bond that ties the liturgical action to what the apostles said and did and, through them, to the words and actions of Christ, the source and foundation of the sacraments.
 1121 The three sacraments of Baptism, Confirmation, and Holy Orders confer, in addition to grace, a sacramental character or "seal" by which the Christian shares in Christ's priesthood and is made a member of the Church according to different states and functions. This configuration to Christ and to the Church, brought about by the Spirit, is indelible,40 it remains for ever in the Christian as a positive disposition for grace, a promise and guarantee of divine protection, and as a vocation to divine worship and to the service of the Church. Therefore these sacraments can never be repeated.
-34Jn 16:13; cf. Mt 13:52; 1 Cor 4:1.
+34 Jn 16:13; cf. Mt 13:52; 1 Cor 4:1.
 35 St. Augustine, De civ. Dei, 22, 17: PL 41, 779; cf. St. Thomas Aquinas, STh III, 64,2 ad 3.
 36 LG 11; cf. Pius XII, Mystici Corporis (1943).
 37 LG 11 # 2.
@@ -4229,7 +4230,7 @@ The People of God is formed into one in the first place by the Word of the livin
 1125 For this reason no sacramental rite may be modified or manipulated at the will of the minister or the community. Even the supreme authority in the Church may not change the liturgy arbitrarily, but only in the obedience of faith and with religious respect for the mystery of the liturgy.
 1126 Likewise, since the sacraments express and develop the communion of faith in the Church, the lex orandi is one of the essential criteria of the dialogue that seeks to restore the unity of Christians.47
 41 Lk 24:47.
-42Mt 28:19.
+42 Mt 28:19.
 43 PO 4 ## 1, 2.
 44 SC 59.
 45 Ep. 8.
@@ -4258,10 +4259,10 @@ V.The Sacraments of Eternal Life
 1130 The Church celebrates the mystery of her Lord "until he comes," when God will be "everything to everyone."53 Since the apostolic age the liturgy has been drawn toward its goal by the Spirit's groaning in the Church: Marana tha!54 The liturgy thus shares in Jesus' desire: "I have earnestly desired to eat this Passover with you . . . until it is fulfilled in the kingdom of God."55 In the sacraments of Christ the Church already receives the guarantee of her inheritance and even now shares in everlasting life, while "awaiting our blessed hope, the appearing of the glory of our great God and Savior Christ Jesus."56 The "Spirit and the Bride say, 'Come . . . Come, Lord Jesus!"'57
 St.Thomas sums up the various aspects of sacramental signs: "Therefore a sacrament is a sign that commemorates what precedes it - Christ's Passion; demonstrates what is accomplished in us through
 Christ's Passion - grace; and prefigures what that Passion pledges to us - future glory."58
-531 Cor 11:26; 15:28.
+53 1 Cor 11:26; 15:28.
 54 1 Cor 16:22.
 55 Lk 22:15.
-56Titus 2:13.
+56 Titus 2:13.
 57 Rev 22:17, 20.
 58 St. Thomas Aquinas, STh III, 60, 3.
 
@@ -4302,8 +4303,8 @@ Mother Church earnestly desires that all the faithful should be led to that full
 members of the Church.13 The ordained minister is, as it were, an "icon" of Christ the priest. Since it is in the Eucharist that the sacrament of the Church is made fully visible, it is in his presiding at the Eucharist that the bishop's ministry is most evident, as well as, in communion with him, the ministry of priests and deacons.
 1143 For the purpose of assisting the work of the common priesthood of the faithful, other particular ministries also exist, not consecrated by the sacrament of Holy Orders; their functions are determined by the bishops, in accord with liturgical traditions and pastoral needs. "Servers, readers, commentators, and members of the choir also exercise a genuine liturgical function."14
 1144 In the celebration of the sacraments it is thus the whole assembly that is leitourgos, each according to his function, but in the "unity of the Spirit" who acts in all. "In liturgical celebrations each person, minister or layman, who has an office to perform, should carry out all and only those parts which pertain to his office by the nature of the rite and the norms of the liturgy."15
-1Rev 4:2, 8; Isa 6:1; cf. Ezek 1:26-28.
-2Rev 5:6; Liturgy of St. John Chrysostom, Anaphora; cf. Jn 1:29; Heb 4:14-15; 10:19-2.
+1 Rev 4:2, 8; Isa 6:1; cf. Ezek 1:26-28.
+2 Rev 5:6; Liturgy of St. John Chrysostom, Anaphora; cf. Jn 1:29; Heb 4:14-15; 10:19-2.
 3 Rev 22:1; cf. 21:6; Jn 4:10-14.
 4 Cf. Rev 4- 5; 7:1-8; 14:1; Isa 6:2-3.
 5 Rev 6:9-11; Rev 21:9; cf. 12.
@@ -4354,7 +4355,7 @@ Following the divinely inspired teaching of our holy Fathers and the tradition o
 18 Cf. Jn 9:6; Mk 7:33ff.; 8:22ff.
 19 Cf. Lk 9:31; 22:7-20.
 20 SC 112.
-21Eph 5:19; St. Augustine, En. in Ps. 72,1: PL 36, 914; cf. Col 3:16.
+21 Eph 5:19; St. Augustine, En. in Ps. 72,1: PL 36, 914; cf. Col 3:16.
 22 SC 112 # 3.
 23 Cf. SC 112.
 24 St. Augustine, Conf. 9, 6, 14: PL 32, 769-770.
@@ -4362,7 +4363,7 @@ Following the divinely inspired teaching of our holy Fathers and the tradition o
 26 SC 118; 121.
 27 St. John Damascene, De imag. 1, 16: PG 96: 1245-1248.
 28 Council of Nicaea II (787): COD 111.
-29Heb 12:1.
+29 Heb 12:1.
 30 Cf. Rom 8:29; 1 Jn 3:2.
 31 Council of Nicaea II: DS 600.
 32 St. John Damascene, De imag. 1, 27: PG 94, 1268A, B.
@@ -4510,7 +4511,7 @@ SECTION TWO: THE SEVEN SACRAMENTS OF THE CHURCH
 SECTION TWO: THE SEVEN SACRAMENTS OF THE CHURCH
 1210 Christ instituted the sacraments of the new law.There are seven: Baptism, Confirmation (or Chrismation), the Eucharist, Penance, the Anointing of the Sick, Holy Orders and Matrimony. the seven sacraments touch all the stages and all the important moments of Christian life:1 they give birth and increase, healing and mission to the Christian's life of faith.There is thus a certain resemblance between the stages of natural life and the stages of the spiritual life.
 1211 Following this analogy, the first chapter will: expound the three sacraments of Christian initiation; the second, the sacraments of healing; and the third, the sacraments at the service of communion and the mission of the faithful. This order, while not the only one possible, does allow one to see that the sacraments form an organic whole in which each particular sacrament has its own vital place. In this organic whole, the Eucharist occupies a unique place as the "Sacrament of sacraments": "all the other sacraments are ordered to it as to their end."2
-1Cf. St.Thomas Aquinas, STh III, 65, 1.
+1 Cf. St.Thomas Aquinas, STh III, 65, 1.
 2 St. Thomas Aquinas, STh III, 65, 3.
 
 PART TWO: THE CELEBRATION OF THE CHRISTIAN MYSTERY
@@ -4540,7 +4541,7 @@ Baptism is God's most beautiful and magnificent gift....We call it gift, grace, 
 6 2 Cor 5:17; Gal 6:15; Cf. Rom 6:34; Col 2:12.
 7 Titus 3:5; Jn 3:5.
 8 St. Justin, Apol. 1, 61, 12: PG 6, 421.
-9Jn 1:9; 1 Thess 5:5; Heb 10:32; Eph 5:8.
+9 Jn 1:9; 1 Thess 5:5; Heb 10:32; Eph 5:8.
 10 St. Gregory of Nazianzus, Oratio 40, 3-4: PG 36, 361C.
 
 PART TWO: THE CELEBRATION OF THE CHRISTIAN MYSTERY
@@ -4633,8 +4634,8 @@ Baptism to the Eucharist by having the newly baptized child brought to the altar
 41 Cf. RBC 62.
 42 Gal 3:27.
 43 Mt 5:14; cf. Phil 2:15.
-44Rev 19:9.
-45Mk 10 14.
+44 Rev 19:9.
+45 Mk 10 14.
 
 PART TWO: THE CELEBRATION OF THE CHRISTIAN MYSTERY
 SECTION TWO: THE SEVEN SACRAMENTS OF THE CHURCH
@@ -4788,7 +4789,7 @@ Two traditions: East and West
 1292 The practice of the Eastern Churches gives greater emphasis to the unity of Christian initiation.That of the Latin Church more clearly expresses the communion of the new Christian with the bishop as guarantor and servant of the unity, catholicity and apostolicity of his Church, and hence the connection with the apostolic origins of Christ's Church.
 90 Cf. Isa 11:2; 61:1; Lk 4:16-22.
 91 Cf. Mt 3:13-17; Jn 1:33-34.
-92Jn 3:34.
+92 Jn 3:34.
 93 Cf. Ezek 36:25-27; Joel 3:1-2.
 94 Cf. Lk 12:12; Jn 3:5-8; 7:37-39; 16:7-15; Acts 1:8.
 95 Cf. Jn 20:22; Acts 2:1-14.
@@ -4818,7 +4819,8 @@ the renewal of baptismal promises and the profession of faith by the confirmands
 1299 In the Roman Rite the bishop extends his hands over the whole group of the confirmands. Since the time of the apostles this gesture has signified the gift of the Spirit. the bishop invokes the outpouring of the Spirit in these words:
 All-powerful God, Father of our Lord Jesus Christ, by water and the Holy Spirityou freed your sons and daughters from sinand gave them new life.
 Send your Holy Spirit upon themto be their helper and guide.Give them the spirit of wisdom and understanding,the spirit of right judgment and courage,the spirit of knowledge and reverence.Fill them with the spirit of wonder and awe in your presence. We ask this through Christ our Lord.112
-1300 The essential rite of the sacrament follows. In the Latin rite, "the sacrament of Confirmation is conferred through the anointing with chrism on the forehead, which is done by the laying on of the hand, and through the words: Accipe signaculum doni Spiritus Sancti [Be sealed with the Gift of the Holy Spirit.]."113 In the Eastern Churches, after a prayer of epiclesis the more significant parts of the body are anointed with myron: forehead, eyes, nose, ears, lips, chest, back, hands, and feet. Each anointing is accompanied by the formula: GND"(4H *TNg"H A<gb:"J@H !(4@b(Signaculum doni Spiritus Sancti): "The seal of the gift that is the Holy Spirit."113B
+1300 The essential rite of the sacrament follows. In the Latin rite, "the sacrament of Confirmation is conferred through the anointing with chrism on the forehead, which is done by the laying on of the hand, and through the words: Accipe signaculum doni Spiritus Sancti [Be sealed with the Gift of the Holy Spirit.]."113
+In the Eastern Churches, after a prayer of epiclesis the more significant parts of the body are anointed with myron: forehead, eyes, nose, ears, lips, chest, back, hands, and feet. Each anointing is accompanied by the formula: GND"(4H *TNg"H A<gb:"J@H !(4@b(Signaculum doni Spiritus Sancti): "The seal of the gift that is the Holy Spirit."113B
 1301 The sign of peace that concludes the rite of the sacrament signifies and demonstrates ecclesial communion with the bishop and with all the faithful.114
 102 Cf. Deut 11:14; Pss 23:5; 104:15.
 103 Cf. Isa 1:6; Lk 10 34.
@@ -4924,7 +4926,7 @@ I.The Eucharist - Source and Summit of Ecclesial Life
 1327 In brief, the Eucharist is the sum and summary of our faith: "Our way of thinking is attuned to the Eucharist, and the Eucharist in turn confirms our way of thinking."138
 134 LG 11.
 135 PO 5.
-136Congregation of Rites, instruction, Eucharisticum mysterium, 6.
+136 Congregation of Rites, instruction, Eucharisticum mysterium, 6.
 137 Cf. 1 Cor 15:28.
 138 St. Irenaeus, Adv. haeres. 4, 18, 5: PG 7/l, 1028.
 
@@ -4981,7 +4983,7 @@ They devoted themselves to the apostles' teaching and fellowship, to the breakin
 1343 It was above all on "the first day of the week," Sunday, the day of Jesus' resurrection, that the Christians met "to break bread."167 From that time on down to our own day the celebration of the Eucharist has been continued so that today we encounter it everywhere in the Church with the same fundamental structure. It remains the center of the Church's life.
 1344 Thus from celebration to celebration, as they proclaim the Paschal mystery of Jesus "until he comes," the pilgrim People of God advances, "following the narrow way of the cross,"168 toward the heavenly banquet, when all the elect will be seated at the table of the kingdom.
 152 Cf. Ps 104:13-15.
-153Gen 14:18; cf. Roman Missal, EP I (Roman Canon) 95.
+153 Gen 14:18; cf. Roman Missal, EP I (Roman Canon) 95.
 154 Cf. Deut 8:3.
 155 1 Cor 10:16.
 156 Cf. Mt 14:13-21; 15:32-39.
@@ -4992,10 +4994,10 @@ They devoted themselves to the apostles' teaching and fellowship, to the breakin
 161 Cf. Jn 13:1-17; 34-35.
 162 Council of Trent (1562): DS 1740.
 163 Cf. Jn 6.
-164Lk 22:7-20; Cf. Mt 26:17-29; Mk 14:12-25; 1 Cor 11:23-26.
+164 Lk 22:7-20; Cf. Mt 26:17-29; Mk 14:12-25; 1 Cor 11:23-26.
 165 Cf. 2 Cor 11:26.
 166 Acts 2:42, 46.
-167Acts 20:7.
+167 Acts 20:7.
 168 AG 1; cf. 1 Cor 11:26.
 
 PART TWO: THE CELEBRATION OF THE CHRISTIAN MYSTERY
@@ -5046,7 +5048,7 @@ has received baptism for the forgiveness of sins and new birth, and lives in kee
 176 Cf. 1 Cor 16:1; 2 Cor 8:9
 177 St. Justin, Apol. 1, 67: PG 6, 429.
 178 Cf. Roman Missal, EP I (Roman Canon) 90.
-179Jn 6:51.
+179 Jn 6:51.
 180 St. Justin, Apol. 1, 66,1-2: PG 6, 428.
 
 PART TWO: THE CELEBRATION OF THE CHRISTIAN MYSTERY
@@ -5114,8 +5116,8 @@ Seeing, touching, tasting are in thee deceived;How says trusty hearing? that sha
 192 St. Monica, before her death, to her sons, St. Augustine and his brother; Conf. 9, 11, 27: PL 32, 775.
 193 St. Cyril of Jerusalem, Catech. myst. 5, 9. 10 PG 33, 1116-1117.
 194 St. Augustine, De civ Dei, 10, 6: PL 41, 283; cf. Rom 12:5.
-195Rom 8:34; cf. LG 48.
-196Mt 18:20.
+195 Rom 8:34; cf. LG 48.
+196 Mt 18:20.
 197 Cf. Mt 25:31-46.
 198 SC 7.
 199 St. Thomas Aquinas, STh III, 73, 3c.
@@ -5175,7 +5177,7 @@ above all - by apostolic succession - the priesthood and the Eucharist, whereby 
 213 St. Ambrose, De Sacr. 4, 2, 7: PL 16, 437D.
 214 Roman Missal, EP I (Roman Canon) 96: Supplices te rogamus, omnipotens Deus: iube haec perferri per manus sancti Angeli tui in sublime altare tuum, in conspectu divinae maiestatis tuae: ut, quotquot ex hac altaris participatione sacrosanctum Filii Corpus et Sanguinem sumpserimus, omni benedictione caelesti et gratia repleamur.
 215 Jn 6:53.
-2161 Cor 11:27-29.
+216 1 Cor 11:27-29.
 217 Roman Missal, response to the invitation to communion; cf. Mt 8:8.
 218 Cf. CIC, can. 919.
 218B Cf. CIC, can. 916.
@@ -5184,7 +5186,7 @@ above all - by apostolic succession - the priesthood and the Eucharist, whereby 
 221 OE 15; CIC, can. 920.
 222 GIRM 240.
 223 Jn 6:56.
-224Jn 6:57.
+224 Jn 6:57.
 225 Fanqith, Syriac Office of Antioch, Vol. 1, Commun., 237 a-b.
 226 PO 5.
 227 St. Ambrose, De Sacr. 4, 6, 28: PL 16, 446; cf. 1 Cor 11:26.
@@ -5211,11 +5213,11 @@ VII. The Eucharist - "Pledge of the Glory To Come"
 1405 There is no surer pledge or dearer sign of this great hope in the new heavens and new earth "in which righteousness dwells,"245 than the Eucharist. Every time this mystery is celebrated, "the work of our redemption is carried on" and we "break the one bread that provides the medicine of immortality, the antidote for death, and the food that makes us live for ever in Jesus Christ."246
 239 Roman Missal, EP I (Roman Canon) 96: Supplices te rogamus.
 240 Mt 26:29; cf. Lk 22:18; Mk 14 25.
-241Rev 1:4; 22 20; 1 Cor 16 22.
+241 Rev 1:4; 22 20; 1 Cor 16 22.
 242 Didache 10, 6: SCh 248,180.
 243 Roman Missal 126, embolism after the Our Father: expectantes beatam spem et adventum Salvatoris nostri Jesu Christi; cf.Titus 2:13.
 244 EP III 116: prayer for the dead.
-2452 Pet 3:13.
+245 2 Pet 3:13.
 246 LG 3; St. Ignatius of Antioch, Ad Eph. 20, 2: SCh 10, 76.
 
 PART TWO: THE CELEBRATION OF THE CHRISTIAN MYSTERY
@@ -5279,10 +5281,10 @@ II.Why a Sacrament of Reconciliation after Baptism?
 1426 Conversion to Christ, the new birth of Baptism, the gift of the Holy Spirit and the Body and Blood of Christ received as food have made us "holy and without blemish," just as the Church herself, the Bride of Christ, is "holy and without blemish."13 Nevertheless the new life received in Christian initiation has not abolished the frailty and weakness of human nature, nor the inclination to sin that tradition calls concupiscence, which remains in the baptized such that with the help
 of the grace of Christ they may prove themselves in the struggle of Christian life.14 This is the struggle of conversion directed toward holiness and eternal life to which the Lord never ceases to call us.15
 9 1 Cor 6:11.
-10Gal 3:27.
+10 Gal 3:27.
 11 1Jn1:8.
 12 Cf. Lk 11:4; Mt 6:12.
-13Eph 1:4; 5:27.
+13 Eph 1:4; 5:27.
 14 Cf. Council of Trent (1546) DS 1515.
 15 Cf. Council of Trent (1547): DS 1545; LG 40.
 
@@ -5295,10 +5297,10 @@ III.The Conversion of the Baptized
 1428 Christ's call to conversion continues to resound in the lives of Christians.This second conversion is an uninterrupted task for the whole Church who, "clasping sinners to her bosom, (is) at once holy and always in need of purification, (and) follows constantly the path of penance and renewal."18 This endeavor of conversion is not just a human work. It is the movement of a "contrite heart," drawn and moved by grace to respond to the merciful love of God who loved us first.19
 1429 St. Peter's conversion after he had denied his master three times bears witness to this. Jesus' look of infinite mercy drew tears of repentance from Peter and, after the Lord's resurrection, a threefold affirmation of love for him.20 The second conversion also has a communitarian dimension, as is clear in the Lord's call to a whole Church: "Repent!"21
 St. Ambrose says of the two conversions that, in the Church, "there are water and tears: the water of Baptism and the tears of repentance."22
-16Mk 1:15.
+16 Mk 1:15.
 17 Cf. Acts 2:38.
 18 LG 8 # 3.
-19Ps 51:17; cf. Jn 6:44; 12:32; 1 Jn 4:10.
+19 Ps 51:17; cf. Jn 6:44; 12:32; 1 Jn 4:10.
 20 Cf. Lk 22:61; Jn 21:15-17.
 21 Rev 2:5, 16.
 22 St. Ambrose, ep. 41, 12: PL 16, 1116.
@@ -5367,10 +5369,10 @@ through the ministry of the Church may God give you pardon and peace,
 and I absolve you from your sins in the name of the Father, and of the Son and of the Holy Spirit.48
 38 Cf. LG 11.
 39 Cf. Mk 2:7.
-40Mk 2:5, 10; Lk 7:48.
+40 Mk 2:5, 10; Lk 7:48.
 41 Cf. Jn 20:21-23.
 42 2 Cor 5:18.
-432 Cor 5:20.
+43 2 Cor 5:20.
 44 Cf. Lk 15; 19:9.
 45 Mt 16:19; cf. Mt 18:18; 28:16-20.
 46 LG 22 # 2.
@@ -5483,7 +5485,7 @@ Obtaining indulgence from God through the Church
 1479 Since the faithful departed now being purified are also members of the same communion of saints, one way we can help them is to obtain indulgences for them, so that the temporal punishments due for their sins may be remitted.
 81 Paul VI, apostolic constitution, Indulgentiarum doctrina, Norm 1.
 82 Indulgentiarum doctrina, Norm 2; Cf. Norm 3.
-82BCIC, can. 994.
+82B CIC, can. 994.
 83 Cf. Council of Trent (1551): DS 1712-1713; (1563): 1820.
 84 Eph 4:22, 24.
 85 Indulgentiarum doctrina, 5.
@@ -5578,14 +5580,14 @@ The sacrament of Anointing of the Sick is given to those who are seriously ill b
 100 Ex 15:26.
 101 Cf. Isa 53:11.
 102 Cf. Isa 33:24.
-103Lk 7:16; cf. Mt 4:24.
+103 Lk 7:16; cf. Mt 4:24.
 104 Cf. Mk 2:5-12.
 105 Cf. Mk 2:17.
-106Mt 25:36.
+106 Mt 25:36.
 107 Cf. Mk 5:34, 36; 9:23.
 108 Cf. Mk 7:32-36; 8:22-25.
 109 Cf. Jn 9:6-7.
-110Lk 6:19; cf. Mk 1:41; 3:10; 6:56.
+110 Lk 6:19; cf. Mk 1:41; 3:10; 6:56.
 111 Mt 8:17; cf. Isa 53:4.
 112 Jn 1:29; cf. Isa 53:4-6.
 113 Cf. Mt 10:38.
@@ -5735,7 +5737,7 @@ Christ is the source of all priesthood: the priest of the old law was a figure o
 . . . "in the name of the whole Church"
 1552 The ministerial priesthood has the task not only of representing Christ - Head of the Church - before the assembly of the faithful, but also of acting in the name of the whole Church when presenting to God the prayer of the Church, and above all when offering the Eucharistic sacrifice.31
 1553 "In the name of the whole Church" does not mean that priests are the delegates of the community. the prayer and offering of the Church are inseparable from the prayer and offering of Christ, her head; it is always the case that Christ worships in and through his Church. the whole Church, the Body of Christ, prays and offers herself "through him, with him, in him," in the unity of the Holy Spirit, to God the Father. the whole Body, caput et membra, prays and offers itself, and therefore those who in the Body are especially his ministers are called ministers not only of Christ, but also of the Church. It is because the ministerial priesthood represents Christ that it can represent the Church.
-6Ex 19:6; cf. Isa 61:6.
+6 Ex 19:6; cf. Isa 61:6.
 7 Cf. Num 1:48-53; Josh 13:33.
 8 Heb 5:1; cf. Ex 29:1-30; Lev 8.
 9 Cf. Mal 2:7-9.
@@ -5745,7 +5747,7 @@ Christ is the source of all priesthood: the priest of the old law was a figure o
 13 Roman Pontifical, Ordination of Priests 22, Prayer of Consecration.
 14 Roman Pontifical, Ordination of Deacons 21, Prayer of Consecration.
 15 2 Tim 2:5.
-16Heb 5:10; cf. 6:20; Gen 14:18.
+16 Heb 5:10; cf. 6:20; Gen 14:18.
 17 Heb 7:26.
 18 Heb 10:14.
 19 St. Thomas Aquinas, Hebr. 8, 4.
@@ -5859,7 +5861,7 @@ VI. Who Can Receive This Sacrament?
 67 Cf. Mk 3:14-19; Lk 6:12-16; 1 Tim 3:1-13; 2 Tim 1:6; Titus 1:5-9; St. Clement of Rome, Ad Cor. 42, 4; 44, 3: PG 1, 292-293; 300.
 68 Cf. John Paul II, MD 26-27; CDF, declaration, Inter insigniores: AAS 69 (1977) 98-116.
 69 Cf. Heb 5:4.
-70Mt 19:12.
+70 Mt 19:12.
 71 1 Cor 7:32.
 72 Cf. PO 16.
 73 Cf. PO 16.
@@ -5982,8 +5984,8 @@ Whoever denigrates marriage also diminishes the glory of virginity. Whoever prai
 88 Cf. GS 47 # 2.
 89 GS 47 # 1.
 90 Cf. Gen 1:27; 1 Jn 4:8, 16.
-91Gen 1:28; cf. 1:31.
-92Gen 2:18.
+91 Gen 1:28; cf. 1:31.
+92 Gen 2:18.
 93 Cf. Gen 2:18-25.
 94 Gen 2:24.
 95 Mt 19:6.
@@ -5994,19 +5996,19 @@ Whoever denigrates marriage also diminishes the glory of virginity. Whoever prai
 100 Gen 3:16, 19.
 101 Cf. Mt 19:8; Deut 24:1.
 102 Cf. Hos 1-3; Isa 54; 62; Jer 2-3; 31; Ezek 16; 23; Mal 2:13-17.
-103Song 8:6-7.
+103 Song 8:6-7.
 104 Rev 19:7, 9; cf. GS 22.
 105 Cf. Jn 2:1-11.
 106 Cf. Mt 19:8.
 107 Mt 19:6.
 108 Cf. Mk 8:34; Mt 11:29-30.
 109 Cf. Mt 19:11.
-110Eph 5:25-26, 31-32; Cf. Gen 2:24.
+110 Eph 5:25-26, 31-32; Cf. Gen 2:24.
 111 Cf. Eph 5:26-27.
 112 Cf. DS 1800; CIC, Can. 1055 # 2.
 113 Cf. Lk 14:26; Mk 10:28-31.
 114 Cf. Rev 14:4; 1 Cor 7:32; Mt 2:56.
-115Mt 19:12.
+115 Mt 19:12.
 116 Cf. Mk 12:25; 1 Cor 7:31.
 117 Cf. Mt 19:3-12.
 118 Cf. LG 42; PC 12; OT 10.
@@ -6058,7 +6060,7 @@ Mixed marriages and disparity of cult
 1637 In marriages with disparity of cult the Catholic spouse has a particular task: "For the unbelieving husband is consecrated through his wife, and the unbelieving wife is consecrated through her husband."138 It is a great joy for the Christian spouse and for the Church if this "consecration" should lead to the free conversion of the other spouse to the Christian faith.139 Sincere married love, the humble and patient practice of the family virtues, and perseverance in prayer can prepare the non-believing spouse to accept the grace of conversion.
 125 CIC, can. 1057 # 1.
 126 GS 48 # 1; OCM 45; cf. CIC, can. 1057 # 2.
-127Gen 2:24; cf. Mt 10:8; Eph 5:31.
+127 Gen 2:24; cf. Mt 10:8; Eph 5:31.
 128 Cf. CIC, can. 1103.
 129 Cf. CIC, can. 1057 # 1.
 130 Cf. CIC, cann. 1095-1107.
@@ -6094,7 +6096,7 @@ How can I ever express the happiness of a marriage joined by the Church, strengt
 145 LG 11 # 2.
 146 LG 11 # 2; cf. LG 41.
 147 GS 48 # 2.
-148Eph 5:21; cf. Gal 6:2.
+148 Eph 5:21; cf. Gal 6:2.
 149 Tertullian, Ad uxorem. 2, 8, 6-7: PL 1, 1412-1413; cf. FC 13.
 
 PART TWO: THE CELEBRATION OF THE CHRISTIAN MYSTERY
@@ -6123,14 +6125,14 @@ and female"; wishing to associate them in a special way in his own creative work
 1653 The fruitfulness of conjugal love extends to the fruits of the moral, spiritual, and supernatural life that parents hand on to their children by education. Parents are the principal and first educators of their children.162 In this sense the fundamental task of marriage and family is to be at the service of life.163
 1654 Spouses to whom God has not granted children can nevertheless have a conjugal life full of meaning, in both human and Christian terms. Their marriage can radiate a fruitfulness of charity, of hospitality, and of sacrifice.
 150 FC 13.
-151Mt 19:6; cf. Gen 2:24.
+151 Mt 19:6; cf. Gen 2:24.
 152 FC 19.
 153 GS 49 # 2.
 154 Cf. FC 19.
 155 GS 48 # 1.
 156 Cf. FC 20.
 157 Cf. FC 83; CIC, cann. 1151-1155.
-158Mk 10:11-12.
+158 Mk 10:11-12.
 159 FC 84.
 160 GS 48 # 1; 50.
 161 GS 50 # 1; cf. Gen 2:18; Mt 19:4; Gen 1:28.
@@ -6225,7 +6227,7 @@ I.The Christian's Last Passover
 1681 The Christian meaning of death is revealed in the light of the Paschal mystery of the death and resurrection of Christ in whom resides our only hope. the Christian who dies in Christ Jesus is "away from the body and at home with the Lord."183
 1682 For the Christian the day of death inaugurates, at the end of his sacramental life, the fulfillment of his new birth begun at Baptism, the definitive "conformity" to "the image of the Son" conferred by the anointing of the Holy Spirit, and participation in the feast of the Kingdom which was anticipated in the Eucharist - even if final purifications are still necessary for him in order to be clothed with the nuptial garment.
 1683 The Church who, as Mother, has borne the Christian sacramentally in her womb during his earthly pilgrimage, accompanies him at his journey's end, in order to surrender him "into the Father's hands." She offers to the Father, in Christ, the child of his grace, and she commits to the earth, in hope, the seed of the body that will rise in glory.184 This offering is fully celebrated in the Eucharistic sacrifice; the blessings before and after Mass are sacramentals.
-1832 Cor 5:8.
+183 2 Cor 5:8.
 184 Cf. 1 Cor 15:42-44.
 
 PART TWO: THE CELEBRATION OF THE CHRISTIAN MYSTERY
@@ -6250,6 +6252,7 @@ By this final greeting "we sing for his departure from this life and separation 
 190 Cf. OCF 57.
 191 OCF 10.
 192 St. Simeon of Thessalonica, De ordine sepulturae. 336: PG 155, 684.
+
 PART THREE: LIFE IN CHRIST
 1691 "Christian, recognize your dignity and, now that you share in God's own nature, do not return to your former base condition by sinning. Remember who is your head and of whose body you are a member. Never forget that you have been rescued from the power of darkness and brought into the light of the Kingdom of God."1
 1692 The Symbol of the faith confesses the greatness of God's gifts to man in his work of creation, and even more in redemption and sanctification. What faith confesses, the sacraments communicate: by the sacraments of rebirth, Christians have become "children of God,"2 "partakers of the divine nature."3 Coming to see in the faith their new dignity, Christians are called to lead henceforth a life "worthy of the gospel of Christ."4 They are made capable of doing so by the grace of Christ and the gifts of his Spirit, which they receive through the sacraments and through prayer.
@@ -6273,27 +6276,27 @@ For to me, to live is Christ.26
 1 St. Leo the Great Sermo 22 in nat. Dom., 3: PL 54, 192C.
 2 Jn 1:12; 1 Jn 3:1.
 3 2 Pet 1:4.
-4Phil 1:27.
+4 Phil 1:27.
 5 Cf. Jn 8:29.
-6Mt 6:6.
+6 Mt 6:6.
 7 Mt 5:48.
-8Rom 6:11 and cf. 6:5; cf. Col 2:12.
+8 Rom 6:11 and cf. 6:5; cf. Col 2:12.
 9 Cf. Jn 15:5.
-10Eph 5:1-2.
-11Phil 2:5.
+10 Eph 5:1-2.
+11 Phil 2:5.
 12 Cf. Jn 13:12-16.
 13 2 Cor 6:11.
-141 Cor 1:2.
+14 1 Cor 1:2.
 15 Cf. 1 Cor 6:19.
 16 Cf. Gal 4:6.
 17 Gal 5:22, 25.
 18 Cf. Eph 4:23.
 19 Eph 5:8, 9.
-20Mt 7:13; cf. Deut 30: 15-20.
+20 Mt 7:13; cf. Deut 30: 15-20.
 21 Didache 1, 1: SCh 248, 140.
 22 Cf. John Paul II, CT 29.
-23Rom 6:4.
-24Jn 14:6.
+23 Rom 6:4.
+24 Jn 14:6.
 25 St. John Eudes, Tract. de admirabili corde Jesu, 1, 5.
 26 Phil 1:21.
 
@@ -6306,7 +6309,7 @@ SECTION ONE: MAN'S VOCATION LIFE IN THE SPIRIT
 CHAPTER ONE: THE DIGNITY OF THE HUMAN PERSON
 1700 The dignity of the human person is rooted in his creation in the image and likeness of God (article 1); it is fulfilled in his vocation to divine beatitude (article 2). It is essential to a human being freely to direct himself to this fulfillment (article 3). By his deliberate actions (article 4), the human person does, or does not, conform to the good promised by God and attested by moral conscience (article 5). Human beings make their own contribution to their interior growth; they make their whole sentient and spiritual lives into means of this growth (article 6).With the help of grace they grow in virtue (article 7), avoid sin, and if they sin they entrust themselves as did the prodigal son1 to
 the mercy of our Father in heaven (article 8). In this way they attain to the perfection of charity.
-1Lk 15:11-32.
+1 Lk 15:11-32.
 
 PART THREE: LIFE IN CHRIST
 SECTION ONE: MAN'S VOCATION LIFE IN THE SPIRIT
@@ -6393,7 +6396,7 @@ It is true, because of the greatness and inexpressible glory of God, that "man s
 All bow down before wealth.Wealth is that to which the multitude of men pay an instinctive homage. They measure happiness by wealth; and by wealth they measure respectability.... It is a homage resulting from a profound faith ... that with wealth he may do all things.Wealth is one idol of the day and notoriety is a second.... Notoriety, or the making of a noise in the world - it may be called "newspaper fame" - has come to be considered a great good in itself, and a ground of veneration.24
 1724 The Decalogue, the Sermon on the Mount, and the apostolic catechesis describe for us the paths that lead to the Kingdom of heaven. Sustained by the grace of the Holy Spirit, we tread them, step by step, by everyday acts. By the working of the Word of Christ, we slowly bear fruit in the Church to the glory of God.25
 16 Cf. Mt 4:17.
-17Mt 5:8; cf. 1 Jn 2; 1 Cor 13:12.
+17 Mt 5:8; cf. 1 Jn 2; 1 Cor 13:12.
 18 Mt 25:21-23.
 19 Cf. Heb 4:7-11.
 20 St. Augustine, De civ. Dei 22, 30, 5: PL 41,804.
@@ -6460,7 +6463,7 @@ Almighty and merciful God,in your goodness take away from us all that is harmful
 34 Gal 5: 1.
 35 Cf. In 8:32.
 36 2 Cor 17.
-37Rom 8:21.
+37 Rom 8:21.
 38 Roman Missal, 32nd Sunday, Opening Prayer: Omnipotens et misericors Deus, universa nobis adversantia propitiatus exclude, ut, mente et corpore pariter expediti, quae tua sunt liberis mentibus exsequamur.
 
 PART THREE: LIFE IN CHRIST
@@ -6549,7 +6552,7 @@ II. Passions and Moral Life
 1770 Moral perfection consists in man's being moved to the good not by his will alone, but also by his sensitive appetite, as in the words of the psalm: "My heart and flesh sing for joy to the living God."46
 44 St. Thomas Aquinas, STh I-II, 24, 1 corp. art.
 45 Cf. St.Thomas Aquinas, STh I-II, 24, 3.
-46Ps 84:2.
+46 Ps 84:2.
 
 PART THREE: LIFE IN CHRIST
 SECTION ONE: MAN'S VOCATION LIFE IN THE SPIRIT
@@ -6631,7 +6634,7 @@ committed by the person cannot be imputed to him. It remains no less an evil, a 
 1794 A good and pure conscience is enlightened by true faith, for charity proceeds at the same time "from a pure heart and a good conscience and sincere faith."60
 The more a correct conscience prevails, the more do persons and groups turn aside from blind choice and try to be guided by objective standards of moral conduct.61
 59 GS 16.
-601 Tim 5; cf. 8:9; 2 Tim 3; 1 Pet 3:21; Acts 24:16.
+60 1 Tim 5; cf. 8:9; 2 Tim 3; 1 Pet 3:21; Acts 24:16.
 61 GS 16.
 
 PART THREE: LIFE IN CHRIST
@@ -6678,7 +6681,7 @@ The virtues and grace
 1811 It is not easy for man, wounded by sin, to maintain moral balance. Christ's gift of salvation offers us the grace necessary to persevere in the pursuit of the virtues. Everyone should always ask for this grace of light and strength, frequent the sacraments, cooperate with the Holy Spirit, and follow his calls to love what is good and shun evil.
 64 Wis 8:7.
 65 Prov 14:15.
-661 Pet 4:7.
+66 1 Pet 4:7.
 67 St. Thomas Aquinas, STh II-II, 47, 2.
 68 Lev 19:15.
 69 Col 4:1.
@@ -6686,7 +6689,7 @@ The virtues and grace
 71 Jn 16:33.
 72 Sir 5:2; cf. 37:27-31.
 73 Sir 18:30.
-74Titus 2:12.
+74 Titus 2:12.
 75 St. Augustine, De moribus eccl. 1, 25, 46: PL 32, 1330-1331.
 
 PART THREE: LIFE IN CHRIST
@@ -6729,26 +6732,26 @@ Love is itself the fulfillment of all our works. There is the goal; that is why 
 80 Cf. Council of Trent (1547): DS 1545.
 81 Jas 2:26.
 82 LG 42; cf. DH 14.
-83Mt 10:32-33.
+83 Mt 10:32-33.
 84 Heb 10:23.
 85 Titus 3:6-7.
 86 Cf. Gen 17:4-8; 22:1-18.
-87Rom 4:18.
-88Rom 5:5.
+87 Rom 4:18.
+88 Rom 5:5.
 89 Heb 6:19-20.
-901 Thess 5:8.
-91Rom 12:12.
+90 1 Thess 5:8.
+91 Rom 12:12.
 92 Cf. Rom 8:28-30; Mt 7:21.
-93Mt 10:22; cf. Council of Trent DS 1541.
+93 Mt 10:22; cf. Council of Trent DS 1541.
 94 1 Tim 2:4.
 95 St.Teresa of Avila, Excl. 15:3.
 96 Cf. Jn 13:34.
 97 Jn 13:1.
 98 Jn 15:9, 12.
-99Jn 15:9-10; cf. Mt 22:40; Rom 13:8-10.
-100Rom 5:10.
+99 Jn 15:9-10; cf. Mt 22:40; Rom 13:8-10.
+100 Rom 5:10.
 101 Cf. Mt 5:44; Lk 10:27-37; Mk 9:37; Mt 25:40, 45.
-1021 Cor 13:4-7.
+102 1 Cor 13:4-7.
 103 1 Cor 13:1-4.
 104 1 Cor 13:13.
 105 Col 3:14.
@@ -6800,11 +6803,11 @@ Article 8 SINI. Mercy and Sin
 before treating it, God, by his Word and by his Spirit, casts a living light on sin:
 Conversion requires convincing of sin; it includes the interior judgment of conscience, and this, being a proof of the action of the Spirit of truth in man's inmost being, becomes at the same time the start of a new grant of grace and love: "Receive the Holy Spirit." Thus in this "convincing concerning sin" we discover a double gift: the gift of the truth of conscience and the gift of the certainty of redemption. the Spirit of truth is the Consoler.120
 113 Cf. Lk 15.
-114Mt 1:21.
+114 Mt 1:21.
 115 Mt 26:28.
 116 St. Augustine, Sermo 169, 11, 13: PL 38, 923.
 117 1 Jn 8-9.
-118Rom 5:20.
+118 Rom 5:20.
 119 Rom 5:21.
 120 John Paul II, DeV 31 # 2.
 
@@ -6831,7 +6834,7 @@ III.The Different Kinds of Sins
 1852 There are a great many kinds of sins. Scripture provides several lists of them. the Letter to the Galatians contrasts the works of the flesh with the fruit of the Spirit: "Now the works of the flesh are plain: fornication, impurity, licentiousness, idolatry, sorcery, enmity, strife, jealousy, anger, selfishness, dissension, factions, envy, drunkenness, carousing, and the like. I warn you, as I warned you before, that those who do such things shall not inherit the Kingdom of God."127
 1853 Sins can be distinguished according to their objects, as can every human act; or according to the virtues they oppose, by excess or defect; or according to the commandments they violate. They can also be classed according to whether they concern God, neighbor, or oneself; they can be divided into spiritual and carnal sins, or again as sins in thought, word, deed, or omission. the root of sin is in the heart of man, in his free will, according to the teaching of the Lord: "For out of the heart come evil thoughts, murder, adultery, fornication, theft, false witness, slander. These are what defile a man."128 But in the
 heart also resides charity, the source of the good and pure works, which sin wounds.
-127Gal 5:19-21; CE Rom 1:28-32; 1 Cor 9-10; Eph 5:3-5; Col 3:5-8; 1 Tim 9-10; 2 Tim 2-5.
+127 Gal 5:19-21; CE Rom 1:28-32; 1 Cor 9-10; Eph 5:3-5; Col 3:5-8; 1 Tim 9-10; 2 Tim 2-5.
 128 Mt 15:19-20.
 
 PART THREE: LIFE IN CHRIST
@@ -6857,7 +6860,7 @@ While he is in the flesh, man cannot help but have at least some light sins. But
 129 Cf. 1 Jn 16-17.
 130 St.Thomas Aquinas, STh I-II, 88, 2, corp. art.
 131 RP 17 # 12.
-132Mk 10:19.
+132 Mk 10:19.
 133 Cf. Mk 3:5-6; Lk 16:19-31.
 134 John Paul II, RP 17 # 9.
 135 St. Augustine, In ep. Jo. 1, 6: PL 35, 1982.
@@ -7111,7 +7114,7 @@ SECTION ONE: MAN'S VOCATION LIFE IN THE SPIRIT
 CHAPTER THREE: GOD'S SALVATION: LAW AND GRACE
 1949 Called to beatitude but wounded by sin, man stands in need of salvation from God. Divine help comes to him in Christ through the law that guides him and the grace that sustains him:
 Work out your own salvation with fear and trembling; for God is at work in you, both to will and to work for his good pleasure.1
-1Phil 2:12-13.
+1 Phil 2:12-13.
 
 PART THREE: LIFE IN CHRIST
 SECTION ONE: MAN'S VOCATION LIFE IN THE SPIRIT
@@ -7205,7 +7208,7 @@ grace, because it confers the strength of grace to act, by means of faith and th
 28 Cf. Jn 15:12; 13:34.
 29 Rom 12:9-13.
 30 Cf. Rom 14; 1 Cor 5-10.
-31Jn 15:15; cf. Jas 1:25; 2:12; Gal 4:1-7. 21-31; Rom 8:15.
+31 Jn 15:15; cf. Jas 1:25; 2:12; Gal 4:1-7. 21-31; Rom 8:15.
 32 Cf. St.Thomas Aquinas, STh II-II, 184, 3.
 33 St. Francis de Sales, Love of God 8, 6.
 

@@ -4,9 +4,9 @@ PROLOGUE
 "FATHER,... this is eternal life, that they may know you, the only true God, and Jesus Christ whom you have sent." [^1]
 "God our Saviour desires all men to be saved and to come to the knowledge of the truth." [^2]
 "There is no other name under heaven given among men by which we must be saved"3 - than the name of JESUS.
-[^1]:  John 17  [^3]
+[^1]:  John 17  3
 [^2]:  I Timothy 2:3-4.
-[^3]:  Acts 4:1 [^2]
+[^3]:  Acts 4:1 2
 PROLOGUE
 I.  The life of man - to know and love God
 
@@ -19,9 +19,9 @@ So that this call should resound throughout the world, Christ sent forth the apo
 
 CCC 3
 Those who with God's help have welcomed Christ's call and freely responded to it are urged on by love of Christ to proclaim the Good News everywhere in the world.This treasure, received from the apostles, has been faithfully guarded by their successors. All Christ's faithful are called to hand it on from generation to generation, by professing the faith, by living it in fraternal sharing, and by celebrating it in liturgy and prayer. [^6]
-[^4]:  Matthew 28:19-2 [^0]
-[^5]:  Mark 16:2 [^0]
-[^6]:  Cf. Acts 2:4 [^2]
+[^4]:  Matthew 28:19-2 0
+[^5]:  Mark 16:2 0
+[^6]:  Cf. Acts 2:4 2
 PROLOGUE
 II.  Handing on the Faith: Catechesis
 
@@ -52,7 +52,7 @@ It is therefore no surprise that catechesis in the Church has again attracted at
 [^10]:  "Catechesi tradendae" 13.
 [^11]:  Cf. "Catechesi tradendae" 12.
 [^12]:  "Catechesi tradendae" 13.
-[^13]:  Exodustraordinary Synod of Bishops 1985,. Final Report II B a, 4.
+111[^13]:  Exodustraordinary Synod of Bishops 1985,. Final Report II B a, 4.
 [^14]:  John Paul II, Discourse at the Closing of the Exodustraordinary Synod of Bishops 7 December 1985: "Apostolicam actositatem"S 78, (1986).
 PROLOGUE
 III.  The Aim and Intended Readership of the Catechism
@@ -88,7 +88,7 @@ Part Four:  Prayer in the Life of Faith
 
 CCC 17
 The last part of the Catechism deals with the meaning and importance of prayer in the life of believers (Section One:). It concludes with a brief commentary on the seven petitions of the Lord's Prayer (Section Two:), for indeed we find in these the sum of all the good things which we must hope for, and which our heavenly Father wants to grant us.
-[^16]:  Cf. Matthew 10:32; Romans 10: [^9]
+[^16]:  Cf. Matthew 10:32; Romans 10: 9
 PROLOGUE
 V.  Practical Directions for Using this Catechism
 
@@ -122,7 +122,7 @@ CCC 25
 To conclude this Prologue, it is fitting to recall this pastoral principle stated by the Roman Catechism:
 The whole concern of doctrine and its teaching must be directed to the love that never ends.Whether something is proposed for belief, for hope or for action, the love of our Lord must always be made accessible, so that anyone can see that all the works of perfect Christian virtue spring from love and have no other objective than to arrive at love.1 [^9]
 [^17]:  Cf. "Catechesi tradendae" 20-22; 25.
-[^18]:  Romansan Catechism, Preface II; cf. I Corinthians 9:22; I Peter 2: [^2]
+[^18]:  Romansan Catechism, Preface II; cf. I Corinthians 9:22; I Peter 2: 2
 [^19]:  Romansan Catechism, Preface 10; cf. I Corinthians 13 8.
 
 PART ONE: THE PROFESSION OF FAITH
@@ -152,10 +152,10 @@ CCC 30
 "Let the hearts of those who seek the LORD rejoice."5 Although man can forget God or reject him, He never ceases to call every man to seek him, so as to find life and happiness. But this search for God demands of man every effort of intellect, a sound will, "an upright heart", as well as the witness of others who teach him to seek God.
 You are great, O Lord, and greatly to be praised: great is your power and your wisdom is without measure. and man, so small a part of your creation, wants to praise you: this man, though clothed with mortality and bearing the evidence of sin and the proof that you withstand the proud. Despite everything, man, though but a small a part of your creation, wants to praise you.You yourself encourage him to delight in your praise, for you have made us for yourself, and our heart is restless until it rests in you. [^6]
 [^1]:  Vatican Council II, "Gaudium et spes" 19 # 1.
-[^2]:  Acts 17:26-28.
+111[^2]:  Acts 17:26-28.
 [^3]:  "Gaudium et spes" 19 # 1.
 [^4]:  Cf. "Gaudium et spes" 19-21; Matthew 13:22; Genesis 3:8-10; Jonah 1:3.
-[^5]:  Psalms 105: [^3]
+[^5]:  Psalms 105: 3
 [^6]:  St. Augustine, Conf. I, I, I: "J.P. Migne, ed., Patroligia Latina (Paris, 1841-1855)" 32, 659-661.
 
 PART ONE: THE PROFESSION OF FAITH
@@ -181,7 +181,7 @@ The world, and man, attest that they contain within themselves neither their fir
 CCC 35
 Man's faculties make him capable of coming to a knowledge of the existence of a personal God. But for man to be able to enter into real intimacy with him, God willed both to reveal himself to man, and to give him the grace of being able to welcome this revelation in faith.(so)
 the proofs of God's existence, however, can predispose one to faith and help one to see that faith is not opposed to reason.
-[^7]:  Romans 1:19-20; cf., Acts 14:15, 17; 17:27-28; Wisdom 13:1-9.
+111[^7]:  Romans 1:19-20; cf., Acts 14:15, 17; 17:27-28; Wisdom 13:1-9.
 [^8]:  St. Augustine, Sermo 241, 2: "J.P. Migne, ed., Patroligia Latina (Paris, 1841-1855)" 38, 1134,
 [^9]:  "Gaudium et spes" 18 # 1; cf. 14 # 2.
 [^10]:  St. Thomas Aquinas, S Th I, 2, 3.
@@ -201,7 +201,7 @@ Though human reason is, strictly speaking, truly capable by its own natural powe
 CCC 38
 This is why man stands in need of being enlightened by God's revelation, not only about those things that exceed his understanding, but also "about those religious and moral truths which of themselves are not beyond the grasp of human reason, so that even in the present condition of the human race, they can be known by all men with ease, with firm certainty and with no admixture of error".1 [^4]
 [^11]:  Vatican Council I, Dei Filius 2: "Denzinger-Schonmetzer, Enchiridion Symbolorum, definitionum et declarationum de rebus fidei et morum (1965)" 3004 cf. 3026; Vatican Council II, Dei Verbum 6.
-[^12]:  Cf. Genesis 1:2 [^7]
+[^12]:  Cf. Genesis 1:2 7
 [^13]:  Pius XII, Humani generis 561: "Denzinger-Schonmetzer, Enchiridion Symbolorum, definitionum et declarationum de rebus fidei et morum (1965)" 3875.
 [^14]:  Pius XII, Humani generis 561: "Denzinger-Schonmetzer, Enchiridion Symbolorum, definitionum et declarationum de rebus fidei et morum (1965)" 3876; cf. Dei Filius 2: "Denzinger-Schonmetzer, Enchiridion Symbolorum, definitionum et declarationum de rebus fidei et morum (1965)" 3005; "Dei Verbum" 6; St. Thomas Aquinas, S Th I, I, I.
 
@@ -224,7 +224,7 @@ God transcends all creatures.We must therefore continually purify our language o
 
 CCC 43
 Admittedly, in speaking about God like this, our language is using human modes of expression; nevertheless it really does attain to God himself, though unable to express him in his infinite simplicity. Likewise, we must recall that "between Creator and creature no similitude can be expressed without implying an even greater dissimilitude";17 and that "concerning God, we cannot grasp what he is, but only what he is not, and how other beings stand in relation to him."1 [^8]
-[^15]:  Wisdom 13: [^5]
+[^15]:  Wisdom 13: 5
 [^16]:  Liturgy of St. John Chrysostom, Anaphora.
 [^17]:  Lateran Council IV: "Denzinger-Schonmetzer, Enchiridion Symbolorum, definitionum et declarationum de rebus fidei et morum (1965)" 806.
 [^18]:  St. Thomas Aquinas, "Sacrosanctum concilium"G 1, 30.
@@ -276,8 +276,8 @@ to make them capable of responding to him, and of knowing him and of loving him 
 CCC 53
 The divine plan of Revelation is realized simultaneously "by deeds and words which are intrinsically bound up with each other"4 and shed light on each another. It involves a specific divine pedagogy: God communicates himself to man gradually. He prepares him to welcome by stages the supernatural Revelation that is to culminate in the person and mission of the incarnate Word, Jesus Christ.
 St. Irenaeus of Lyons repeatedly speaks of this divine pedagogy using the image of God and man becoming accustomed to one another: the Word of God dwelt in man and became the Son of man in order to accustom man to perceive God and to accustom God to dwell in man, according to the Father's pleasure. [^5]
-[^2]:  "Dei Verbum" 2; cf. Ephesians 1:9; 2:18; II Peter 1: [^4]
-[^3]:  I Timothy 6:16, cf. Ephesians 1:4-5.
+[^2]:  "Dei Verbum" 2; cf. Ephesians 1:9; 2:18; II Peter 1: 4
+111[^3]:  I Timothy 6:16, cf. Ephesians 1:4-5.
 [^4]:  "Dei Verbum" 2.
 [^5]:  St. Irenaeus, Adv. haeres. 3, 20, 2: "J.P. Migne, ed., Patroligia Greaca (Paris, 1867-1866)" 7/1, 944; cf. 3, 17, 1; 4, 12, 4; 4, 21, 3.
 
@@ -325,25 +325,25 @@ Israel is the priestly people of God, "called by the name of the LORD", and "the
 
 CCC 64
 Through the prophets, God forms his people in the hope of salvation, in the expectation of a new and everlasting Covenant intended for all, to be written on their hearts.22 The prophets proclaim a radical redemption of the People of God, purification from all their infidelities, a salvation which will include all the nations.23 Above all, the poor and humble of the Lord will bear this hope. Such holy women as Sarah, Rebecca, Rachel, Miriam, Deborah, Hannah, Judith and Esther kept alive the hope of Israel's salvation. the purest figure among them is Mary.2 [^4]
-[^6]:  "Dei Verbum" 3; Cf. John 1:3; Romans 1:19-2 [^0]
+[^6]:  "Dei Verbum" 3; Cf. John 1:3; Romans 1:19-2 0
 [^7]:  "Dei Verbum" 3; cf. Genesis 3:15; Romans 2:6-7.
 [^8]:  Romansan Missal, Eucharistic Prayer IV, 118.
 [^9]:  Genesis 10:5; cf. 9:9-10, 16; 10:20-31.
 [^10]:  Cf. Acts 17:26-27.
-[^11]:  Cf. Wisdom 10:5;Genesis 11:4- [^6]
+[^11]:  Cf. Wisdom 10:5;Genesis 11:4- 6
 [^12]:  Cf. Romans 1:18-25.
 [^13]:  Cf. Genesis 9:16; Luke 21:24; "Dei Verbum" 3.
 [^14]:  Cf. Genesis 14:18; Hebrews 7:3; Ezekiel 14:14.
-[^15]:  John 11:5 [^2]
-[^16]:  Genesis 12: [^1]
-[^17]:  Genesis 17:5; 12:3 ("Septuagint"); cf. Galatians 3: [^8]
+[^15]:  John 11:5 2
+[^16]:  Genesis 12: 1
+[^17]:  Genesis 17:5; 12:3 ("Septuagint"); cf. Galatians 3: 8
 [^18]:  Cf. Romans 11:28; John 11:52; 10:16.
 [^19]:  Cf. Romans 11:17-18, 24.
 [^20]:  Cf. "Dei Verbum" 3.
-[^21]:  Deuteronomy 28: 10; Romansan Missal, Good i Friday, Genesiseral Intercession VI; see also Exodus 19: [^6]
-[^22]:  Cf. Isaiah 2:2-4; Jeremiah 31:31-34; Hebrews 10:1 [^6]
-[^23]:  Cf. Ezekiel 36; Isaiah 49:5-6; 53:1 [^1]
-[^24]:  Cf. Ezekiel 2:3; Luke 1:3 [^8]
+[^21]:  Deuteronomy 28: 10; Romansan Missal, Good i Friday, Genesiseral Intercession VI; see also Exodus 19: 6
+[^22]:  Cf. Isaiah 2:2-4; Jeremiah 31:31-34; Hebrews 10:1 6
+[^23]:  Cf. Ezekiel 36; Isaiah 49:5-6; 53:1 1
+[^24]:  Cf. Ezekiel 2:3; Luke 1:3 8
 
 PART ONE: THE PROFESSION OF FAITH
 SECTION ONE:  "I BELIEVE" - "WE BELIEVE"
@@ -364,9 +364,9 @@ CCC 67
 Throughout the ages, there have been so-called "private" revelations, some of which have been recognized by the authority of the Church. They do not belong, however, to the deposit of faith. It is not their role to improve or complete Christ's definitive Revelation, but to help live more fully by it in a certain period of history. Guided by the Magisterium of the Church, the sensus fidelium knows how to discern and welcome in these revelations whatever constitutes an authentic call of Christ or his saints to the Church.
 Christian faith cannot accept "revelations" that claim to surpass or correct the Revelation of which Christ is the fulfilment, as is the case in certain non Christian religions and also in certain recent sects which base themselves on such "revelations".
 [^25]:  "Dei Verbum" 2.
-[^26]:  Hebrews 1:1- [^2]
+[^26]:  Hebrews 1:1- 2
 [^27]:  St. John of the Cross, the Ascent of Mount Carmel 2, 22, 3-5 in The Colossianslected Works of St. John of the Cross, tr. K. Kavanaugh O"Christus Dominus" and O.Rodriguez O"Christus Dominus" (Washington DC: Institute of Carmelite Studies, 1979),179-180: "Liturgy of the Hours", Advent, week 2, Monday, "Office of Readings".
-[^28]:  "Dei Verbum" 4; cf. I Timothy 6:14; Titus 2:1 [^3]
+[^28]:  "Dei Verbum" 4; cf. I Timothy 6:14; Titus 2:1 3
 
 PART ONE: THE PROFESSION OF FAITH
 SECTION ONE:  "I BELIEVE" - "WE BELIEVE"
@@ -400,9 +400,9 @@ Article 2:  THE TRANSMISSION OF DIVINE REVELATION
 CCC 74
 God "desires all men to be saved and to come to the knowledge of the truth":29 that is, of Christ Jesus.30 Christ must be proclaimed to all nations and individuals, so that this revelation may reach to the ends of the earth:
 God graciously arranged that the things he had once revealed for the salvation of all peoples should remain in their entirety, throughout the ages, and be transmitted to all generations.3 [^1]
-[^29]:  I Timothy 2: [^4]
-[^30]:  Cf. John 14: [^6]
-[^31]:  "Dei Verbum" 7; cf. II Corinthians 1:20; 3:16 - 4: [^6]
+[^29]:  I Timothy 2: 4
+[^30]:  Cf. John 14: 6
+[^31]:  "Dei Verbum" 7; cf. II Corinthians 1:20; 3:16 - 4: 6
 
 PART ONE: THE PROFESSION OF FAITH
 SECTION ONE:  "I BELIEVE" - "WE BELIEVE"
@@ -429,7 +429,7 @@ This living transmission, accomplished in the Holy Spirit, is called Tradition, 
 CCC 79
 The Father's self-communication made through his Word in the Holy Spirit, remains present and active in the Church: "God, who spoke in the past, continues to converse with the Spouse of his beloved Son. and the Holy Spirit, through whom the living voice of the Gospel rings out in the Church - and through her in the world - leads believers
 to the full truth, and makes the Word of Christ dwell in them in all its richness."3 [^9]
-[^32]:  "Dei Verbum" 7; cf. Matthew 28:19-20; Mark 16:1 [^5]
+[^32]:  "Dei Verbum" 7; cf. Matthew 28:19-20; Mark 16:1 5
 [^33]:  "Dei Verbum" 7.
 [^34]:  "Dei Verbum" 7.
 [^35]:  "Dei Verbum" 7 # 2; St. Irenaeus, Adv. haeres. 3, 3, 1: "J.P. Migne, ed., Patroligia Greaca (Paris, 1867-1866)" 7/1, 848; 2, 9.
@@ -460,7 +460,7 @@ The Tradition here in question comes from the apostles and hands on what they re
 Tradition is to be distinguished from the various theological, disciplinary, liturgical or devotional traditions, born in the local churches over time. These are the particular forms, adapted to different places and times, in which the great Tradition is expressed. In the light
 of Tradition, these traditions can be retained, modified or even abandoned under the guidance of the Church's Magisterium.
 [^40]:  "Dei Verbum" 9.
-[^41]:  Matthew 28:2 [^0]
+[^41]:  Matthew 28:2 0
 [^42]:  "Dei Verbum" 9.
 [^43]:  "Dei Verbum" 9.
 [^44]:  "Dei Verbum" 9.
@@ -515,17 +515,17 @@ CCC 95
 "It is clear therefore that, in the supremely wise arrangement of God, sacred Tradition, Sacred Scripture and the Magisterium of the Church are so connected and associated that one of them cannot stand without the others. Working together, each in its own way, under the action of the one Holy Spirit, they all contribute effectively to the salvation of souls."6 [^2]
 [^45]:  "Dei Verbum" 10 # 1; cf.I Timothy 6:20; II Timothy 1:12-14(Vulg.).
 [^46]:  "Dei Verbum" 10 # 1; cf. Acts 2:42 (Greek); Pius XII, Apost. Const. Munificentissimus Deus, 1 November 1950: "Apostolicam actositatem"S 42 (1950), 756, taken along with the words of St. Cyprian, Epist. 66, 8: "Corpus Scriptorum Ecclesiasticorum Latinorum (Vineea, 1866- )" 3/2, 733: "The Church is the people united to its Priests, the flock adhering to its Shepherd."
-[^47]:  "Dei Verbum" 10 # 2.
+[^47]:  "Dei Verbum" 10# 2.
 [^48]:  "Dei Verbum" 10 para 2.
 [^49]:  Luke 10:16; cf. "Lumen gentium" 20.
 [^50]:  Cf. John 8:31-32.
 [^51]:  Cf. Vatican Council I: "Denzinger-Schonmetzer, Enchiridion Symbolorum, definitionum et declarationum de rebus fidei et morum (1965)" 3016: nexus mysteriorum; LC 25.
 [^52]:  "Unitatis redintegratio" II.
-[^53]:  Cf. I John 2:20, 2 [^7]
-[^54]:  Cf. . John 16:1 [^3]
+[^53]:  Cf. I John 2:20, 2 7
+[^54]:  Cf. . John 16:1 3
 [^55]:  "Lumen gentium" 12; cf. St. Augustine, De praed. sanct. 14, 27: "J.P. Migne, ed., Patroligia Latina (Paris, 1841-1855)" 44, 980.
 [^56]:  "Lumen gentium" 12; cf. Jude 3.
-[^57]:  "Dei Verbum" 8# 2;cf.Luke2:19,5 [^1]
+[^57]:  "Dei Verbum" 8# 2;cf.Luke2:19,5 1
 [^58]:  "Gaudium et spes" 62 # 7; cf. "Gaudium et spes" 44 # 2; "Dei Verbum" 23; 24; "Unitatis redintegratio" 4.
 [^59]:  "Dei Verbum" 8 # 2.
 [^60]:  "Dei Verbum" 8 # 2.
@@ -572,8 +572,8 @@ faithful the bread of life, taken from the one table of God's Word and Christ's 
 CCC 104
 In Sacred Scripture, the Church constantly finds her nourishment and her strength, for she welcomes it not as a human word, "but as what it really is, the word of God".67 "In the sacred books, the Father who is in heaven comes lovingly to meet his children, and talks with them."6 [^8]
 [^63]:  "Dei Verbum" 13.
-[^64]:  Cf. Hebrews 1:1- [^3]
-[^65]:  St. Augustine, En. in Psalms. 103, 4, 1: "J.P. Migne, ed., Patroligia Latina (Paris, 1841-1855)" 37, 1378; cf. Psalms 104; John 1: [^1]
+[^64]:  Cf. Hebrews 1:1- 3
+[^65]:  St. Augustine, En. in Psalms. 103, 4, 1: "J.P. Migne, ed., Patroligia Latina (Paris, 1841-1855)" 37, 1378; cf. Psalms 104; John 1: 1
 [^66]:  Cf. "Dei Verbum" 21.
 [^67]:  I Thessalonians 2:13; cf. "Dei Verbum" 24.
 [^68]:  "Dei Verbum" 21.
@@ -597,11 +597,11 @@ The inspired books teach the truth. "Since therefore all that the inspired autho
 CCC 108
 Still, the Christian faith is not a "religion of the book". Christianity is the religion of the "Word" of God, " a word which is not a written and mute word, but the Word which is incarnate and living".73 If the Scriptures are not to remain a dead letter, Christ, the eternal Word of the living God, must, through the Holy Spirit, "open (our) minds to understand the Scriptures."7 [^4]
 [^69]:  "Dei Verbum" 11;
-[^70]:  "Dei Verbum" 11; Cf. John 20:31; II Timothy 3:16; II Peter 1:19-21; 3:15-1 [^6]
+[^70]:  "Dei Verbum" 11; Cf. John 20:31; II Timothy 3:16; II Peter 1:19-21; 3:15-1 6
 [^71]:  "Dei Verbum" 11.
 [^72]:  "Dei Verbum" 11.
 [^73]:  St. Bernard, S. missus est hom. 4, 11: "J.P. Migne, ed., Patroligia Latina (Paris, 1841-1855)" 183, 86.
-[^74]:  Cf. Luke 24:4 [^5]
+[^74]:  Cf. Luke 24:4 5
 
 PART ONE: THE PROFESSION OF FAITH
 SECTION ONE:  "I BELIEVE" - "WE BELIEVE"
@@ -653,7 +653,7 @@ But I would not believe in the Gospel, had not the authority of the Catholic Chu
 [^76]:  "Dei Verbum" 12 # 2.
 [^77]:  "Dei Verbum" 12 # 3.
 [^78]:  Cf. "Dei Verbum" 12 # 4.
-[^79]:  Cf. Luke 24:25-27, 44-4 [^6]
+[^79]:  Cf. Luke 24:25-27, 44-4 6
 [^80]:  St. Thomas Aquinas, Exoduspos. in Psalms. 21, 11; cf. Psalms 22:14.
 [^81]:  Origen, Hom. in Leviticus. 5, 5: "J.P. Migne, ed., Patroligia Greaca (Paris, 1867-1866)" 12, 454D.
 [^82]:  Cf. Romans 12:6.
@@ -723,19 +723,19 @@ Typology indicates the dynamic movement toward the fulfilment of the divine plan
 [^93]:  "Dei Verbum" 15.
 [^94]:  "Dei Verbum" 15.
 [^95]:  "Dei Verbum" 15.
-[^96]:  "Dei Verbum" 17; cf. Romans 1:1 [^6]
+[^96]:  "Dei Verbum" 17; cf. Romans 1:1 6
 [^97]:  Cf. "Dei Verbum" 20.
 [^98]:  "Dei Verbum" 18.
-[^99]:  "Dei Verbum" 19; cf. Acts 1:1- [^2]
+[^99]:  "Dei Verbum" 19; cf. Acts 1:1- 2
 [^100]:  "Dei Verbum" 19.
 [^101]:  "Dei Verbum" 19.
 [^102]:  St. Caesaria the Younger to St. Richildis and St. Radegunde: "Sacrosanctum concilium"h 345, 480.
 [^103]:  St. Therese of Lisieux, Autobiography of a Saint, tr. Ronald Knox (London: Colossianslins, 1960), 175.
 [^104]:  Cf. I Corinthians 10:6, 11; Hebrews 10:1; l Pt 3:21.
-[^105]:  Cf. Mark 12:29-3 [^1]
+[^105]:  Cf. Mark 12:29-3 1
 [^106]:  Cf. I Corinthians 5:6-8; 10:1-11.
 [^107]:  Cf. St. Augustine, Quaest. in Hept. 2, 73: "J.P. Migne, ed., Patroligia Latina (Paris, 1841-1855)" 34,623; Cf. DU 16.
-[^108]:  I Corinthians 15:2 [^8]
+[^108]:  I Corinthians 15:2 8
 
 PART ONE: THE PROFESSION OF FAITH
 SECTION ONE:  "I BELIEVE" - "WE BELIEVE"
@@ -799,7 +799,7 @@ CCC 143
 By faith, man completely submits his intellect and his will to God.2 With his whole being man gives his assent to God the revealer. Sacred Scripture calls this human response to God, the author of revelation, "the obedience of faith". [^3]
 [^1]:  "Dei Verbum" 2; cf. Colossians 1:15; I Timothy 1:17; Exodus 33:11; John 15:14-15; Baruch 3:38 (Vulg.).
 [^2]:  Cf. "Dei Verbum" 5.
-[^3]:  Cf. Romans 1:5; 16:2 [^6]
+[^3]:  Cf. Romans 1:5; 16:2 6
 
 PART ONE: THE PROFESSION OF FAITH
 SECTION ONE:  "I BELIEVE" - "WE BELIEVE"
@@ -827,17 +827,17 @@ The Virgin Mary most perfectly embodies the obedience of faith. By faith Mary we
 CCC 149
 Throughout her life and until her last ordeal15 when Jesus her son died on the cross, Mary's faith never wavered. She never ceased to believe in the fulfilment of God's word. and so the Church venerates in Mary the purest realization of faith.
 [^4]:  Hebrews 11:8; cf. Genesis 12:1-4.
-[^5]:  Cf. Genesis 23: [^4]
-[^6]:  Cf. Hebrews 11:1 [^7]
-[^7]:  Hebrews 11: [^1]
-[^8]:  Romans 4:3; cf. Genesis 15: [^6]
+[^5]:  Cf. Genesis 23: 4
+[^6]:  Cf. Hebrews 11:1 7
+[^7]:  Hebrews 11: 1
+[^8]:  Romans 4:3; cf. Genesis 15: 6
 [^9]:  Romans 4:11, 18; 4:20; cf. Genesis 15:5.
-[^10]:  Hebrews 11:2, 3 [^9]
-[^11]:  Hebrews 11:40; 12: [^2]
-[^12]:  Luke 1:37-38; cf. Genesis 18:1 [^4]
-[^13]:  Luke 1:4 [^5]
-[^14]:  Cf. Luke 1:4 [^8]
-[^15]:  Cf. Luke 2:3 [^5]
+[^10]:  Hebrews 11:2, 3 9
+[^11]:  Hebrews 11:40; 12: 2
+[^12]:  Luke 1:37-38; cf. Genesis 18:1 4
+[^13]:  Luke 1:4 5
+[^14]:  Cf. Luke 1:4 8
+[^15]:  Cf. Luke 2:3 5
 
 PART ONE: THE PROFESSION OF FAITH
 SECTION ONE:  "I BELIEVE" - "WE BELIEVE"
@@ -856,13 +856,13 @@ To believe in the Holy Spirit
 CCC 152
 One cannot believe in Jesus Christ without sharing in his Spirit. It is the Holy Spirit who reveals to men who Jesus is. For "no one can say "Jesus is Lord", except by the Holy Spirit",22 who "searches everything, even the depths of God. . No one comprehends the thoughts of God, except the Spirit of God."23 Only God knows God completely: we believe in the Holy Spirit because he is God.
 The Church never ceases to proclaim her faith in one only God: Father, Son and Holy Spirit.
-[^16]:  II Timothy 1:1 [^2]
-[^17]:  Cf. Jeremiah 17:5-6; Psalms 40:5; 146:3- [^4]
-[^18]:  Mark 1:11; cf. 9: [^7]
-[^19]:  John 14: [^1]
+[^16]:  II Timothy 1:1 2
+[^17]:  Cf. Jeremiah 17:5-6; Psalms 40:5; 146:3- 4
+[^18]:  Mark 1:11; cf. 9: 7
+[^19]:  John 14: 1
 [^20]:  John 1:18.
-[^21]:  John 6:46; cf. Matthew 11:2 [^7]
-[^22]:  I Corinthians 12: [^3]
+[^21]:  John 6:46; cf. Matthew 11:2 7
+[^22]:  I Corinthians 12: 3
 [^23]:  I Corinthians 2:10-11.
 
 PART ONE: THE PROFESSION OF FAITH
@@ -925,11 +925,11 @@ It is then we must turn to the witnesses of faith: to Abraham, who "in hope... b
 [^27]:  St. Thomas Aquinas, "Summa Theologiae" II-II, 2, 9; cf Dei Filius 3; "Denzinger-Schonmetzer, Enchiridion Symbolorum, definitionum et declarationum de rebus fidei et morum (1965)" 3010.
 [^28]:  Dei Filius: 3 "Denzinger-Schonmetzer, Enchiridion Symbolorum, definitionum et declarationum de rebus fidei et morum (1965)" 3008.
 [^29]:  Dei Filius: 3 "Denzinger-Schonmetzer, Enchiridion Symbolorum, definitionum et declarationum de rebus fidei et morum (1965)" 3009.
-[^30]:  Dei Filius: 3: "Denzinger-Schonmetzer, Enchiridion Symbolorum, definitionum et declarationum de rebus fidei et morum (1965)" 3008-3010; Cf. Mark 16 20; Hebrews 2: [^4]
+[^30]:  Dei Filius: 3: "Denzinger-Schonmetzer, Enchiridion Symbolorum, definitionum et declarationum de rebus fidei et morum (1965)" 3008-3010; Cf. Mark 16 20; Hebrews 2: 4
 [^31]:  St. Thomas Aquinas, "Summa Theologiae" II-II 171, 5, obj. 3.
 [^32]:  John Henry Cardinal Newman, Apologia pro vita sua (London Longman, 1878) 239.
 [^33]:  St. Anselm, Prosl. prooem. "J.P. Migne, ed., Patroligia Latina (Paris, 1841-1855)" 153 225A.
-[^34]:  Ephesians 1:1 [^8]
+[^34]:  Ephesians 1:1 8
 [^35]:  "Dei Verbum" 5.
 [^36]:  St. Augustine, Sermo 43, 7, 9: "J.P. Migne, ed., Patroligia Latina (Paris, 1841-1855)" 38, 257-258.
 [^37]:  Dei Filius 4: "Denzinger-Schonmetzer, Enchiridion Symbolorum, definitionum et declarationum de rebus fidei et morum (1965)" 3017.
@@ -938,16 +938,16 @@ It is then we must turn to the witnesses of faith: to Abraham, who "in hope... b
 [^40]:  "Dignitatis humanae" 11.
 [^41]:  "Dignitatis humanae" 11; Cf. John 18:37; 12:32.
 [^42]:  Cf. Mark 16:16; John 3:36; 6:40 et al.
-[^44]:  I Timothy 1:18-1 [^9]
-[^45]:  Cf. Mark 9:24; Luke 17:5; 22:3 [^2]
-[^46]:  Galatians 5:6; Romans 15:13; cf. James 2:14-2 [^6]
-[^47]:  I Corinthians 13:12; I John 3: [^2]
+[^44]:  I Timothy 1:18-1 9
+[^45]:  Cf. Mark 9:24; Luke 17:5; 22:3 2
+[^46]:  Galatians 5:6; Romans 15:13; cf. James 2:14-2 6
+[^47]:  I Corinthians 13:12; I John 3: 2
 [^48]:  St. Basil De Spiritu Sancto 15, 36: "J.P. Migne, ed., Patroligia Greaca (Paris, 1867-1866)" 32, 132; cf. St. Thomas Aquinas,S Th II-II, 4, 1.
 [^49]:  II Corinthians 5:7.
 [^50]:  I Corinthians 13:12.
-[^51]:  Romans 4:1 [^8]
+[^51]:  Romans 4:1 8
 [^52]:  "Lumen gentium" 58; John Paul II, "Redemptoris Mater" 18.
-[^53]:  Hebrews 12:1-2. Article  [^2]
+[^53]:  Hebrews 12:1-2. Article  2
 
 PART ONE: THE PROFESSION OF FAITH
 SECTION ONE:  "I BELIEVE" - "WE BELIEVE"
@@ -1007,7 +1007,7 @@ CCC 174
 
 CCC 175
 "We guard with care the faith that we have received from the Church, for without ceasing, under the action of God's Spirit, this deposit of great price, as if in an excellent vessel, is constantly being renewed and causes the very vessel that contains it to be renewed."6 [^2]
-[^58]:  Cf. Ephesians 4:4- [^6]
+[^58]:  Cf. Ephesians 4:4- 6
 [^59]:  St. Irenaeus, Adv. haeres. I, 10, 1-2: "J.P. Migne, ed., Patroligia Greaca (Paris, 1867-1866)" 7/1, 549-552.
 [^60]:  St. Irenaeus, Adv. haeres. I, 10, 1-2: "J.P. Migne, ed., Patroligia Greaca (Paris, 1867-1866)" 7/1, 552-553.
 [^61]:  St. Irenaeus, Adv. haeres. 5, 20, I: "J.P. Migne, ed., Patroligia Greaca (Paris, 1867-1866)" 7/2, 1177.
@@ -1124,7 +1124,7 @@ with God, Father, Son and Holy Spirit, and also with the whole Church which tran
 This Creed is the spiritual seal, our heart's meditation and an ever- present guardian; it is, unquestionably, the treasure of our soul.1 [^5]
 [^1]:  Cf. Romans 10:9; I Corinthians 15:3-5, etc.
 [^2]:  St. Cyril of Jeremiahusalem, Catech. illum. 5, 12: "J.P. Migne, ed., Patroligia Greaca (Paris, 1867-1866)" 33, 521-524.
-[^3]:  Matthew 28:1 [^9]
+[^3]:  Matthew 28:1 9
 [^4]:  Romansan Catechism I, 1, 3.
 [^5]:  St. Irenaeus, Dem. ap. 100: "Sacrosanctum concilium"h 62, 170.
 [^6]:  Romansan Catechism I, I, 4.
@@ -1135,7 +1135,7 @@ This Creed is the spiritual seal, our heart's meditation and an ever- present gu
 [^11]:  Cf. "Denzinger-Schonmetzer, Enchiridion Symbolorum, definitionum et declarationum de rebus fidei et morum (1965)" 71-72.
 [^12]:  Paul VI, "Solemn Profession of faith: Credo of the People of God" (1968).
 [^13]:  St. Ambrose, Exoduspl. symb. 7: "J.P. Migne, ed., Patroligia Latina (Paris, 1841-1855)" 17, 1196.
-[^14]:  Romans 6:1 [^7]
+[^14]:  Romans 6:1 7
 [^15]:  St. Ambrose, Exoduspl. symb. I: "J.P. Migne, ed., Patroligia Latina (Paris, 1841-1855)" 17, 1193.
 
 PART ONE: THE PROFESSION OF FAITH
@@ -1276,32 +1276,32 @@ The God of our faith has revealed himself as HE WHO IS; and he has made himself 
 [^3]:  Romansan Catechism I, 2, 2.
 [^4]:  Deuteronomy 6:45.
 [^5]:  Isaiah 45:22-24; cf. Philippians 2:10-11.
-[^6]:  Mark 12:29-3 [^0]
+[^6]:  Mark 12:29-3 0
 [^7]:  Cf. Mark 12:35-37.
-[^9]:  EX 3: [^6]
-[^10]:  EX 3:13-1 [^5]
-[^11]:  Cf. Isaiah 45:15; Judges 13:1 [^8]
-[^12]:  EX 3:6, 1 [^2]
-[^13]:  Cf. EX 3:5- [^6]
-[^14]:  Isaiah 6: [^5]
-[^15]:  Luke 5: [^8]
-[^16]:  Hosea 11: [^9]
-[^17]:  I John 3:19-2 [^0]
-[^18]:  Cf. Exodus 32; 33: 12-1 [^7]
+[^9]:  EX 3: 6
+[^10]:  EX 3:13-1 5
+[^11]:  Cf. Isaiah 45:15; Judges 13:1 8
+[^12]:  EX 3:6, 1 2
+[^13]:  Cf. EX 3:5- 6
+[^14]:  Isaiah 6: 5
+[^15]:  Luke 5: 8
+[^16]:  Hosea 11: 9
+[^17]:  I John 3:19-2 0
+[^18]:  Cf. Exodus 32; 33: 12-1 7
 [^19]:  Exodus 33:18-19.
-[^20]:  Exodus 34:5-6; cf. 34: [^9]
-[^21]:  Exodus 34: [^7]
-[^22]:  Ephesians 2: [^4]
+[^20]:  Exodus 34:5-6; cf. 34: 9
+[^21]:  Exodus 34: 7
+[^22]:  Ephesians 2: 4
 [^23]:  John 8:28 (Greek).
-[^24]:  Cf. Isaiah 44: [^6]
-[^25]:  Psalms 102:26-2 [^7]
-[^26]:  James 1:1 [^7]
-[^27]:  Exodus 34: [^6]
-[^28]:  Psalms 138:2; cf. Psalms 85:1 [^1]
-[^29]:  I John 1:5; 4: [^8]
-[^30]:  Psalms 119:16 [^0]
-[^31]:  II Samueluel 7:2 [^8]
-[^32]:  Cf. Deuteronomy 7: [^9]
+[^24]:  Cf. Isaiah 44: 6
+[^25]:  Psalms 102:26-2 7
+[^26]:  James 1:1 7
+[^27]:  Exodus 34: 6
+[^28]:  Psalms 138:2; cf. Psalms 85:1 1
+[^29]:  I John 1:5; 4: 8
+[^30]:  Psalms 119:16 0
+[^31]:  II Samueluel 7:2 8
+[^32]:  Cf. Deuteronomy 7: 9
 [^33]:  Cf. Wisdom 13:1-9.
 [^34]:  Cf. Psalms 115:15;Wisdom 7:17-21.
 [^35]:  Malachi 2:6.
@@ -1313,7 +1313,7 @@ The God of our faith has revealed himself as HE WHO IS; and he has made himself 
 [^41]:  Isaiah 54:8.
 [^42]:  Isaiah 54: 10; cf. 54:8.
 [^43]:  Jeremiah 31:3.
-[^44]:  I John 4:8, 1 [^6]
+[^44]:  I John 4:8, 1 6
 [^45]:  Cf. I Corinthians 2:7-16; Ephesians 3:9-12.
 [^46]:  Job 36:26.
 [^47]:  St. Joan of Arc.
@@ -1375,7 +1375,7 @@ The eternal origin of the Holy Spirit is revealed in his mission in time. the Sp
 returned to the Father.[^69] The sending of the person of the Spirit after Jesus' glorification[^70] reveals in its fullness the mystery of the Holy Trinity.
 
 CCC 245
-The apostolic faith concerning the Spirit was confessed by the second ecumenical council at Constantinople (381): "We believe in the Holy Spirit, the Lord and giver of life, who proceeds from the Father."[^71] By this confession, the Church recognizes the Father as "the source and origin of the whole divinity".72 But the eternal origin of the Spirit is not unconnected with the Son's origin: "The Holy Spirit, the third person of the Trinity, is God, one and equal with the Father and the Son, of the same substance and also of the same nature. . .Yet he is not called the Spirit of the Father alone,. . . but the Spirit of both the Father and the Son."73 The Creed of the Church from the Council of Constantinople confesses: "With the Father and the Son, he is worshipped and glorified."7 [^4]
+The apostolic faith concerning the Spirit was confessed by the second ecumenical council at Constantinople (381): "We believe in the Holy Spirit, the Lord and giver of life, who proceeds from the Father."[^71] By this confession, the Church recognizes the Father as "the source and origin of the whole divinity".72 But the eternal origin of the Spirit is not unconnected with the Son's origin: "The Holy Spirit, the third person of the Trinity, is God, one and equal with the Father and the Son, of the same substance and also of the same nature. . .Yet he is not called the Spirit of the Father alone,. . . but the Spirit of both the Father and the Son."73 The Creed of the Church from the Council of Constantinople confesses: "With the Father and the Son, he is worshipped and glorified."7 4
 
 CCC 246
 The Latin tradition of the Creed confesses that the Spirit "proceeds from the Father and the Son (filioque)". the Council of Florence in 1438 explains: "The Holy Spirit is eternally from Father and Son; He has his nature and subsistence at once (simul) from the Father and the Son. He proceeds eternally from both as from one principle and through one spiration... And, since the Father has through generation given to the only-begotten Son everything that belongs to the Father, except being Father, the Son has also eternally from the Father, from whom he is eternally born, that the Holy Spirit proceeds from the Son."7 [^5]
@@ -1549,7 +1549,7 @@ If we do not believe that God's love is almighty, how can we believe that the Fa
 [^103]:  Cf. Genesis 1:1; John 1:3; Matthew 6:9; II Corinthians 12:9; cf. I Corinthians 1:18.
 [^104]:  Psalms 115:3.
 [^105]:  Genesis 49:24; Isaiah 1:24 etc.; Psalms 24:8-10; 135 6.
-[^106]:  Cf. Jeremiah 27:5; 32:17; Luke 1:3 [^7]
+[^106]:  Cf. Jeremiah 27:5; 32:17; Luke 1:3 7
 [^107]:  Wisdom 11:21; cf. Esther 4:17b; Proverbs 21:1; Tobit 13:2.
 [^108]:  Wisdom 11:23.
 [^109]:  II Corinthians 6:18; cf. Matthew 6:32.
@@ -1558,7 +1558,7 @@ If we do not believe that God's love is almighty, how can we believe that the Fa
 [^112]:  Ephesians 1:19-22.
 [^113]:  Cf. II Corinthians 12:9; Philippians 4:13.
 [^114]:  Luke 1:37, 49.
-[^115]:  Romansan Catechism I, 2, 1 [^3]
+[^115]:  Romansan Catechism I, 2, 1 3
 
 PART ONE: THE PROFESSION OF FAITH
 SECTION TWO:  I. THE CREEDS
@@ -1784,7 +1784,7 @@ The fact that God permits physical and even moral evil is a mystery that God ill
 [^170]:  I Corinthians 3:9; I Th 3:2; Colossians 4:11.
 [^171]:  Philippians 2:13; cf. I Corinthians 12:6.
 [^172]:  "Gaudium et spes" 36 # 3.
-[^173]:  Cf. Matthew 19:26; John 15:5; 14:1 [^3]
+[^173]:  Cf. Matthew 19:26; John 15:5; 14:1 3
 [^174]:  Cf. St. Thomas Aquinas, "Summa Theologiae" I, 25, 6.
 [^175]:  Cf. St. Thomas Aquinas, "Sacrosanctum concilium"G III, 71.
 [^176]:  Cf. St. Augustine, De libero arbitrio I, 1, 2: "J.P. Migne, ed., Patroligia Latina (Paris, 1841-1855)" 32, 1221- 1223; St. Thomas Aquinas, "Summa Theologiae" I-II, 79, 1.
@@ -2059,7 +2059,7 @@ Revelation makes known to us the state of original holiness and justice of man a
 [^227]:  Pius XII. Enc. Summi pontificatus 3; cf. "Nostra aetate" 1.
 [^228]:  Pius XII Summi pontificatus 3.
 [^229]:  Genesis 2:7.
-[^230]:  Cf. Matthew 16:25-26; John 15:13; Acts 2:4 [^1]
+[^230]:  Cf. Matthew 16:25-26; John 15:13; Acts 2:4 1
 [^231]:  Cf. Matthew 10:28; 26:38; John 12:27; 2 Macc 6 30.
 [^232]:  Cf. I Corinthians 6:19-20; 15:44-45.
 [^233]:  "Gaudium et spes" 14 # 1; cf. Daniel 3:57-80.
@@ -2073,8 +2073,8 @@ Revelation makes known to us the state of original holiness and justice of man a
 [^241]:  Cf. Isaiah 49:14-15; 66: 13; Psalms 131:2-3; Hosea 11:1-4; Jeremiah 3:4- 19.
 [^242]:  Genesis 2:18.
 [^243]:  Genesis 2:19-20.
-[^244]:  Genesis 2:2 [^3]
-[^245]:  Genesis 2:2 [^4]
+[^244]:  Genesis 2:2 3
+[^245]:  Genesis 2:2 4
 [^246]:  Genesis 1:28.
 [^247]:  Cf. "Gaudium et spes" 50 # 1.
 [^248]:  Genesis 1:28.
@@ -2085,7 +2085,7 @@ Revelation makes known to us the state of original holiness and justice of man a
 [^253]:  Cf. Genesis 2:25.
 [^254]:  Cf. I John 2:16.
 [^255]:  Cf. Genesis 2:8.
-[^256]:  Genesis 2:15; cf. 3:17-1 [^9]
+[^256]:  Genesis 2:15; cf. 3:17-1 9
 
 PART ONE: THE PROFESSION OF FAITH
 SECTION TWO:  I. THE CREEDS
@@ -2258,7 +2258,7 @@ Christians believe that "the world has been established and kept in being by the
 [^291]:  Cf. Council of Trent: "Denzinger-Schonmetzer, Enchiridion Symbolorum, definitionum et declarationum de rebus fidei et morum (1965)" 1512.
 [^292]:  Cf. Council of Trent: "Denzinger-Schonmetzer, Enchiridion Symbolorum, definitionum et declarationum de rebus fidei et morum (1965)" 1514.
 [^293]:  St. Thomas Aquinas, De malo 4, I.
-[^294]:  Cf. Council of Trent: "Denzinger-Schonmetzer, Enchiridion Symbolorum, definitionum et declarationum de rebus fidei et morum (1965)" 1511-151 [^2]
+[^294]:  Cf. Council of Trent: "Denzinger-Schonmetzer, Enchiridion Symbolorum, definitionum et declarationum de rebus fidei et morum (1965)" 1511-151 2
 [^295]:  Cf. Council of Trent: "Denzinger-Schonmetzer, Enchiridion Symbolorum, definitionum et declarationum de rebus fidei et morum (1965)" 1513.
 [^296]:  "Denzinger-Schonmetzer, Enchiridion Symbolorum, definitionum et declarationum de rebus fidei et morum (1965)" 371-372.
 [^297]:  Cf. "Denzinger-Schonmetzer, Enchiridion Symbolorum, definitionum et declarationum de rebus fidei et morum (1965)" 1510-1516.
@@ -2311,7 +2311,7 @@ From this loving knowledge of Christ springs the desire to proclaim him, to "eva
 [^3]:  Mark 1:11; cf. Luke 1:5, 68.
 [^4]:  John 13:3.
 [^5]:  John 3:13; 6:33.
-[^61]:  John 4:2.
+[^6]:  I John 4:2.
 [^7]:  John 1:14,16.
 [^8]:  Matthew 16:16.
 [^9]:  Cf. Matthew 16:18; St. Leo the Great, Sermo 4 3: "J.P. Migne, ed., Patroligia Latina (Paris, 1841-1855)" 54,150 - 152; 51,1: "J.P. Migne, ed., Patroligia Latina (Paris, 1841-1855)" 54, 309B; 62, 2: "J.P. Migne, ed., Patroligia Latina (Paris, 1841-1855)" 54, 350-351; 83, 3: "J.P. Migne, ed., Patroligia Latina (Paris, 1841-1855)" 54, 431-432.
@@ -2502,10 +2502,10 @@ The Word became flesh for us in order to save us by reconciling us with God, who
 Sick, our nature demanded to be healed; fallen, to be raised up; dead, to rise again.We had lost the possession of the good; it was necessary for it to be given back to us. Closed in the darkness, it was necessary to bring us the light; captives, we awaited a Saviour; prisoners, help; slaves, a liberator. Are these things minor or insignificant? Did they not move God to descend to human nature and visit it, since humanity was in so miserable and unhappy a state?7 [^1]
 
 CCC 458
-The Word became flesh so that thus we might know God's love: "In this the love of God was made manifest among us, that God sent his only Son into the world, so that we might live through him."[^72] "For God so loved the world that he gave his only Son, that whoever believes in him should not perish but have eternal life."7 [^3]
+The Word became flesh so that thus we might know God's love: "In this the love of God was made manifest among us, that God sent his only Son into the world, so that we might live through him."[^72] "For God so loved the world that he gave his only Son, that whoever believes in him should not perish but have eternal life."7 3
 
 CCC 459
-The Word became flesh to be our model of holiness: "Take my yoke upon you, and learn from me." "I am the way, and the truth, and the life; no one comes to the Father, but by me."[^74] On the mountain of the Transfiguration, the Father commands: "Listen to him!"[^75] Jesus is the model for the Beatitudes and the norm of the new law: "Love one another as I have loved you."[^76] This love implies an effective offering of oneself, after his example.7 [^7]
+The Word became flesh to be our model of holiness: "Take my yoke upon you, and learn from me." "I am the way, and the truth, and the life; no one comes to the Father, but by me."[^74] On the mountain of the Transfiguration, the Father commands: "Listen to him!"[^75] Jesus is the model for the Beatitudes and the norm of the new law: "Love one another as I have loved you."[^76] This love implies an effective offering of oneself, after his example.7 7
 
 CCC 460
 TheWord became flesh to make us "partakers of the divine nature":78 "For this is why the Word became man, and the Son of God became the Son of man: so that man, by entering into communion with the Word and thus receiving divine sonship, might become a son of God."79 "For the Son of God became man so that we might become God."80 "The only-begotten Son of God, wanting to make us sharers in his divinity, assumed our nature, so that he, made man, might make men gods."8 [^1]
@@ -3097,7 +3097,7 @@ Jesus' entry into Jerusalem manifests the coming of the kingdom that the Messiah
 [^240]:  St. Hilary of Poitiers, In Matth. 2, 5: "J.P. Migne, ed., Patroligia Latina (Paris, 1841-1855)" 9, 927.
 [^241]:  Cf. Mark 1:12-13.
 [^242]:  Luke 4:13.
-[^243]:  Cf. Psalms 95:10; Mark 3:2 [^7]
+[^243]:  Cf. Psalms 95:10; Mark 3:2 7
 [^244]:  Cf. Matthew 16:2 1-23.
 [^245]:  Hebrews 4:15.
 [^246]:  Mark 1:14-15.
@@ -3560,7 +3560,7 @@ To the benefit of every man, Jesus Christ tasted death (cf Heb 2:9). It is truly
 CCC 630
 During Christ's period in the tomb, his divine person continued to assume both his soul and his body, although they were separated from each other by death. For this reason the dead Christ's body "saw no corruption" (Acts 13:37).
 [^459]:  Hebrews 2:9.
-[^460]:  I Corinthians 15:3.
+111[^460]:  I Corinthians 15:3.
 [^461]:  Cf. John 19:42.
 [^462]:  Cf. Hebrews 4:7-9.
 [^463]:  Cf. John 19:30.
@@ -3570,7 +3570,7 @@ During Christ's period in the tomb, his divine person continued to assume both h
 [^467]:  Acts 3:15.
 [^468]:  Luke 24:5-6.
 [^469]:  St. John Damascene, De fide orth. 3, 27: "J.P. Migne, ed., Patroligia Greaca (Paris, 1867-1866)" 94, 1097.
-{footnote #469B: Acts 2:24.}
+[^469Bis] Acts 2:24.
 [^470]:  St. Thomas Aquinas, "Summa Theologiae" III, 51, 3.
 [^471]:  Isaiah 53:8.
 [^472]:  Acts 2:26-27; cf. Psalms 16:9-10.
@@ -3735,7 +3735,7 @@ Christ, "the first-born from the dead" (Col 1:18), is the principle of our own r
 [^515]:  Cf. Romans 6:4; II Corinthians 13:4; Philippians 3:10; Ephesians 1:19-22; Hebrews 7:16.
 [^516]:  Cf. Mark 8:31; 9:9-31; 10:34.
 [^517]:  John 10:17-18.
-[^518]   I Th 4:14.
+[^518] I Th 4:14.
 [^519]:  St. Gregory of Nyssa, In Christi res. Orat. I: "J.P. Migne, ed., Patroligia Greaca (Paris, 1867-1866)" 46, 617B; cf. also "Denzinger-Schonmetzer, Enchiridion Symbolorum, definitionum et declarationum de rebus fidei et morum (1965)" 325; 359; 369.
 [^520]:  I Corinthians 15:14.
 [^521]:  Cf. Matthew 28:6; Mark 16:7; Luke 24:6-7, 26-27, 44-48.
@@ -4034,7 +4034,7 @@ The dove. At the end of the flood, whose symbolism refers to Baptism, a dove rel
 [^23]:  Romans 8:9.
 [^24]:  II Corinthians 3:17.
 [^25]:  Romans 8:9, Romans 8:9 4; 15:19; I Corinthians 6:11; 7:40.
-[^26]:1 Pet 4:14.
+[^26]:  I Peter 4:14.
 [^27]:  I Corinthians 12:13.
 [^28]:  John 19:34; I John 5:8.
 [^29]:  Cf. John 4:10-14; 738; Exodus 17:1-6; Isaiaha 55:1; Zechariah 14:8; I Corinthians 10:4; Revelation 21:6; 22:17.
@@ -4050,7 +4050,7 @@ The dove. At the end of the flood, whose symbolism refers to Baptism, a dove rel
 [^39]:  Luke 12:49.
 [^40]:  Acts 2:3-4.
 [^41]:  Cf. St. John of the Cross, the Living Flame of Love, in the Colossianslected Works of St. John of the Cross, tr. K. Kavanaugh, O"Christus Dominus", and O. Rodriguez, O"Christus Dominus" (Washington DC: Institute of Carmelite Studies, 1979), 577 ff.
-[^42]: 1 Thess 5:19.
+[^42]:  I Thessalonians 5:19.
 [^43]:  Cf. Exodus 24:15-18.
 [^44]:  Cf. Exodus 33:9-10.
 [^45]:  Cf. Exodus 40:36-38; I Corinthians 10:1-2.
@@ -4150,13 +4150,13 @@ The People of the "poor"87 - those who, humble and meek, rely solely on their Go
 [^75]:  Exodus 19:5-6; Cf. I Peter 2:9.
 [^76]:  Cf. II Samueluel 7; Psalms 89; Luke 1:32-33.
 [^77]:  Cf. Luke 24:26.
-[^78]:Isa 43:19.
+[^78] Isa 43:19.
 [^79]:  Cf. Zephaniah 2:3; Luke 2:25, 38.
 [^80]:  John 12:41; cf. Isaiaha 6-12.
-[^81]:Isa 11:1-2.
+[^81] Isa 11:1-2.
 [^82]:  Cf. Isaiaha 42:1-9; cf. Matthew 12:18-21; John 1:32-34; then cf. Isaiaha 49:1-6; cf. Matthew 3:17; Luke 2:32; finally cf. Isaiaha 50:4-10 and Isaiaha 52:13-53:12.
 [^83]:  Philippians 2:7.
-[^84]:Isa 61:1-2; cf. Lk 4:18-19.
+[^84] Isa 61:1-2; cf. Lk 4:18-19.
 [^85]:  Cf. Ezekiel 11:19; 36:25-28; 37:1-14; Jeremiah 31:31-34; and cf. Joel 3:1-5.
 [^86]:  Cf. Acts 2:17-21.
 [^87]:  Cf. Zephaniah 2:3; Psalms 22:27; 34:3; Isaiaha 49:13; 61:1; etc.
@@ -4173,10 +4173,10 @@ CCC 717
 "There was a man sent from God, whose name was John."89 John was "filled with the Holy Spirit even from his mother's womb"90 by Christ himself, whom the Virgin Mary had just conceived by the Holy Spirit. Mary's visitation to Elizabeth thus became a visit from God to his people.9 [^1]
 
 CCC 718
-John is "Elijah (who) must come."92 The fire of the Spirit dwells in him and makes him the forerunner of the coming Lord. In John, the precursor, the Holy Spirit completes the work of "[making] ready a people prepared for the Lord."9 [^3]
+John is "Elijah (who) must come."92 The fire of the Spirit dwells in him and makes him the forerunner of the coming Lord. In John, the precursor, the Holy Spirit completes the work of "[making] ready a people prepared for the Lord."9 3
 
 CCC 719
-John the Baptist is "more than a prophet."94 In him, the Holy Spirit concludes his speaking through the prophets. John completes the cycle of prophets begun by Elijah.95 He proclaims the imminence of the consolation of Isaiahrael; he is the "voice" of the Consoler who is coming.96 As the Spirit of truth will also do, John "came to bear witness to the light."97 In John's sight, the Spirit thus brings to completion the careful search of the prophets and fulfills the longing of the angels.98 "He on whom you see the Spirit descend and remain, this is he who baptizes with the Holy Spirit. and I have seen and have borne witness that this is the Son of God.... Behold, the Lamentationsb of God."9 [^9]
+John the Baptist is "more than a prophet."94 In him, the Holy Spirit concludes his speaking through the prophets. John completes the cycle of prophets begun by Elijah.95 He proclaims the imminence of the consolation of Isaiahrael; he is the "voice" of the Consoler who is coming.96 As the Spirit of truth will also do, John "came to bear witness to the light."97 In John's sight, the Spirit thus brings to completion the careful search of the prophets and fulfills the longing of the angels.98 "He on whom you see the Spirit descend and remain, this is he who baptizes with the Holy Spirit. and I have seen and have borne witness that this is the Son of God.... Behold, the Lamentationsb of God."9 9
 
 CCC 720
 Finally, with John the Baptist, the Holy Spirit begins the restoration to man of "the divine likeness," prefiguring what he would achieve with and in Christ. John's baptism was for repentance; baptism in water and the Spirit will be a new birth.10 [^0]
@@ -4298,7 +4298,7 @@ CCC 741
 [^125]:  Romans 5:5.
 [^126]:  II Corinthians 13:14.
 [^127]:  I John 4: 12; cf. Romans 8:23; II Corinthians 1:21.
-[^128]:  Acts 1:8; cf. I Corinthians 1 [^3]
+[^128]:  Acts 1:8; cf. I Corinthians 1 3
 [^129]:  Galatians 5:22-23.
 [^130]:  Galatians 5:25; cf. Matthew 16:24-26.
 [^131]:  St. Basil, De Spiritu Sancto, 15,36: "J.P. Migne, ed., Patroligia Greaca (Paris, 1867-1866)" 32,132.
@@ -4655,9 +4655,9 @@ The Church is the Temple of the Holy Spirit. the Spirit is the soul, as it were,
 CCC 810
 "Hence the universal Church is seen to be 'a people brought into unity from the unity of the Father, the Son, and the Holy Spirit'" (LG 4 citing St. Cyprian, De Dom. orat. 23: PL 4, 553).
 [^201]:  "Lumen gentium" 9; Cf. Acts 10:35; I Corinthians 11:25.
-[^202]:1 Pet 2:9.
+[^202]:  I Peter 2:9.
 [^203]:  John 3:3-5.
-[^204]:  Cf. John 13 3 [^4]
+[^204]:  Cf. John 13 3 4
 [^205]:  Romans 8:2; Galatians 5:25.
 [^206]:  Cf. Matthew 5:13-16.
 [^207]:  "Lumen gentium" 9 # 2.
@@ -4707,7 +4707,7 @@ CCC 810
 [^251]:  "Lumen gentium" 7 # 2.
 [^252]:  "Lumen gentium" 12 # 2; cf. "Apostolicam actositatem" 3.
 [^253]:  Cf. I Corinthians 13.
-[^254]:  "Lumen gentium" 12; cf. 30; 1 Thess 5:12, 19-21; John Paul II, Christifideles Laici, 24.
+[^254]:  "Lumen gentium" 12; cf. 30; I Thessalonians 5:12, 19-21; John Paul II, Christifideles Laici, 24.
 [^255]:  I Corinthians 12:7.
 
 PART ONE: THE PROFESSION OF FAITH
@@ -5432,7 +5432,7 @@ Already destined for him through Baptism, the person who surrenders himself to t
 [^471]:  Pius XII, Proverbsida Mater; cf. "Perfectae caritatis" 11.
 [^472]:  Cf. "Codex Iuris Canonici", can. 713 # 2.
 [^473]:  Cf. "Codex Iuris Canonici", can. 731 ## 1 and 2.
-[^474]:  "Codex Iuris Canonici", can. 783.; cf. RM 6 [^9]
+[^474]:  "Codex Iuris Canonici", can. 783.; cf. RM 6 9
 [^475]:  "Lumen gentium" 31 # 2.
 [^476]:  "Lumen gentium" 44 # 3.
 
@@ -5696,7 +5696,7 @@ CCC 991
 Belief in the resurrection of the dead has been an essential element of the Christian faith from its beginnings. "The confidence of Christians is the resurrection of the dead; believing this we live."53 [^6]
 How can some of you say that there is no resurrection of the dead? But if there is no resurrection of the dead, then Christ has not been raised; if Christ has not been raised, then our preaching is in vain and your faith is in vain.... But in fact Christ has been raised from the dead, the first fruits of those who have fallen asleep.53 [^7]
 [^532]:  Cf. John 6:39-40.
-[^533]:  Romans 8:11; cf. 1 Thess 4:14; I Corinthians 6:14; II Corinthians 4:14; Philippians 3:10-11.
+[^533]:  Romans 8:11; cf. I Thessalonians 4:14; I Corinthians 6:14; II Corinthians 4:14; Philippians 3:10-11.
 [^534]:  Cf. Genesis 6:3; Psalms 56:5; Isaiaha 40:6.
 [^535]:  Romans 8:11.
 [^536]:  Tertullian, De res, 1,1: "J.P. Migne, ed., Patroligia Latina (Paris, 1841-1855)" 2, 841.
@@ -5773,7 +5773,7 @@ The body [is meant] for the Lord, and the Lord for the body. and God raised the 
 [^553]:  I Corinthians 15:35-37, 42, 52, 53.
 [^554]:  St. Irenaeus, Adv. haeres. 4, 18, 4-5: "J.P. Migne, ed., Patroligia Greaca (Paris, 1867-1866)" 7/1, 1028-1029.
 [^555]:  John 6: 39-40, 44, 54; 11:24; "Lumen gentium" 48 # 3.
-[^556] 1 Thess 4:16.
+[^556]:  I Thessalonians 4:16.
 [^557]:  Colossians 2:12; 3:1.
 [^558]:  Colossians 3:3; cf. Philippians 3:20.
 [^559]:  Ephesians 2:6.
@@ -5937,7 +5937,7 @@ CCC 1029
 In the glory of heaven the blessed continue joyfully to fulfill God's will in relation to other men and to all creation. Already they reign with Christ; with him "they shall reign for ever and ever."60 [^3]
 [^596]:  I John 3:2; cf. I Corinthians 13:12; Revelation 22:4.
 [^597] Benedict XII, Benedictus Deus (1336): DS 1000; cf. LG 49.
-[^598]:  Philippians 1:23; Cf. John 14:3; 1 Thess 4:17.
+[^598]:  Philippians 1:23; Cf. John 14:3; I Thessalonians 4:17.
 [^599]:  Cf. Revelation 2:17.
 [^600]:  St. Ambrose, In Luc., 10, 121: "J.P. Migne, ed., Patroligia Latina (Paris, 1841-1855)" 15, 1834A.
 [^601]:  I Corinthians 2:9.
@@ -6068,10 +6068,10 @@ CCC 1050
 "When we have spread on earth the fruits of our nature and our enterprise . . . according to the command of the Lord and in his Spirit, we will find them once again, cleansed this time from the stain of sin, illuminated and transfigured, when Christ presents to his Father an eternal and universal kingdom."641 God will then be "all in all" in eternal life:64 [^2]
 True and subsistent life consists in this: the Father, through the Son and in the Holy Spirit, pouring out his heavenly gifts on all things without exception. Thanks to his mercy, we too, men that we are, have received the inalienable promise of eternal life.64 [^3]
 [^629]:  "Lumen gentium" 48; Cf. Acts 3:21; Ephesians 1:10; Colossians 1:20; II Peter 3:10-13.
-[^630] 2 Pet 3:13; Cf. Rev 21:1.
+[^630]:  II Peter 3:13; Cf. Revelation 21:1.
 [^631]:  Ephesians 1:10.
 [^632]:  Cf. Revelation 21:5.
-633ev 21:4.
+[^633]:  Revelation 21:4.
 [^634]:  Cf. "Lumen gentium" 1.
 [^635]:  Revelation 21:2, 9.
 [^636]:  Cf. Revelation 21:27.
@@ -6148,6 +6148,7 @@ God, for ever and ever. AMEN.
 [^647]:  St. Augustine, Sermo 58, 11, 13: "J.P. Migne, ed., Patroligia Latina (Paris, 1841-1855)" 38, 399.
 [^648]:  Revelation 3:14.
 [^649]:  II Corinthians 1:20.
+
 PART TWO:  THE CELEBRATION OF THE CHRISTIAN MYSTERY
 Why the liturgy?
 
@@ -6651,7 +6652,7 @@ CCC 1156
 "The musical tradition of the universal Church is a treasure of inestimable value, greater even than that of any other art. the main reason for this pre-eminence is that, as a combination of sacred music and words, it forms a necessary or integral part of solemn liturgy."20 The composition and singing of inspired psalms, often accompanied by musical instruments, were already closely linked to the liturgical celebrations of the Old Covenant. the Church continues and develops this tradition: "Address . . . one another in psalms and hymns and spiritual songs, singing and making melody to the Lord with all your heart." "He who sings prays twice."2 [^1]
 
 CCC 1157
-Sng and music fulfill their function as signs in a manner all the more significant when they are "more closely connected . . . with the liturgical action,"22 according to three principal criteria: beauty expressive of prayer, the unanimous participation of the assembly at the designated moments, and the solemn character of the celebration. In this way they participate in the purpose of the liturgical words and actions: the glory of God and the sanctification of the faithful:2 [^3]
+Song and music fulfill their function as signs in a manner all the more significant when they are "more closely connected . . . with the liturgical action,"22 according to three principal criteria: beauty expressive of prayer, the unanimous participation of the assembly at the designated moments, and the solemn character of the celebration. In this way they participate in the purpose of the liturgical words and actions: the glory of God and the sanctification of the faithful:2 [^3]
 How I wept, deeply moved by your hymns, songs, and the voices that echoed through your Church! What emotion I experienced in them!
 Those sounds flowed into my ears distilling the truth in my heart. A feeling of devotion surged within me, and tears streamed down my face - tears that did me good.2 [^4]
 
@@ -6769,7 +6770,7 @@ The Liturgy of the Hours, which is like an extension of the Eucharistic celebrat
 [^44]:  "Sacrosanctum concilium" 103.
 [^45]:  "Sacrosanctum concilium" 104; cf. "Sacrosanctum concilium" 108, 111.
 [^46]:  Cf. "Sacrosanctum concilium", Ch. IV, 83-101.
-[^47]:  "Sacrosanctum concilium" 84; 1 Thess 5:17; Ephesians 6:18.
+[^47]:  "Sacrosanctum concilium" 84; I Thessalonians 5:17; Ephesians 6:18.
 [^48]:  "Sacrosanctum concilium" 98.
 [^49]:  "Sacrosanctum concilium" 84.
 [^50]:  "Sacrosanctum concilium" 83.
@@ -6813,7 +6814,7 @@ Finally, the church has an eschatological significance. To enter into the house 
 Father "will wipe every tear from their eyes."65 Also for this reason, the Church is the house of all God's children, open and welcoming.
 [^53]:  John 4:24.
 [^54]:  I Peter 2:4-5.
-[^55]:  II Corinthians 6:1 [^6]
+[^55]:  II Corinthians 6:1 6
 [^56]:  Cf. "Dignitatis humanae" 4.
 [^57]:  "Presbyterorum ordinis" 5; Cf. "Sacrosanctum concilium" 122-127.
 [^58]:  Cf. "Sacrosanctum concilium" 7.
@@ -6844,7 +6845,7 @@ CCC 1190
 The Liturgy of the Word is an integral part of the celebration. the meaning of the celebration is expressed by the Word of God which is proclaimed and by the response of faith to it.
 
 CCC 1191
-Sng and music are closely connected with the liturgical action. the criteria for their proper use are the beauty expressive of prayer, the unanimous participation of the assembly, and the sacred character of the celebration.
+Song and music are closely connected with the liturgical action. the criteria for their proper use are the beauty expressive of prayer, the unanimous participation of the assembly, and the sacred character of the celebration.
 
 CCC 1192
 Sacred images in our churches and homes are intended to awaken and nourish our faith in the mystery of Christ.Through the icon of Christ and his works of salvation, it is he whom we adore. Through sacred images of the holy Mother of God, of the angels and of the saints, we venerate the persons represented.
@@ -6973,7 +6974,7 @@ Baptism is God's most beautiful and magnificent gift....We call it gift, grace, 
 [^6]:  II Corinthians 5:17; Galatians 6:15; Cf. Romans 6:34; Colossians 2:12.
 [^7]:  Titus 3:5; John 3:5.
 [^8]:  St. Justin, Apol. 1, 61, 12: "J.P. Migne, ed., Patroligia Greaca (Paris, 1867-1866)" 6, 421.
-[^9]:  John 1:9; 1 Thess 5:5; Hebrews 10:32; Ephesians 5:8.
+[^9]:  John 1:9; I Thessalonians 5:5; Hebrews 10:32; Ephesians 5:8.
 [^10]:  St. Gregory of Nazianzus, Oratio 40, 3-4: "J.P. Migne, ed., Patroligia Greaca (Paris, 1867-1866)" 36, 361C.
 
 PART TWO:  THE CELEBRATION OF THE CHRISTIAN MYSTERY
@@ -7188,7 +7189,7 @@ V. Who can Baptize?
 CCC 1256
 The ordinary ministers of Baptism are the bishop and priest and, in the Latin Church, also the deacon.57 In case of necessity, anyone, even a not-baptized person, with the required intention, can baptize.57B , by using the Trinitarian baptismal formula. The intention required is to will to do what the Church does when she baptizes. The
 Church finds the reason for this possibility in the universal saving will of God and the necessity of Baptism for salvation.5 [^8]
-[^57]:  Cf. "Codex Iuris Canonici", can. 861 # 1; "Corpus Canonum Ecclesiarum Orientalium", can. 677 # 1. 57B Cf. "Codex Iuris Canonici", can. 861 #  [^2]
+[^57]:  Cf. "Codex Iuris Canonici", can. 861 # 1; "Corpus Canonum Ecclesiarum Orientalium", can. 677 # 1. 57B Cf. "Codex Iuris Canonici", can. 861 #  2
 [^58]:  Cf. I Timothy 2:4.
 
 PART TWO:  THE CELEBRATION OF THE CHRISTIAN MYSTERY
@@ -7284,7 +7285,7 @@ The Holy Spirit has marked us with the seal of the Lord ("Dominicus character") 
 [^74]:  I Peter 2:9.
 [^75]:  Cf. I Corinthians 6:19; II Corinthians 5:15.
 [^76]:  Hebrews 13:17.
-[^77]:  Cf. Ephesians 5:21; I Corinthians 16:15-16; 1 Thess 5:12-13; John 13:12-15.
+[^77]:  Cf. Ephesians 5:21; I Corinthians 16:15-16; I Thessalonians 5:12-13; John 13:12-15.
 [^78]:  Cf. "Lumen gentium" 37; "Codex Iuris Canonici", cann. 208 223; "Corpus Canonum Ecclesiarum Orientalium", can. 675:2.
 [^79]:  "Lumen gentium" 11; cf. "Lumen gentium" 17; "Ad gentes" 7; 23.
 [^80]:  "Unitatis redintegratio" 3.
@@ -7419,7 +7420,8 @@ All-powerful God, Father of our Lord Jesus Christ, by water and the Holy Spirity
 Send your Holy Spirit upon themto be their helper and guide.Give them the spirit of wisdom and understanding,the spirit of right judgment and courage,the spirit of knowledge and reverence.Fill them with the spirit of wonder and awe in your presence. We ask this through Christ our Lord.11 [^2]
 
 CCC 1300
-The essential rite of the sacrament follows. In the Latin rite, "the sacrament of Confirmation is conferred through the anointing with chrism on the forehead, which is done by the laying on of the hand, and through the words: Accipe signaculum doni Spiritus Sancti [Be sealed with the Gift of the Holy Spirit.]."113 In the Eastern Churches, after a prayer of epiclesis the more significant parts of the body are anointed with myron: forehead, eyes, nose, ears, lips, chest, back, hands, and feet. Each anointing is accompanied by the formula: GND"(4H *TNg"H A<gb:"J@H !(4@b(Signaculum doni Spiritus Sancti): "The seal of the gift that is the Holy Spirit."113B
+The essential rite of the sacrament follows. In the Latin rite, "the sacrament of Confirmation is conferred through the anointing with chrism on the forehead, which is done by the laying on of the hand, and through the words: Accipe signaculum doni Spiritus Sancti [Be sealed with the Gift of the Holy Spirit.]."11 [^3]
+In the Eastern Churches, after a prayer of epiclesis the more significant parts of the body are anointed with myron: forehead, eyes, nose, ears, lips, chest, back, hands, and feet. Each anointing is accompanied by the formula: GND"(4H *TNg"H A<gb:"J@H !(4@b(Signaculum doni Spiritus Sancti): "The seal of the gift that is the Holy Spirit."113B
 
 CCC 1301
 The sign of peace that concludes the rite of the sacrament signifies and demonstrates ecclesial communion with the bishop and with all the faithful.11 [^4]
@@ -7435,7 +7437,7 @@ The sign of peace that concludes the rite of the sacrament signifies and demonst
 [^111]:  Cf. "Codex Iuris Canonici", can. 866.
 [^112]:  "Ordo confirmarionis" 25.
 [^113]:  Paul VI, apostolic constitution, Divinae consortium naturae, 663.
-[^113]:  B Rituale per le Chiese orientali di rito bizantino in lingua greca, Pars Prima (Libreria Editrice Vaticana, 1954) 36.
+111[^113]:  B Rituale per le Chiese orientali di rito bizantino in lingua greca, Pars Prima (Libreria Editrice Vaticana, 1954) 36.
 [^114]:  Cf. St. Hippolytus, Trad. Ap. 21 "Sacrosanctum concilium"h 11, 80-95.
 
 PART TWO:  THE CELEBRATION OF THE CHRISTIAN MYSTERY
@@ -7714,7 +7716,7 @@ The liturgy of the Eucharist unfolds according to a fundamental structure which 
 The liturgy of the Word and liturgy of the Eucharist together form "one single act of worship";170 The Eucharistic table set for us is the table both of the Word of God and of the Body of the Lord.17 [^1]
 
 CCC 1347
-Is_this not the same movement as the Paschal meal of the risen Jesus with his disciples? Walking with them he explained the Scriptures to them; sitting with them at table "he took bread, blessed and broke it, and gave it to them."17 [^2]
+Is this not the same movement as the Paschal meal of the risen Jesus with his disciples? Walking with them he explained the Scriptures to them; sitting with them at table "he took bread, blessed and broke it, and gave it to them."17 [^2]
 The movement of the celebration
 
 CCC 1348
@@ -7751,10 +7753,10 @@ has received baptism for the forgiveness of sins and new birth, and lives in kee
 [^170]:  "Sacrosanctum concilium" 56.
 [^171]:  Cf. "Dei Verbum" 21.
 [^172]:  Cf. Luke 24:13-35.
-[^173]:  Cf. 1 Thess 2:13.
+[^173]:  Cf. I Thessalonians 2:13.
 [^174]:  I Timothy 2:1-2.
 [^175]:  St. Irenaeus, Adv. haeres. 4, 18, 4: "J.P. Migne, ed., Patroligia Greaca (Paris, 1867-1866)" 7/1, 1027; cf. ? Malachi 1:11.
-[^176]:  Cf. I Corinthians 16:1; II Corinthians 8: [^9]
+[^176]:  Cf. I Corinthians 16:1; II Corinthians 8: 9
 [^177]:  St. Justin, Apol. 1, 67: "J.P. Migne, ed., Patroligia Greaca (Paris, 1867-1866)" 6, 429.
 [^178]:  Cf. Romansan Missal, "Eucharistic Prayer" I (Romansan Canon) 90.
 [^179]:  John 6:51.
@@ -7981,7 +7983,7 @@ When, in the Ordinary's judgment, a grave necessity arises, Catholic ministers m
 [^216]:  I Corinthians 11:27-29.
 [^217]:  Romansan Missal, response to the invitation to communion; cf. Matthew 8:8.
 [^218]:  Cf. "Codex Iuris Canonici", can. 919.
-[^218]:  B Cf. "Codex Iuris Canonici", can. 916.
+111[^218]:  B Cf. "Codex Iuris Canonici", can. 916.
 [^219]:  Cf. "Codex Iuris Canonici", can. 917;The faithful may receive the Holy Eucharist only a second time on the same day [Cf. Pontificia Comissio Codici Iuris Canonici Authentice Interpretando, Responsa ad proposita dubia: "Apostolicam actositatem"S 76 (1984) 746].
 [^220]:  "Sacrosanctum concilium" 55.
 [^221]:  "Orientalium ecclesiarum" 15; "Codex Iuris Canonici", can. 920.
@@ -8218,7 +8220,7 @@ The process of conversion and repentance was described by Jesus in the parable o
 [^33]:  Cf. Am 5:24; Isaiaha 1:17.
 [^34]:  Cf. Luke 9:23.
 [^35]:  Council of Trent (1551) "Denzinger-Schonmetzer, Enchiridion Symbolorum, definitionum et declarationum de rebus fidei et morum (1965)" 1638.
-[^36]:  Cf. "Sacrosanctum concilium" 109-110; "Codex Iuris Canonici", cann. 1249-1253.; "Corpus Canonum Ecclesiarum Orientalium", Cann. 880-88 [^3]
+[^36]:  Cf. "Sacrosanctum concilium" 109-110; "Codex Iuris Canonici", cann. 1249-1253.; "Corpus Canonum Ecclesiarum Orientalium", Cann. 880-88 3
 [^37]:  Cf. Luke 15:11-24.
 
 PART TWO:  THE CELEBRATION OF THE CHRISTIAN MYSTERY
@@ -8442,7 +8444,7 @@ CCC 1479
 Since the faithful departed now being purified are also members of the same communion of saints, one way we can help them is to obtain indulgences for them, so that the temporal punishments due for their sins may be remitted.
 [^81]:  Paul VI, apostolic constitution, Indulgentiarum doctrina, Norm 1.
 [^82]:  Indulgentiarum doctrina, Norm 2; Cf. Norm 3.
-[^82]:  B"Codex Iuris Canonici", can. 994.
+82B CIC, can. 994.
 [^83]:  Cf. Council of Trent (1551): "Denzinger-Schonmetzer, Enchiridion Symbolorum, definitionum et declarationum de rebus fidei et morum (1965)" 1712-1713; (1563): 1820.
 [^84]:  Ephesians 4:22, 24.
 [^85]:  Indulgentiarum doctrina, 5.
@@ -9274,7 +9276,7 @@ The various liturgies abound in prayers of blessing and epiclesis asking God's g
 [^121]:  Cf. "Lumen gentium" 6.
 [^122]:  Cf. I Corinthians 10:17.
 [^123]:  "Familiaris consortio" 67.
-[^123]:  B Cf. "Corpus Canonum Ecclesiarum Orientalium", can. 817.
+111[^123]:  B Cf. "Corpus Canonum Ecclesiarum Orientalium", can. 817.
 {footnote #123T: Cf. CCEO, can. 828.}
 [^124]:  Cf. Ephesians 5:32.
 
@@ -9625,12 +9627,13 @@ A farewell to the deceased is his final "commendation to God" by the Church. It 
 By this final greeting "we sing for his departure from this life and separation from us, but also because there is a communion and a reunion. For even dead, we are not at all separated from one another, because we all run the same course and we will find one another again in the same place.We shall never be separated, for we live for Christ, and now we are united with Christ as we go toward him . . . we shall all be together in Christ."19 [^2]
 [^185]:  Cf. "Sacrosanctum concilium" 81-82.
 [^186]:  Cf. "Sacrosanctum concilium" 81.
-[^187]:  Cf. 1 Thess 4:18.
+[^187]:  Cf. I Thessalonians 4:18.
 [^188]:  "Ordo confirmarionis"F 41.
 [^189]:  Cf. "Ordo confirmarionis"F 41.
 [^190]:  Cf. "Ordo confirmarionis"F 57.
 [^191]:  "Ordo confirmarionis"F 10.
 [^192]:  St. Simeon of Thessalonica, De ordine sepulturae. 336: "J.P. Migne, ed., Patroligia Greaca (Paris, 1867-1866)" 155, 684.
+
 PART THREE:  LIFE IN CHRIST
 
 CCC 1691
@@ -11239,7 +11242,7 @@ CCC 1995
 The Holy Spirit is the master of the interior life. By giving birth to the "inner man,"44 justification entails the sanctification of his whole being:
 Just as you once yielded your members to impurity and to greater and greater iniquity, so now yield your members to righteousness for sanctification.... But now that you have been set free from sin and have become slaves of God, the return you get is sanctification and its end, eternal life.4 [^5]
 [^34]:  Romans 3:22; cf. 6:3-4.
-[^35]:  Romans 6:8-11.
+111[^35]:  Romans 6:8-11.
 [^36]:  Cf. I Corinthians 12; John 15:1 4.
 [^37]:  St. Athanasius, Ep. Serap. 1, 24: "J.P. Migne, ed., Patroligia Greaca (Paris, 1867-1866)" 26, 585 and 588.
 [^38]:  Matthew 4:17.
@@ -11367,7 +11370,7 @@ new Jerusalem, coming down out of heaven from God, prepared as a bride adorned f
 [^68]:  Cf. II Timothy 4.
 [^69]:  St. Gregory of Nyssa, Hom. in Cant. 8: "J.P. Migne, ed., Patroligia Greaca (Paris, 1867-1866)" 44, 941C.
 [^70]:  Cf. Council of Trent (1547): "Denzinger-Schonmetzer, Enchiridion Symbolorum, definitionum et declarationum de rebus fidei et morum (1965)" 1576.
-[^71]:  Revelation 21:2.
+111[^71]:  Revelation 21:2.
 
 PART THREE:  LIFE IN CHRIST
 SECTION ONE:  MAN'S VOCATION LIFE IN THE SPIRIT
@@ -11425,7 +11428,7 @@ It is in the Church, in communion with all the baptized, that the Christian fulf
 
 CCC 2031
 The moral life is spiritual worship. We "present (our) bodies as a living sacrifice, holy and acceptable to God,"73 within the Body of Christ that we form and in communion with the offering of his Eucharist. In the liturgy and the celebration of the sacraments, prayer and teaching are conjoined with the grace of Christ to enlighten and nourish Christian activity. As does the whole of the Christian life, the moral life finds its source and summit in the Eucharistic sacrifice.
-[^72]:  Galatians 6:2.
+111[^72]:  Galatians 6:2.
 [^73]:  Romans 12:1.
 
 PART THREE:  LIFE IN CHRIST
@@ -11722,39 +11725,39 @@ his commandments, the Savior himself comes to love, in us, his Father and his br
 brethren. His person becomes, through the Spirit, the living and interior rule of our activity. "This is my
 commandment, that you love one another as I have loved you."3 [^4]
 [^1]:  Matthew 19:16-19.
-[^2]:  Matthew 19:21.
-[^3]:  Cf. Matthew 5:17.
-[^4]:  Cf. Matthew 19:6-12, 21, 23-29.
+111[^2]:  Matthew 19:21.
+111[^3]:  Cf. Matthew 5:17.
+111[^4]:  Cf. Matthew 19:6-12, 21, 23-29.
 [^5]:  Matthew 5:20.
-[^6]:  Cf. Matthew 5:46-47.
+111[^6]:  Cf. Matthew 5:46-47.
 [^7]:  Matthew 5:21-22.
 [^8]:  Matthew 22:36.
-[^9]:  Matthew 22:37-40; cf. Deuteronomy 6:5; Leviticus 19:18.
+111[^9]:  Matthew 22:37-40; cf. Deuteronomy 6:5; Leviticus 19:18.
 [^10]:  Romans 13:9-10.
 [^11]:  Romans Exodus 34:28; Deuteronomy 4:13; 10:4.
 [^12]:  Exodus 31:18; Deuteronomy 5:22.
-[^13]:  Cf. Deuteronomy 31:9. 24.
-[^14]:  Cf. Exodus 20:1-17.
-[^15]:  Cf. Deuteronomy 5:6-22.
+111[^13]:  Cf. Deuteronomy 31:9. 24.
+111[^14]:  Cf. Exodus 20:1-17.
+111[^15]:  Cf. Deuteronomy 5:6-22.
 [^16]:  Cf. for example Hosea 4:2; Jeremiah 7:9; Ezekiel 18:5-9.
 [^17]:  Deuteronomy 30:16.
 [^18]:  Deuteronomy 5:15.
 [^19]:  Deuteronomy 5:22.
 [^20]:  Exodus 25:16; 31:18; 32:15; 34:29; 40:1-2.
 [^21]:  Deuteronomy 5:4.
-[^22]:  Cf. Exodus 19.
-[^23]:  Cf. Exodus 24:7.
+111[^22]:  Cf. Exodus 19.
+111[^23]:  Cf. Exodus 24:7.
 [^24]:  Deuteronomy 5:2.
-[^25]:  Origen, Hom. in Exodus. 8,1: "J.P. Migne, ed., Patroligia Greaca (Paris, 1867-1866)" 12, 350; cf. Exodus 20:2; Deuteronomy 5:6.
-[^26]:  St. Irenaeus, Adv. haeres., 4, 16, 3-4: "J.P. Migne, ed., Patroligia Greaca (Paris, 1867-1866)" 7/1, 1017-1018.
-[^27]:  St. Augustine, Sermo 33, 2, 2: "J.P. Migne, ed., Patroligia Latina (Paris, 1841-1855)" 38, 208.
-[^28]:  Cf. "Denzinger-Schonmetzer, Enchiridion Symbolorum, definitionum et declarationum de rebus fidei et morum (1965)" 1569-1570.
-[^29]:  "Lumen gentium" 24.
-[^30]:  Cf. James 2:10-11.
-[^31]:  St. Irenaeus, Adv. haeres. 4, 15, 1: "J.P. Migne, ed., Patroligia Greaca (Paris, 1867-1866)" 7/l, 1012.
-[^32]:  St. Bonaventure, Comm. sent. 4, 37, 1, 3.
-[^33]:  John 15:5.
-[^34]:  John 15:12.
+111[^25]:  Origen, Hom. in Exodus. 8,1: "J.P. Migne, ed., Patroligia Greaca (Paris, 1867-1866)" 12, 350; cf. Exodus 20:2; Deuteronomy 5:6.
+111[^26]:  St. Irenaeus, Adv. haeres., 4, 16, 3-4: "J.P. Migne, ed., Patroligia Greaca (Paris, 1867-1866)" 7/1, 1017-1018.
+111[^27]:  St. Augustine, Sermo 33, 2, 2: "J.P. Migne, ed., Patroligia Latina (Paris, 1841-1855)" 38, 208.
+111[^28]:  Cf. "Denzinger-Schonmetzer, Enchiridion Symbolorum, definitionum et declarationum de rebus fidei et morum (1965)" 1569-1570.
+111[^29]:  "Lumen gentium" 24.
+111[^30]:  Cf. James 2:10-11.
+111[^31]:  St. Irenaeus, Adv. haeres. 4, 15, 1: "J.P. Migne, ed., Patroligia Greaca (Paris, 1867-1866)" 7/l, 1012.
+111[^32]:  St. Bonaventure, Comm. sent. 4, 37, 1, 3.
+111[^33]:  John 15:5.
+111[^34]:  John 15:12.
 
 PART THREE:  LIFE IN CHRIST
 SECTION TWO:  THE TEN COMMANDMENTS
@@ -12025,7 +12028,7 @@ Agnosticism can sometimes include a certain search for God, but it can equally e
 [^41]:  Cf. Matthew 23:16-22.
 [^42]:  Psalms 115:4-5, 8; cf. Isaiaha 44:9-20; Jeremiah 10:1-16; Daniel 14:1-30; Baruch 6;Wisdom 13: 1- 15:19.
 [^43]:  Joshua 3:10; Psalms 42:3; etc.
-[^44]:  Matthew 6:24.
+111[^44]:  Matthew 6:24.
 [^45]:  Cf. Revelation 13-14.
 [^46]:  Cf. Galatians 5:20; Ephesians 5:5.
 [^47]:  Origen, Contra Celsum 2, 40: "J.P. Migne, ed., Patroligia Greaca (Paris, 1867-1866)" 11, 861.
@@ -12037,8 +12040,8 @@ Agnosticism can sometimes include a certain search for God, but it can equally e
 [^53]:  Cf. Acts 8:9-24.
 [^54]:  Acts 8:20.
 [^55]:  Matthew 10:8; cf. already Isaiaha 55:1.
-[^56]:  "Codex Iuris Canonici", can. 848.
-[^57]:  Matthew 10:10; cf. Luke 10:7; II Corinthians 9:5-18; I Timothy 5:17-18.
+111[^56]:  "Codex Iuris Canonici", can. 848.
+111[^57]:  Matthew 10:10; cf. Luke 10:7; II Corinthians 9:5-18; I Timothy 5:17-18.
 [^58]:  "Gaudium et spes" 19 # 1.
 [^59]:  "Gaudium et spes" 20 # 2.
 [^60]:  "Gaudium et spes" 20 # 2.
@@ -12111,8 +12114,8 @@ SECTION TWO:  THE TEN COMMANDMENTS
 CHAPTER ONEYOU:  SHALL LOVETHE LORDYOUR GOD WITH ALL YOUR HEART, AND WITH ALL YOUR SOUL, AND WITH ALL YOUR MIND
 Article 2:  THE SECOND COMMANDMENTYou shall not take the name of the Lord your God in vain.7 [^2]
 You have heard that it was said to the men of old, "You shall not swear falsely. . But I say to you, Do not swear at all.7 [^3]
-[^72]:  Exodus 20:7; Deuteronomy 5:11.
-[^73]:  Matthew 5:33-34.
+111[^72]:  Exodus 20:7; Deuteronomy 5:11.
+111[^73]:  Matthew 5:33-34.
 
 PART THREE:  LIFE IN CHRIST
 SECTION TWO:  THE TEN COMMANDMENTS
@@ -12179,7 +12182,7 @@ Following St. Paul,83 The tradition of the Church has understood Jesus' words as
 CCC 2155
 The holiness of the divine name demands that we neither use it for trivial matters, nor take an oath which on the basis of the circumstances could be interpreted as approval of an authority unjustly requiring it. When an oath is required by illegitimate civil authorities, it may be refused. It must be refused when it is required for purposes contrary to the dignity of persons or to ecclesial communion.
 [^81]:  Deuteronomy 6:13.
-[^82]:  Matthew 5:33-34, 37; Cf. James 5:12.
+111[^82]:  Matthew 5:33-34, 37; Cf. James 5:12.
 [^83]:  Cf. II Corinthians 1:23; Galatians 1:20.
 [^84]:  "Codex Iuris Canonici", can. 1199 # 1.
 
@@ -12201,7 +12204,7 @@ God calls each one by name.87 Everyone's name is sacred. the name is the icon of
 CCC 2159
 The name one receives is a name for eternity. In the kingdom, the mysterious and unique character of each person marked with God's name will shine forth in splendor. "To him who conquers . . . I will give a white stone, with a new name written on the stone which no one knows except him who receives it."88 "Then I looked, and Lo, on Mount Zion stood the Lamb, and with him a hundred and forty-four thousand who had his name and his Father's name written on their foreheads."8 [^9]
 [^85]:  Matthew 28:19.
-[^86]:  "Codex Iuris Canonici", Can. 855.
+111[^86]:  "Codex Iuris Canonici", Can. 855.
 [^87]:  Cf. Isaiaha 43:1; John 10:3.
 [^88]:  Revelation 2:17.
 [^89]:  Revelation 14:1.
@@ -12278,7 +12281,7 @@ The Gospel reports many incidents when Jesus was accused of violating the sabbat
 [^99]:  Mark 2:27.
 [^100]:  Cf. Mark 3:4.
 [^101]:  Cf. Matthew 12:5; John 7:23.
-[^102]:  Mark 2:28.
+111[^102]:  Mark 2:28.
 
 PART THREE:  LIFE IN CHRIST
 SECTION TWO:  THE TEN COMMANDMENTS
@@ -12366,10 +12369,10 @@ In respecting religious liberty and the common good of all, Christians should se
 [^114]:  Sermo de die dominica 2 et 6: "J.P. Migne, ed., Patroligia Greaca (Paris, 1867-1866)" 86/1, 416C and 421C.
 [^115]:  "Codex Iuris Canonici", can. 515 # 1.
 [^116]:  St. John Chrysostom, De incomprehensibili 3, 6: "J.P. Migne, ed., Patroligia Greaca (Paris, 1867-1866)" 48, 725.
-[^117]:  "Codex Iuris Canonici", can. 1247.
+111[^117]:  "Codex Iuris Canonici", can. 1247.
 [^118]:  "Codex Iuris Canonici", can. 1248 # 1.
 [^119]:  Cf. "Codex Iuris Canonici", can. 1245.
-[^120]:  "Codex Iuris Canonici", can. 1248 # 2.
+111[^120]:  "Codex Iuris Canonici", can. 1248 # 2.
 [^121]:  Genesis 2:2.
 [^122]:  Cf. "Gaudium et spes" 67 # 3.
 [^123]:  Cf. "Codex Iuris Canonici", can. 120.
@@ -12413,7 +12416,7 @@ In response to the question about the first of the commandments, Jesus says: "Th
 your strength.' the second is this, 'You shall love your neighbor as yourself.' There is no other commandment greater than these." [^2]
 The apostle St. Paul reminds us of this: "He who loves his neighbor has fulfilled the law. the commandments, 'You shall not commit adultery, You shall not kill,You shall not steal,You shall not covet,' and any other commandment, are summed up in this sentence, 'You shall love your neighbor as yourself.' Love does no wrong to a neighbor; therefore love is the fulfilling of the law." [^3]
 [^1]:  John 13:34.
-[^2]:  Mark 12:29-31; cf. Deuteronomy 6:4-5; Leviticus 19:18; Matthew 22:34-40; Luke 10:25-28.
+111[^2]:  Mark 12:29-31; cf. Deuteronomy 6:4-5; Leviticus 19:18; Matthew 22:34-40; Luke 10:25-28.
 [^3]:  Romans 13:8-10.
 
 PART THREE:  LIFE IN CHRIST
@@ -12438,7 +12441,7 @@ CCC 2200
 Observing the fourth commandment brings its reward: "Honor your father and your mother, that your days may be long in the land which the LORD your God gives you."8 Respecting this commandment provides, along with spiritual fruits, temporal fruits of peace and prosperity. Conversely, failure to observe it brings great harm to communities and to individuals.
 [^4]:  Exodus 20:12; Deuteronomy 5:16.
 [^5]:  Luke 2:51.
-[^6]:  Mark 7:8-13.
+111[^6]:  Mark 7:8-13.
 [^7]:  Ephesians 6:1-3; cf. Deuteronomy 5:16.
 [^8]:  Exodus 20:12; Deuteronomy 5:16.
 
@@ -12504,7 +12507,7 @@ wants to be called "our Father." In this way our relationships with our neighbor
 
 CCC 2213
 Human communities are made up of persons. Governing them well is not limited to guaranteeing rights and fulfilling duties such as honoring contracts. Right relations between employers and employees, between those who govern and citizens, presuppose a natural good will in keeping with the dignity of human persons concerned for justice and fraternity.
-[^12]:  James 1:27.
+111[^12]:  James 1:27.
 [^13]:  Cf. "Gaudium et spes" 47 # 1.
 [^14]:  "Gaudium et spes" 52 # 2.
 [^15]:  Cf. "Familiaris consortio" 46.
@@ -12582,14 +12585,14 @@ Some forgo marriage in order to care for their parents or brothers and sisters, 
 [^16]:  Cf. Ephesians 314.
 [^17]:  Cf. Proverbs 1:8; Tobit 4:3-4.
 [^18]:  Cf. Exodus 20:12.
-[^19]:  Sirach 7:27-28.
+111[^19]:  Sirach 7:27-28.
 [^20]:  Proverbs 6:20-22.
-[^21]:  Proverbs 13:1.
-[^22]:  Colossians 3:20; Cf. Ephesians 6:1.
+111[^21]:  Proverbs 13:1.
+111[^22]:  Colossians 3:20; Cf. Ephesians 6:1.
 [^23]:  Cf. Mark 7:10-12.
 [^24]:  Sirach 3:2-6.
 [^25]:  Sirach 3:12-13, 16.
-[^26]:  Proverbs 17:6.
+111[^26]:  Proverbs 17:6.
 [^27]:  Ephesians 4:2.
 [^28]:  II Timothy 1:5.
 [^29]:  "Gravissimum educationis" 3.
@@ -12734,7 +12737,7 @@ You have heard that it was said to the men of old, "You shall not kill: and whoe
 
 CCC 2258
 "Human life is sacred because from its beginning it involves the creative action of God and it remains for ever in a special relationship with the Creator, who is its sole end. God alone is the Lord of life from its beginning until its end: no one can under any circumstance claim for himself the right directly to destroy an innocent human being."5 [^6]
-[^54]:  Exodus 20:13; Cf. Deuteronomy 5:17.
+111[^54]:  Exodus 20:13; Cf. Deuteronomy 5:17.
 [^55]:  Matthew 5:21-22.
 [^56]:  "Christus Dominus"F, instruction, Donum vitae, intro. 5.
 
@@ -12874,8 +12877,8 @@ CCC 2283
 We should not despair of the eternal salvation of persons who have taken their own lives. By ways known to him alone, God can provide the opportunity for salutary repentance. the Church prays for persons who have taken their own lives.
 [^57]:  Cf. Genesis 4:8-12.
 [^58]:  Genesis 4:10-11.
-[^59]:  Genesis 9:5-6.
-[^60]:  Cf. Leviticus 17:1 [^4]
+111[^59]:  Genesis 9:5-6.
+[^60]:  Cf. Leviticus 17:1 4
 [^61]:  Exodus 23:7.
 [^62]:  Matthew 5:21.
 [^63]:  Cf. Matthew 5:22-39; 5:44.
@@ -12888,7 +12891,7 @@ We should not despair of the eternal salvation of persons who have taken their o
 [^69]:  Cf. "Gaudium et spes" 51 # 3.
 [^70]:  Cf. Am 8:4-10.
 [^71]:  Cf. "Christus Dominus"F, Donum vitae I, 1.
-[^72]:  Jeremiah 1:5; cf. Job 10:8-12; Psalms 22:10-11.
+111[^72]:  Jeremiah 1:5; cf. Job 10:8-12; Psalms 22:10-11.
 [^73]:  Psalms 139:15.
 [^74]:  Didache 2, 2: "Sacrosanctum concilium"h 248, 148; cf. Ep. Baruchnabae 19, 5: "J.P. Migne, ed., Patroligia Greaca (Paris, 1867-1866)" 2, 777; Ad Diognetum 5, 6: "J.P. Migne, ed., Patroligia Greaca (Paris, 1867-1866)" 2, 1173; Tertullian, Apol. 9: "J.P. Migne, ed., Patroligia Latina (Paris, 1841-1855)" 1, 319-320.
 [^75]:  "Gaudium et spes" 51 # 3.
@@ -12973,11 +12976,11 @@ The bodies of the dead must be treated with respect and charity, in faith and ho
 CCC 2301
 Autopsies can be morally permitted for legal inquests or scientific research. the free gift of organs after death is legitimate and can be meritorious.
 The Church permits cremation, provided that it does not demonstrate a denial of faith in the resurrection of the body.9 [^2]
-[^85]:  Matthew 18:6; Cf. I Corinthians 8:10-13.
+111[^85]:  Matthew 18:6; Cf. I Corinthians 8:10-13.
 [^86]:  Cf. Matthew 7:15.
 [^87]:  Pius XII, Discourse, June 1, 1941.
 [^88]:  Cf. Ephesians 6:4; Colossians. 3:21.
-[^89]:  Luke 17:1.
+111[^89]:  Luke 17:1.
 [^90]:  Cf. "Denzinger-Schonmetzer, Enchiridion Symbolorum, definitionum et declarationum de rebus fidei et morum (1965)" 3722.
 [^91]:  Cf.Tobit 1:16-18.
 [^92]:  Cf. "Codex Iuris Canonici", can. 1176 # 3.
@@ -13057,7 +13060,7 @@ Insofar as men are sinners, the threat of war hangs over them and will so contin
 [^98]:  Cf. Isaiaha 32:17; cf. "Gaudium et spes" 78 ## 1-2.
 [^99]:  Isaiah 9:5.
 [^100]:  Ephesians 2:16 J.B.; cf. Colossians 1:20-22.
-[^101]:  Ephesians 2:14.
+111[^101]:  Ephesians 2:14.
 [^102]:  Matthew 5:9.
 [^103]:  Cf. "Gaudium et spes" 78 # 5.
 [^104]:  Cf. "Gaudium et spes" 81 # 4.
@@ -13120,7 +13123,7 @@ CHAPTER TWO:  YOU SHALL LOVE YOUR NEIGHBOR AS YOURSELF
 Article 6:  THE SIXTH COMMANDMENTYou shall not commit adultery.112You have heard that it was said, "You shall not commit adultery."
 But I say to you that every one who looks at a woman lustfully has already committed adultery with her in his heart.11 [^3]
 [^112]:  EX 20:14; Deuteronomy 5:18.
-[^113]:  Matthew 5:27-28.
+111[^113]:  Matthew 5:27-28.
 
 PART THREE:  LIFE IN CHRIST
 SECTION TWO:  THE TEN COMMANDMENTS
@@ -13148,9 +13151,9 @@ CCC 2336
 Jesus came to restore creation to the purity of its origins. In the Sermon on the Mount, he interprets God's plan strictly: "You have heard that it was said, 'You shall not commit adultery.' But I say to you that every one who looks at a woman lustfully has already committed adultery with her in his heart."122 What God has joined together, let not man put asunder.12 [^3]
 The tradition of the Church has understood the sixth commandment as encompassing the whole of human sexuality.
 [^114]:  "Familiaris consortio" 11.
-[^115]:  Genesis 1:27.
-[^116]:  Genesis 1:28.
-[^117]:  Genesis 5:1-2.
+111[^115]:  Genesis 1:27.
+111[^116]:  Genesis 1:28.
+111[^117]:  Genesis 5:1-2.
 [^118]:  "Familiaris consortio" 22; Cf. "Gaudium et spes" 49 # 2.
 [^119]:  "Mulieris dignitatem" 6.
 [^120]:  Genesis 2:24.
@@ -13432,7 +13435,7 @@ Some today claim a "right to a trial marriage" where there is an intention of ge
 [^178]:  Cf. "Familiaris consortio" 84.
 [^179]:  "Familiaris consortio" 19; cf. "Gaudium et spes" 47 # 2.
 [^180]:  Cf. Leviticus 18:7-20.
-[^181]:  I Corinthians 5:1, 4-5.
+111[^181]:  I Corinthians 5:1, 4-5.
 [^182]:  Cf. "Familiaris consortio" 81.
 [^183]:  "Christus Dominus"F, Persona humana 7.
 [^184]:  Cf. "Familiaris consortio" 80.
@@ -13554,7 +13557,7 @@ It is contrary to human dignity to cause animals to suffer or die needlessly. It
 [^189]:  II Corinthians 8:9.
 [^190]:  Cf. "Gaudium et spes" 69 # 1.
 [^191]:  Cf. Deuteronomy 25:13-16; 24:14-15; James 5:4; Am 8:4-6.
-[^192]:  Luke 19:8.
+111[^192]:  Luke 19:8.
 [^193]:  Philemon 16.
 [^194]:  Cf. Genesis 128-31.
 [^195]:  Cf. "Centesimus annus" 37-38.
@@ -13644,7 +13647,7 @@ CCC 2436
 Unemployment almost always wounds its victim's dignity and threatens the equilibrium of his life. Besides the harm done to him personally, it entails many risks for his family.22 [^2]
 [^208]:  Cf. "Gaudium et spes" 64.
 [^209]:  Cf. Genesis 1:28; "Gaudium et spes" 34; "Centesimus annus" 31.
-[^210]:  II Thessaloniansalonians 3:10; Cf. 1 Thess 4:11.
+[^210]:  II Thessaloniansalonians 3:10; Cf. I Thessalonians 4:11.
 [^211]:  Cf. Genesis 3:14-19.
 [^212]:  Cf. "Laborem exercens" 27.
 [^213]:  Cf. "Laborem exercens" 6.
@@ -13654,7 +13657,7 @@ Unemployment almost always wounds its victim's dignity and threatens the equilib
 [^217]:  Cf. "Centesimus annus" 37.
 [^218]:  Cf. "Laborem exercens" 19; 22-23.
 [^219]:  Cf. "Centesimus annus" 48.
-[^220]:  Cf. Leviticus 19:13; Deuteronomy 24:14-15; James 5: [^4]
+[^220]:  Cf. Leviticus 19:13; Deuteronomy 24:14-15; James 5: 4
 [^221]:  "Gaudium et spes" 67 # 2.
 [^222]:  Cf. "Laborem exercens" 18.
 
@@ -13729,7 +13732,7 @@ When her mother reproached her for caring for the poor and the sick at home, St.
 [^234]:  "Centesimus annus" 57; cf. Luke 6:20-22, Matthew 8:20; Mark 12:41-44.
 [^235]:  Ephesians 4:28.
 [^236]:  Cf. "Centesimus annus" 57.
-[^237]:  James 5:1-6.
+111[^237]:  James 5:1-6.
 [^238]:  St. John Chrysostom, Hom. in Lazaro 2, 5: "J.P. Migne, ed., Patroligia Greaca (Paris, 1867-1866)" 48, 992.
 [^239]:  "Apostolicam actositatem" 8 # 5.
 [^240]:  St. Gregory the Great, Regula Pastoralis. 3, 21: "J.P. Migne, ed., Patroligia Latina (Paris, 1841-1855)" 77, 87.
@@ -13737,10 +13740,10 @@ When her mother reproached her for caring for the poor and the sick at home, St.
 [^242]:  Cf. Matthew 25:31-46.
 [^243]:  Cf.Tobit 4:5-11; Sirach 17:22; Matthew 6:2-4.
 [^244]:  Luke 3:11.
-[^245]:  Luke 11:41.
+111[^245]:  Luke 11:41.
 [^246]:  James 2:15-16; cf. I John 3:17.
 [^247]:  "Christus Dominus"F, instruction, Libertatis conscientia, 68.
-[^248]:  Deuteronomy 15:11.
+111[^248]:  Deuteronomy 15:11.
 [^249]:  John 12:8.
 [^250]:  Amos 8:6; cf. Matthew 25:40.
 [^251]:  P. Hansen, Vita mirabilis (Louvain, 1668).
@@ -13802,7 +13805,7 @@ It was said to the men of old, "You shall not swear falsely, but shall perform t
 CCC 2464
 The eighth commandment forbids misrepresenting the truth in our relations with others.This moral prescription flows from the vocation of the holy people to bear witness to their God who is the truth and wills the truth. Offenses against the truth express by word or deed a refusal to commit oneself to moral uprightness: they are fundamental infidelities to God and, in this sense, they undermine the foundations of the covenant.
 [^252]:  EX 20:16; Cf. Deuteronomy 5:20.
-[^253]:  Matthew 5:33.
+111[^253]:  Matthew 5:33.
 
 PART THREE:  LIFE IN CHRIST
 SECTION TWO:  THE TEN COMMANDMENTS
@@ -13828,12 +13831,12 @@ CCC 2469
 CCC 2470
 The disciple of Christ consents to "live in the truth," that is, in the simplicity of a life in conformity with the Lord's example, abiding in his truth. "If we say we have fellowship with him while we walk in darkness, we lie and do not live according to the truth."26 [^4]
 254PS 119:90; Cf. Prov 8:7; II Sam 7:28; Ps 119:142; Lk 1:50.
-[^255]:  Romans 3:4; Cf. Psalms 119:30.
-[^256]:  John 1:14; 8:12; Cf. 14:6.
+111[^255]:  Romans 3:4; Cf. Psalms 119:30.
+111[^256]:  John 1:14; 8:12; Cf. 14:6.
 [^257]:  John 12:46.
-[^258]:  John 8:32; Cf. 17:17.
+111[^258]:  John 8:32; Cf. 17:17.
 [^259]:  John 16:13.
-[^260]:  Matthew 5:37.
+111[^260]:  Matthew 5:37.
 [^261]:  "Dignitatis humanae" 2 # 2.
 [^262]:  St. Thomas Aquinas, "Summa Theologiae" II-II 109, 3 ad 1.
 [^263]:  St. Thomas Aquinas, "Summa Theologiae" II-II, 109, 3, corp. art.
@@ -13859,9 +13862,9 @@ CCC 2474
 The Church has painstakingly collected the records of those who persevered to the end in witnessing to their faith.These are the acts of the Martyrs.They form the archives of truth written in letters of blood:
 Neither the pleasures of the world nor the kingdoms of this age will be of any use to me.
 It is better for me to die [in order to unite myself] to Christ Jesus than to reign over the ends of the earth. I seek him who died for us; I desire him who rose for us. My birth is approaching. . .271 I bless you for having judged me worthy from this day and this hour to be counted among your martyrs....You have kept your promise, God of faithfulness and truth. For this reason and for everything, I praise you, I bless you, I glorify you through the eternal and heavenly High Priest, Jesus Christ, your beloved Son. Through him, who is with you and the Holy Spirit, may glory be given to you, now and in the ages to come. Amen.27 [^2]
-[^265]:  John 18:37.
-[^266]:  II Timothy 1:8.
-[^267]:  Acts 24:16.
+111[^265]:  John 18:37.
+111[^266]:  II Timothy 1:8.
+111[^267]:  Acts 24:16.
 [^268]:  Cf. Matthew 18:16.
 [^270]:  St. Ignatius of Antioch, Ad Romans. 4, 1 "Sacrosanctum concilium"h 10, 110.
 [^271]:  St. Ignatius of Antioch, Ad Romans. 6, 1-2 "Sacrosanctum concilium"h 10, 114.
@@ -14004,9 +14007,9 @@ For this reason bishops, personally or through delegates, should see to the prom
 [^289]:  Wisdom 13:3, 5.
 [^290]:  Wisdom 7:25-26.
 [^291]:  Wisdom 7:29-30.
-[^292]:  Wisdom 8:2.
+111[^292]:  Wisdom 8:2.
 [^293]:  Genesis 1:26.
-[^294]:  Cf. Wisdom 7:16-1 [^7]
+[^294]:  Cf. Wisdom 7:16-1 7
 [^295]:  Cf. Pius XII, Musicae sacrae disciplina; Discourses of September 3 and December 25, 1950.
 [^296]:  Hebrews 1:3; Colossians 2:9.
 [^297]:  Cf. "Sacrosanctum concilium" 122-127.
@@ -14063,7 +14066,7 @@ Etymologically, "concupiscence" can refer to any intense form of human desire. C
 CCC 2516
 Because man is a composite being, spirit and body, there already exists a certain tension in him; a certain struggle of tendencies between "spirit" and "flesh" develops. But in fact this struggle belongs to the heritage of sin. It is a consequence of sin and at the same time a confirmation of it. It is part of the daily experience of the spiritual battle:
 For the Apostle it is not a matter of despising and condemning the body which with the spiritual soul constitutes man's nature and personal subjectivity. Rather, he is concerned with the morally good or bad works, or better, the permanent dispositions - virtues and vices - which are the fruit of submission (in the first case) or of resistance (in the second case) to the saving action of the Holy Spirit. For this reason the Apostle writes: "If we live by the Spirit, let us also walk by the Spirit."30 [^3]
-[^298]:  Exodus 20:17.
+111[^298]:  Exodus 20:17.
 [^299]:  Matthew 5:28.
 [^300]:  Cf. I John 2:16.
 [^301]:  Cf. Galatians 5:16, 17, 24; Ephesians 2:3.
@@ -14086,11 +14089,11 @@ The faithful must believe the articles of the Creed "so that by believing they m
 
 CCC 2519
 The "pure in heart" are promised that they will see God face to face and be like him.311 Purity of heart is the precondition of the vision of God. Even now it enables us to see according to God, to accept others as "neighbors"; it lets us perceive the human body - ours and our neighbor's - as a temple of the Holy Spirit, a manifestation of divine beauty.
-[^304]:  Matthew 15:19.
+111[^304]:  Matthew 15:19.
 [^305]:  Pastor Hermae, Mandate 2, 1: "J.P. Migne, ed., Patroligia Greaca (Paris, 1867-1866)" 2, 916.
-[^306]:  Matthew 5:8.
+111[^306]:  Matthew 5:8.
 [^307]:  Cf. I Timothy 4:3-9; II Timothy 2:22.
-[^308]:  Cf. 1 Thess 4:7; Colossians 3:5; Ephesians 4:19.
+[^308]:  Cf. I Thessalonians 4:7; Colossians 3:5; Ephesians 4:19.
 [^309]:  Cf. Titus 1:15; I Timothy 1:3-4; II Timothy 2:23-26.
 [^310]:  St. Augustine, Defide et symbolo 10, 25: "J.P. Migne, ed., Patroligia Latina (Paris, 1841-1855)" 40, 196.
 [^311]:  Cf. I Corinthians 13:12; I John 3:2.
@@ -14130,7 +14133,7 @@ So called moral permissiveness rests on an erroneous conception of human freedom
 CCC 2527
 "The Good News of Christ continually renews the life and culture of fallen man; it combats and removes the error and evil which flow from the ever-present attraction of sin. It never ceases to purify and elevate the morality of peoples. It takes the spiritual qualities and endowments of every age and nation, and with supernatural riches it causes them to blossom, as it were, from within; it fortifies, completes, and restores them in Christ."31 [^5]
 [^312]:  Cf. Romans 12:2; Colossians 1:10.
-[^313]:  Wisdom 15:5.
+111[^313]:  Wisdom 15:5.
 [^314]:  St. Augustine, Conf. 6, 11, 20: "J.P. Migne, ed., Patroligia Latina (Paris, 1841-1855)" 32, 729-730.
 [^315]:  "Gaudium et spes" 58 # 4.
 
@@ -14168,7 +14171,7 @@ For where your treasure is, there will your heart be also.31 [^7]
 CCC 2534
 The tenth commandment unfolds and completes the ninth, which is concerned with concupiscence of the flesh. It forbids coveting the goods of another, as the root of theft, robbery, and fraud, which the seventh commandment forbids. "Lust of the eyes" leads to the violence and injustice forbidden by the fifth commandment.318 Avarice, like fornication, originates in the idolatry prohibited by the first three prescriptions of the Law.319 The tenth commandment concerns the intentions of the heart; with the ninth, it summarizes all the precepts of the Law.
 [^316]:  EX 20:17; Deuteronomy 5:21.
-[^317]:  Matthew 6:21.
+111[^317]:  Matthew 6:21.
 [^318]:  Cf. I John 2:16; Micah 2:2.
 [^319]:  Cf. Wisdom 14:12.
 
@@ -14205,7 +14208,7 @@ Would you like to see God glorified by you? Then rejoice in your brother's progr
 [^321]:  Romansan Catechism, III, 37.
 [^322]:  Cf. II Samueluel 12:14.
 [^323]:  Cf. Genesis 4:3-7; I Kings 21:1-29.
-[^324]:  Wisdom 2:24.
+111[^324]:  Wisdom 2:24.
 [^325]:  St. John Chrysostom, Hom. in II Corinthians. 27, 3-4 "J.P. Migne, ed., Patroligia Greaca (Paris, 1867-1866)" 61, 588.
 [^326]:  Cf. St. Augustine, De catechizandis rudibus 4, 8 "J.P. Migne, ed., Patroligia Latina (Paris, 1841-1855)" 40, 315-316.
 [^327]:  St. Gregory the Great Moralia in Job 31, 45: "J.P. Migne, ed., Patroligia Latina (Paris, 1841-1855)" 76, 621.
@@ -14229,7 +14232,7 @@ CCC 2543
 [^329]:  Genesis 3:6.
 [^330]:  Cf. Romans 7:7.
 [^331]:  Romans 7:23; cf. 7:10.
-[^332]:  Romans 3:21-22.
+111[^332]:  Romans 3:21-22.
 [^333]:  Galatians 5:24; cf. Romans 8:14, 27.
 
 PART THREE:  LIFE IN CHRIST
@@ -14482,7 +14485,7 @@ What is more pleasing than a psalm? David expresses it well: "Praise the Lord, f
 [^3]:  Genesis 3:9, 13.
 [^4]:  Hebrews 10:5-7.
 [^5]:  Cf. Genesis 4:4, 26; Genesis 5:24.
-[^6]:  Genesis 6:9; 8:20- 9:17.
+111[^6]:  Genesis 6:9; 8:20- 9:17.
 [^7]:  Genesis 9:8-16.
 [^8]:  Genesis 12:4.
 [^9]:  Cf. Genesis 15:2 f.
@@ -14490,30 +14493,30 @@ What is more pleasing than a psalm? David expresses it well: "Praise the Lord, f
 [^11]:  Cf. Genesis 18:1-15; Luke 1:26-38.
 [^12]:  Cf. 18:16-33.
 [^13]:  Hebrews 11:17.
-[^14]:  Genesis 22:8; Hebrews 11:1 [^9]
-[^15]:  Romans 8:32.
+[^14]:  Genesis 22:8; Hebrews 11:1 9
+111[^15]:  Romans 8:32.
 [^16]:  Cf. Romans 8:16-21.
 [^17]:  Cf. Genesis 28:10-22.
 [^18]:  Cf. Genesis 32:24-30; Luke 18:1-8.
-[^19]:  I Timothy 2:5.
+111[^19]:  I Timothy 2:5.
 [^20]:  Exodus 3:1-10.
-[^21]:  Exodus 33:11.
-[^22]:  Numbers 12:3,7-8.
+111[^21]:  Exodus 33:11.
+111[^22]:  Numbers 12:3,7-8.
 [^23]:  Cf. Exodus 34:6.
 [^24]:  Cf. Exodus 17:8-12; Numbers 12:13-14.
 [^25]:  Psalms 106:23; cf. Exodus 32:1- 34:9.
-[^26]:  I Samuel 3:9-10; cf. 1:9-18.
+111[^26]:  I Samuel 3:9-10; cf. 1:9-18.
 [^27]:  I Samuel 12:23.
 [^28]:  Cf. II Samueluel 7:18-29.
 [^29]:  I Kings 8:10-61.
-[^30]:  Psalms 24:6.
+111[^30]:  Psalms 24:6.
 [^31]:  I Kings 18:39.
-[^32]:  James 5:16b-18.
+111[^32]:  James 5:16b-18.
 [^33]:  Cf. I Kings 17:7-24.
 [^34]:  Cf. I Kings 19:1-14; cf. Exodus 33:19-23.
-[^35]:  II Corinthians 4:6; cf. Luke 9:30-35.
+111[^35]:  II Corinthians 4:6; cf. Luke 9:30-35.
 [^36]:  Cf. Am 7:2, 5; Isaiaha 6:5, 8, 11; Jeremiah 1:6; 15: 15-18; 20: 7-18.
-[^37]:  Ezra 9:6-15; Nehemiah 1:4-11; Jonah 2:3-10;Tobit 3:11-16; Judith 9:2-14.
+111[^37]:  Ezra 9:6-15; Nehemiah 1:4-11; Jonah 2:3-10;Tobit 3:11-16; Judith 9:2-14.
 [^38]:  Cf. "General Introduction to "Liturgy of the Hours"", nn. 100-109.
 [^39]:  "Dei Verbum" 2.
 [^40]:  St. Ambrose, In Psalmsalmum 1 enarratio, 1, 9: "J.P. Migne, ed., Patroligia Latina (Paris, 1841-1855)" 14, 924; "Liturgy of the Hours", Saturday, wk 10, "Office of Readings".
@@ -14634,7 +14637,7 @@ The Gospel reveals to us how Mary prays and intercedes in faith. At Cana,89 The 
 CCC 2619
 That is why the Canticle of Mary,91 The Magnificat (Latin) or Megalynei (byzantine) is the song both of the Mother of God and of the Church; the song of the Daughter of Zion and of the new People of God; the song of thanksgiving for the fullness of graces poured out in the economy of salvation and the song of the "poor" whose hope is met by the fulfillment of the promises made to our ancestors, "to Abraham and to his posterity for ever."
 [^41]:  Cf. Luke 1:49; 2:19; 2:51.
-[^42]:  Luke 2:49.
+111[^42]:  Luke 2:49.
 [^43]:  Cf. Luke 3:21; 9:28; 22:41-44.
 [^44]:  Cf. Luke 6:12; 9:18-20; 22:32.
 [^45]:  Luke 11:1.
@@ -14643,42 +14646,42 @@ That is why the Canticle of Mary,91 The Magnificat (Latin) or Megalynei (byzanti
 [^48]:  Cf. Matthew 11:25-27 and Luke 10:21-23.
 [^49]:  Cf. Ephesians 1:9.
 [^50]:  Cf. John 11:41-42.
-[^51]:  Matthew 6:21, 33.
+111[^51]:  Matthew 6:21, 33.
 [^52]:  Cf. John 17.
 [^53]:  Luke 22:42.
-[^54]:  Luke 23:34.
+111[^54]:  Luke 23:34.
 [^55]:  Luke 23:43.
 [^56]:  John 19:26-27.
-[^57]:  John 19:28.
-[^58]:  Mark 15:34; cf. Psalms 22:2.
+111[^57]:  John 19:28.
+111[^58]:  Mark 15:34; cf. Psalms 22:2.
 [^59]:  John 19:30.
-[^60]:  Luke 23:46.
+111[^60]:  Luke 23:46.
 [^61]:  Cf. Mark 15:37; John 19:30b.
-[^62]:  Psalms 2:7-8; cf. Acts 13:33.
+111[^62]:  Psalms 2:7-8; cf. Acts 13:33.
 [^63]:  Hebrews 5:7-9.
 [^64]:  Cf. Matthew 5:23-24, 44-45; 6:7, 14-15, 21, 25, 33.
 [^65]:  Cf. Matthew 7:7-11, 13-14.
-[^66]:  Mark 11:24.
-[^67]:  Mark 9:23; cf. Matthew 21:22.
+111[^66]:  Mark 11:24.
+111[^67]:  Mark 9:23; cf. Matthew 21:22.
 [^68]:  Cf. Mark 6:6; Matthew 8:26.
 [^69]:  Cf. Matthew 8:10; 15:28.
 [^70]:  Cf. Matthew 7:21.
 [^71]:  Cf. Matthew 9:38; Luke 10:2; John 4:34.
-[^72]:  Mark 1:15.
+111[^72]:  Mark 1:15.
 [^73]:  Cf. Mark 13; Luke 21:34-36.
 [^74]:  Cf. Luke 22:40, 46.
 [^75]:  Cf. Luke 11:5-13.
 [^76]:  Cf. Luke 18:1-8.
 [^77]:  Cf. Luke 18:9-14.
-[^78]:  John 14:13.
-[^79]:  John 14:6.
+111[^78]:  John 14:13.
+111[^79]:  John 14:6.
 [^80]:  Cf. John 14:13-14.
 [^81]:  John 14:16-17.
 [^82]:  Cf. John 14:23-26; 15:7, 16; 16:13-15; 16:23-27.
 [^83]:  John 16:24.
 [^84]:  Cf. Mark 1:40-41; 5:36; 7:29; Cf. Luke 23:39-43.
 [^85]:  Cf. Mark 25; 5:28; Luke 7:37-38.
-[^86]:  Matthew 9:27, Mark 10:48.
+111[^86]:  Matthew 9:27, Mark 10:48.
 [^87]:  St. Augustine, En. in Psalms. 85, 1: "J.P. Migne, ed., Patroligia Latina (Paris, 1841-1855)" 37, 1081; cf. "General Introduction to "Liturgy of the Hours"" 7.
 [^88]:  Cf. Luke 1:38; Acts 1:14.
 [^89]:  Cf. John 2:1-12.
@@ -14713,8 +14716,8 @@ In the first community of Jerusalem, believers "devoted themselves to the apostl
 
 CCC 2625
 In the first place these are prayers that the faithful hear and read in the Scriptures, but also that they make their own - especially those of the Psalms, in view of their fulfillment in Christ.96 The Holy Spirit, who thus keeps the memory of Christ alive in his Church at prayer, also leads her toward the fullness of truth and inspires new formulations expressing the unfathomable mystery of Christ at work in his Church's life, sacraments, and mission. These formulations are developed in the great liturgical and spiritual traditions. the forms of prayer revealed in the apostolic and canonical Scriptures remain normative for Christian prayer.
-[^92]:  Acts 2:1.
-[^93]:  Acts 1:14.
+111[^92]:  Acts 2:1.
+111[^93]:  Acts 1:14.
 [^94]:  Cf. John 14:26.
 [^95]:  Acts 2:42.
 [^96]:  Cf. Luke 24:27, 44.
@@ -14769,7 +14772,7 @@ When we share in God's saving love, we understand that every need can become the
 [^108]:  Cf. Acts 6:6; 13:3.
 [^109]:  Cf. Romans 10:1; Ephesians 1:16-23; Philippians 1911; Colossians 1:3-6; 4:3-4, 12.
 [^110]:  Cf. John 14:13.
-[^111]:  Cf. James 1:5-8; Ephesians 5:20; Philippians 4:6-7; Colossians 3:16-17; 1 Thess 5:17-18.
+[^111]:  Cf. James 1:5-8; Ephesians 5:20; Philippians 4:6-7; Colossians 3:16-17; I Thessalonians 5:17-18.
 
 PART FOUR:  CHRISTIAN PRAYER
 SECTION ONE:  PRAYER IN THE CHRISTIAN LIFE
@@ -14791,7 +14794,7 @@ intercession of Christians recognizes no boundaries: "for all men, for kings and
 [^114]:  Romans 8:26-27.
 [^115]:  Philippians 2:4; cf. Acts 7:60; Luke 23:28, 34.
 [^116]:  Cf. Acts 12:5; 20:36; 21:5; II Corinthians 9:14.
-[^117]:  Cf. Ephesians 6:18-20; Colossians 4:3-4; 1 Thess 5:25.
+[^117]:  Cf. Ephesians 6:18-20; Colossians 4:3-4; I Thessalonians 5:25.
 [^118]:  Cf. II Thessaloniansalonians 1:11; Colossians 1:3; Philippians 1:3-4.
 [^119]:  II Timothy 2:1; cf. Romans 12:14; 10:1.
 
@@ -14830,13 +14833,13 @@ The Revelation of "what must soon take place," the Apocalypse, is borne along by
 CCC 2643
 The Eucharist contains and expresses all forms of prayer: it is "the pure offering" of the whole Body of Christ to the glory of God's name131 and, according to the traditions of East and West, it is the "sacrifice of praise."
 [^121]:  Cf. Romans 8:16.
-[^122]:  I Corinthians 8:6.
+111[^122]:  I Corinthians 8:6.
 [^123]:  Acts 2:47; 3:9; 4:21; 13:48.
 [^124]:  Ephesians 5:19; Colossians 3:16.
 [^125]:  Cf. Philippians 2:6-11; Colossians 1:15-20; Ephesians 5:14; I Timothy 3:16; 6:15-16; II Timothy 2:11-13.
 [^126]:  Cf. Ephesians 1:3-14; Romans 16:25-27; Ephesians 3:20-21; Jude 24-25.
 [^127]:  Cf. Revelation 4:8-11; 5:9-14; 7:10-12.
-[^128]:  Revelation 6:10.
+111[^128]:  Revelation 6:10.
 [^129]:  Cf. Revelation 18:24; 19:1-8.
 [^130]:  James 1:17.
 [^131]:  Cf. Malachi 1:11.
@@ -14914,7 +14917,7 @@ We learn to pray at certain moments by hearing the Word of the Lord and sharing 
 
 CCC 2660
 Prayer in the events of each day and each moment is one of the secrets of the kingdom revealed to "little children," to the servants of Christ, to the poor of the Beatitudes. It is right and good to pray so that the coming of the kingdom of justice and peace may influence the march of history, but it is just as important to bring the help of prayer into humble, everyday situations; all forms of prayer can be the leaven to which the Lord compares the kingdom.1 [^4]
-[^3]:  John 4:1 [^4]
+[^3]:  John 4:1 4
 [^4]:  "Dei Verbum" 25; cf. Philippians 3:8; St. Ambrose, De officiis ministrorum 1, 20,88: "J.P. Migne, ed., Patroligia Latina (Paris, 1841-1855)" 16, 50.
 [^5] Guigo the Carthusian, Scala Paradisi: PL 40, 998.
 [^6]:  Cf. Matthew 6:6.
@@ -15221,7 +15224,7 @@ Contemplative prayer is a communion of love bearing Life for the multitude, to t
 [^7]:  Song of Songs 1:7; cf. 3:14.
 [^8]:  Cf. Luke 7:36-50; 19:1-10.
 [^9]:  Cf. Jeremiah 31:33.
-[^10]:  Ephesians 3:16-17.
+111[^10]:  Ephesians 3:16-17.
 [^11]:  Cf. St. Ignatius of Loyola, Spiritual Exodusercises, 104.
 [^12]:  Cf. St. Isaiahaac of Nineveh,Tract. myst. 66.
 [^13]:  St. John of the Cross, Maxims and Counsels, 53 in the Colossianslected Works of St. John of the Cross, tr. K. Kavanaugh, O"Christus Dominus", and O. Rodriguez, O"Christus Dominus" (Washington DC: Institute of Carmelite Studies, 1979), 678.
@@ -15341,13 +15344,13 @@ Jesus also prays for us - in our place and on our behalf. All our petitions were
 [^23]:  Romans 8:26.
 [^24]:  Cf. Matthew 6:8.
 [^25]:  Cf. Romans 8:27.
-[^26]:  James 4:3; cf. the whole context: James 4:1-10; 1:5-8; 5:16.
+111[^26]:  James 4:3; cf. the whole context: James 4:1-10; 1:5-8; 5:16.
 [^27]:  James 4:4.
-[^28]:  James 4:5.
+111[^28]:  James 4:5.
 [^29]:  Evagrius Ponticus, De oratione 34: "J.P. Migne, ed., Patroligia Greaca (Paris, 1867-1866)" 79, 1173.
 [^30]:  St. Augustine, Ep. 130, 8, 17: "J.P. Migne, ed., Patroligia Latina (Paris, 1841-1855)" 33, 500.
 [^31]:  Cf. Romans 10:12-13; 8:26-39.
-[^32]:  Cf. Hebrews 5:7; 7:25; 9:2 [^4]
+[^32]:  Cf. Hebrews 5:7; 7:25; 9:2 4
 
 PART FOUR:  CHRISTIAN PRAYER
 SECTION ONE:  PRAYER IN THE CHRISTIAN LIFE
@@ -15371,14 +15374,14 @@ CCC 2745
 Prayer and Christian life are inseparable, for they concern the same love and the same renunciation, proceeding from love; the same filial and loving conformity with the Father's plan of love; the same transforming union in the Holy Spirit who conforms us more and more to Christ Jesus; the same love for all men, the love with which Jesus has loved us. "Whatever you ask the Father in my name, he [will] give it to you. This I command you, to love one another."4 [^1]
 He "prays without ceasing" who unites prayer to works and good works to prayer. Only in this way can we consider as realizable the principle of praying without ceasing.4 [^2]
 [^33]:  I Thessalonians 5:17;Ephesians5:20.
-[^34]:  Ephesians 6:18.
+111[^34]:  Ephesians 6:18.
 [^35]:  Evagrius Ponticus, Pract. 49: "J.P. Migne, ed., Patroligia Greaca (Paris, 1867-1866)" 40, 1245C.
 [^36]:  Cf. Matthew 28:20; Luke 8:24[.
 [^37]:  St. John Chrysostom, Ecloga de oratione 2: "J.P. Migne, ed., Patroligia Greaca (Paris, 1867-1866)" 63, 585.
 [^38]:  Cf. Galatians 5:16-25.
 [^39]:  St. John Chrysostom, De Anna 4, 5: "J.P. Migne, ed., Patroligia Greaca (Paris, 1867-1866)" 54, 666.
 [^40]:  St. Alphonsus Liguori, Del gran Mezzo della preghiera.
-[^41]:  John 15:16-17.
+111[^41]:  John 15:16-17.
 [^42]:  Origen, De orat. 12: "J.P. Migne, ed., Patroligia Greaca (Paris, 1867-1866)" 11, 452c.
 
 PART FOUR:  CHRISTIAN PRAYER
@@ -15456,7 +15459,7 @@ The Byzantine tradition adds after "the glory" the words "Father, Son, and Holy 
 [^2]:  Cf. Luke 11:2-4.
 [^3]:  Cf. Matthew 6:9-13.
 [^4]:  Didache 8, 2: "Sacrosanctum concilium"h 248, 174.br>5 Apostolic Constitutions, 7, 24, 1: "J.P. Migne, ed., Patroligia Greaca (Paris, 1867-1866)" 1,1016.
-[^6]:  Titus 2:13; cf. Romansan Missal 22, Embolism after the Lord's Prayer.
+111[^6]:  Titus 2:13; cf. Romansan Missal 22, Embolism after the Lord's Prayer.
 
 PART FOUR:  CHRISTIAN PRAYER
 SECTION TWO:  THE LORD'S PRAYER
@@ -15499,7 +15502,7 @@ CCC 2766
 But Jesus does not give us a formula to repeat mechanically.14 As in every vocal prayer, it is through the Word of God that the Holy Spirit teaches the children of God to pray to their Father. Jesus not only gives us the words of our filial prayer; at the same time he gives us the Spirit by whom these words become in us "spirit and life."15 Even more, the proof and possibility of our filial prayer is that the Father "sent the Spirit of his Son into our hearts, crying, 'Abba! Father!'"16 Since our prayer sets forth our desires before God, it is again the Father, "he who searches the hearts of men," who "knows what is the mind of the Spirit, because the Spirit intercedes for the saints according to the will of God."17 The prayer to Our Father is inserted into the mysterious mission of the Son and of the Spirit.
 [^13]:  Cf. John 17:7.
 [^14]:  Cf. Matthew 6:7; I Kings 18:26-29.
-[^15]:  John 6:63.
+111[^15]:  John 6:63.
 [^16]:  Galatians 4:6.
 [^17]:  Romans 8:27.
 
@@ -15564,7 +15567,7 @@ Our awareness of our status as slaves would make us sink into the ground and our
 CCC 2778
 This power of the Spirit who introduces us to the Lord's Prayer is expressed in the liturgies of East and of West by the beautiful, characteristically Christian expression: parrhesia, straightforward simplicity, filial trust, joyous assurance, humble boldness, the certainty of being loved.2 [^9]
 [^26]:  Exodus 3:5.
-[^27]:  Hebrews 1:3; 2:13.
+111[^27]:  Hebrews 1:3; 2:13.
 [^28]:  St. Peter Chrysologus, Sermo 71, 3: "J.P. Migne, ed., Patroligia Latina (Paris, 1841-1855)" 52, 401 "Christus Dominus"; cf. Galatians 4:6.
 [^29]:  Cf. Ephesians 3:12; Hebrews 3:6; 4:16; 10:19; I John 2:28; 3:21; 5:14.
 
@@ -15656,7 +15659,7 @@ The baptized cannot pray to "our" Father without bringing before him all those f
 [^50]:  Cf. "Unitatis redintegratio" 8; 22.
 [^51]:  Cf. Matthew 5:23-24; 6:14-15.
 [^52]:  Cf. "Nostra aetate" 5.
-[^53]:  John 11:52.
+111[^53]:  John 11:52.
 
 PART FOUR:  CHRISTIAN PRAYER
 SECTION TWO:  THE LORD'S PRAYER
@@ -15680,9 +15683,9 @@ When the Church prays "our Father who art in heaven," she is professing that we 
 [^56]:  Cf. Genesis 3.
 [^57]:  Jeremiah 3:19- 4:1a; Luke 15:18, 21.
 [^58]:  Cf. Isaiaha 45:8; Psalms 85:12.
-[^59]:  John 3:13; 12:32; 14 2-3; 16:28; 20:17; Ephesians 4:9-10; Hebrews 1:3; 2:13.
-[^60]:  Ephesians 2:6; Colossians 3:3.
-[^61]:  II Corinthians 5:2; cf. Philippians 3:20; Hebrews 13:14.
+111[^59]:  John 3:13; 12:32; 14 2-3; 16:28; 20:17; Ephesians 4:9-10; Hebrews 1:3; 2:13.
+111[^60]:  Ephesians 2:6; Colossians 3:3.
+111[^61]:  II Corinthians 5:2; cf. Philippians 3:20; Hebrews 13:14.
 [^62]:  Ad Diognetum 5: "J.P. Migne, ed., Patroligia Greaca (Paris, 1867-1866)" 2, 1173.
 
 PART FOUR:  CHRISTIAN PRAYER
@@ -15765,25 +15768,25 @@ When we say "hallowed be thy name," we ask that it should be hallowed in us, who
 CCC 2815
 This petition embodies all the others. Like the six petitions that follow, it is fulfilled by the prayer of Christ. Prayer to our Father is our prayer, if it is prayed in the name of Jesus.84 In his priestly prayer, Jesus asks: "Holy Father, protect in your name those whom you have given me."8 [^5]
 [^66]:  Cf. Psalms 111:9; Luke 1:49.
-[^67]:  Ephesians 1:9, 4.
+111[^67]:  Ephesians 1:9, 4.
 [^68]:  Cf. Psalms 8; Isaiaha 6:3.
 [^69]:  Psalms 8:5; Romans 3:23; cf. Genesis 1:26.
-[^70]:  Colossians 3:10.
+111[^70]:  Colossians 3:10.
 [^71]:  Cf. Hebrews 6:13.
 [^72]:  Exodus 15:1 cf. 3:14.
 [^73]:  Cf. Exodus 19:5-6.
-[^74]:  Ezekiel 20:9, 14, 22, 39; cf. Leviticus 19:2.
+111[^74]:  Ezekiel 20:9, 14, 22, 39; cf. Leviticus 19:2.
 [^75]:  Cf. Matthew 1:21; Luke 1:31, John 8:28; 17:8; 17:17-19.
 [^76]:  John 17:11, 19.
 [^77]:  Cf. Ezekiel 20:39; 36:20-21; John 17:6.
 [^78]:  Philippians 2:9-11.
 [^79]:  II Corinthians 6:11.
-[^80]:  I Corinthians 1:30; cf. 1 Thess 4:7.
+111[^80]:  I Corinthians 1:30; cf. I Thessalonians 4:7.
 [^81]:  St. Cyprian De Dom. orat. 12: "J.P. Migne, ed., Patroligia Latina (Paris, 1841-1855)" 4, 527A; Leviticus 20:26.
 [^82]:  St. Peter Chrysologus, Sermo 71, 4: "J.P. Migne, ed., Patroligia Latina (Paris, 1841-1855)" 52:402A; cf. Romans 2:24; Ezekiel 36:20-22.
 [^83]:  Tertullian, De orat. 3: "J.P. Migne, ed., Patroligia Latina (Paris, 1841-1855)" 1:1157A.
 [^84]:  Cf. John 14:13; 15:16; 16:24, 26.
-[^85]:  John 17:11.
+111[^85]:  John 17:11.
 
 PART FOUR:  CHRISTIAN PRAYER
 SECTION TWO:  THE LORD'S PRAYER
@@ -15905,7 +15908,7 @@ CCC 2837
 evident: "this day" is the Day of the Lord, the day of the feast of the kingdom, anticipated in the Eucharist that is already the foretaste of the kingdom to come. For this reason it is fitting for the Eucharistic liturgy to be celebrated each day.
 The Eucharist is our daily bread. the power belonging to this divine food makes it a bond of union. Its effect is then understood as unity, so that, gathered into his Body and made members of him, we may become what we receive.... This also is our daily bread: the readings you hear each day in church and the hymns you hear and sing. All these are necessities for our pilgrimage.13 [^1]
 The Father in heaven urges us, as children of heaven, to ask for the bread of heaven. [Christ] himself is the bread who, sown in the Virgin, raised up in the flesh, kneaded in the Passion, baked in the oven of the tomb, reserved in churches, brought to altars, furnishes the faithful each day with food from heaven.13 [^2]
-[^113]:  Matthew 5:45.
+111[^113]:  Matthew 5:45.
 [^114]:  Psalms 104:27.
 [^115]:  Cf. Matthew 6:25-34.
 [^116]:  Cf. II Thessaloniansalonians 3:6-13.
@@ -15915,7 +15918,7 @@ The Father in heaven urges us, as children of heaven, to ask for the bread of he
 [^120]:  Cf. II Corinthians 8:1-15.
 [^121]:  Cf. St. "de Benedictionibus"edict Regula, 20, 48.
 [^122]:  Attributed to St. Ignatius Loyola, cf. Joseph de Guibert, SJ,The Jesuits: Their Spiritual Doctrine and Practice, (Chicago: Loyola University Press, 1964), 148, n. 55.
-[^123]:  Deuteronomy 8:3; Matthew 4:4.
+111[^123]:  Deuteronomy 8:3; Matthew 4:4.
 [^124]:  Amos 8:11.
 [^125]:  Cf. John 6:26-58.
 [^126]:  Cf. Matthew 6:34; Exodus 16:19.
@@ -15962,10 +15965,10 @@ God does not accept the sacrifice of a sower of disunion, but commands that he d
 [^135]:  Cf. Matthew 26:28; John 20:23.
 [^136]:  Cf. I John 4:20.
 [^137]:  Cf. Matthew 6:14-15; 5:23-24; Mark 11:25.
-[^138]:  Matthew 19:26.
-[^139]:  Matthew 5:48; Luke 6:36; John 13:34.
+111[^138]:  Matthew 19:26.
+111[^139]:  Matthew 5:48; Luke 6:36; John 13:34.
 [^140]:  Cf. Galatians 5:25; Philippians 2:1,5.
-[^141]:  Ephesians 4:32.
+111[^141]:  Ephesians 4:32.
 [^142]:  Cf. John 13:1.
 [^143]:  Cf. Matthew 18:23-35.
 [^144]:  Cf. Matthew 5:43-44.
@@ -16019,25 +16022,25 @@ Deliver us, Lord, we beseech you, from every evil and grant us peace in our day,
 [^153]:  Cf. James 1:14-15.
 [^154]:  Cf. Genesis 3:6.
 [^155]:  Origen, De orat. 29 "J.P. Migne, ed., Patroligia Greaca (Paris, 1867-1866)" 11, 544"Christus Dominus".
-[^156]:  Matthew 6:21, 24.
-[^157]:  Galatians 5:25.
-[^158]:  I Corinthians 10:13.
+111[^156]:  Matthew 6:21, 24.
+111[^157]:  Galatians 5:25.
+111[^158]:  I Corinthians 10:13.
 [^159]:  Cf. Matthew 4:1-11; 26:36-44.
-[^160]:  John 17:11; Cf. Mark 13:9, 23, 33-37; 14:38; Luke 12:35-40.
-[^161]:  Cf. I Corinthians 16:13; Colossians 4:2; 1 Thess 5:6; I Peter 5:8.
-[^162]:  Revelation 16:15.
-[^163]:  John 17:15.
+111[^160]:  John 17:11; Cf. Mark 13:9, 23, 33-37; 14:38; Luke 12:35-40.
+[^161]:  Cf. I Corinthians 16:13; Colossians 4:2; I Thessalonians 5:6; I Peter 5:8.
+111[^162]:  Revelation 16:15.
+111[^163]:  John 17:15.
 [^164]:  Cf. "Reconciliatio et paenitentia" 16.
-[^165]:  John 8:44; Revelation 12:9.
+111[^165]:  John 8:44; Revelation 12:9.
 [^166]:  Romansan Missal, Eucharistic Prayer IV, 125.
 [^167]:  I John 5:18-19.
 [^168]:  St. Ambrose, De Sacr. 5, 4, 30: "J.P. Migne, ed., Patroligia Latina (Paris, 1841-1855)" 16, 454; cf. Romans 8:31.
-[^169]:  John 14:30.
-[^170]:  John 12:31; Revelation 12:10.
+111[^169]:  John 14:30.
+111[^170]:  John 12:31; Revelation 12:10.
 [^171]:  Revelation 12:13-16.
 [^172]:  Revelation 12:17.
-[^173]:  Revelation 22:17,20.
-[^174]:  Revelation 1:8, 18; cf. Revelation 1:4; Ephesians 1:10.
+111[^173]:  Revelation 22:17,20.
+111[^174]:  Revelation 1:8, 18; cf. Revelation 1:4; Ephesians 1:10.
 [^175]:  Romansan Missal, Embolism after the Lord's Prayer, 126: Libera nos, quaesumus, Domine, ab omnibus malis, da propitius pacem in diebus nostris, ut, ope misericordiae tuae adiuti, et a peccato simus semper liberi, et ab omni perturbatione securi: expectantes beatam spem et adventum Salvatoris nostri Iesu Christi.
 
 PART FOUR:  CHRISTIAN PRAYER

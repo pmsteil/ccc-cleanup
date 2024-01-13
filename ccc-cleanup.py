@@ -1,11 +1,33 @@
 """
     This script will cleanup the text of the CCC text file
 """
+import sys
 import re
+
+DEBUG_100 = 0
+DEBUG_110 = 0
+DEBUG_120 = 0
+DEBUG_130 = 0
+DEBUG_140 = 0
+DEBUG_150 = 0
+DEBUG_160 = 0
+DEBUG_200 = 0
+DEBUG_300 = 0
+DEBUG_310 = 0
+DEBUG_320 = 0
+DEBUG_330 = 0
+DEBUG_340 = 0
+DEBUG_350 = 0
+DEBUG_360 = 0
+DEBUG_370 = 0
+DEBUG_380 = 0
+DEBUG_400 = 0
+
 
 # TODOS:
 #   - replace 'Sng and music' with 'Song and music'
 #   - replace 'Is_this' with 'Is this'
+#   - check to see why we needed this: cleanupLastFootnotes_400
 
 
 # the books as they appeared in the original ccc text
@@ -16,7 +38,8 @@ original_ot_books = ['Gen', 'Ex', 'Lev', 'Num', 'Dt', 'Josh', 'Judg', 'Ruth',
                      'Lam', 'Bar', 'Ezek', 'Dan', 'Hos', 'Joel', 'Amos', 'Obad',
                      'Jon', 'Mic', 'Nah', 'Hab', 'Zeph', 'Hag', 'Zech', 'Mal']
 original_nt_books = ['Mt', 'Mk', 'Lk', 'Jn', 'Acts', 'Rom', 'I Cor', 'II Cor', '1 Cor', '2 Cor',
-                     'Gal', 'Eph', 'Phil', 'Col', 'I Thess', 'II Thess', 'I Tim', 'II Tim',
+                     'Gal', 'Eph', 'Phil', 'Col', 'I Thess', 'II Thess', '1 Thess', '2 Thess',
+                     'I Tim', 'II Tim',
                      '1 Tim', '2 Tim', 'Titus', 'Phlm', 'Heb', 'Jas', 'I Pt', 'II Pt',
                      'I Jn', 'II Jn', 'III Jn', 'Jude', 'Rev']
 
@@ -30,9 +53,49 @@ new_ot_books = [ 'Genesis', 'Exodus', 'Leviticus', 'Numbers', 'Deuteronomy', 'Jo
                 'Habakkuk', 'Zephaniah', 'Haggai', 'Zechariah', 'Malachi' ]
 new_nt_books = [ 'Matthew', 'Mark', 'Luke', 'John', 'Acts', 'Romans', 'I Corinthians',
                 'II Corinthians', 'I Corinthians', 'II Corinthians', 'Galatians', 'Ephesians',
-                'Philippians', 'Colossians', 'I Thessalonians', 'II Thessalonians', 'I Timothy',
+                'Philippians', 'Colossians', 'I Thessalonians', 'II Thessalonians', 'I Thessalonians', 'II Thessalonians',
+                'I Timothy',
                 'II Timothy', 'I Timothy', 'II Timothy', 'Titus', 'Philemon', 'Hebrews', 'James',
                 'I Peter', 'II Peter', 'III John', 'II John', 'I John', 'Jude', 'Revelation']
+
+
+
+# must be global, used by cleanupFootnotes1_110 and 2
+other_books = [ 'Roman', 'CD', 'CT', 'Cf.', 'Extraordinary Synod of Bishops',
+               'John Paul II, Discourse', 'GS', 'St. Augustine,', 'St. Thomas Aquinas,',
+               'Vatican Council', 'Pius', 'ZZZLiturgy', 'Lateran Council', 'DV', 'St. Irenaeus,',
+               'St. John of the Cross,', 'UR', 'LG', 'St. Gregory the Great,', 'St. Bernard,',
+               'Origen,', 'Lettera gesta docet,','St. Caesaria the Younger',
+               'St. Therese of Lisieux,', 'Dei', 'John Henry Cardinal Newman,',
+               'St. Anselm,', 'DH', 'St. Basil De Spiritu Sancto', 'Faustus of Riez,',
+               'St. Cyril of Jerusalem,', 'Paul', 'St. Ambrose,', 'EX', 'St. Joan of',
+               'St. Nicholas of', 'St. Teresa', 'St. Caesarius of Arles,', 'GCD',
+               'The English phrases', 'Niceno-Constantinopolitan Creed;', 'Nicene Creed;',
+               'Council of', 'Fides', 'St. Basil,', 'St. Francis', 'St. Benedict,', 'LH,', 'LH',
+               'Prayer of Blessed Elizabeth', 'AG', 'DS', 'LC', 'John', 'Byzantine', 'OC',
+               'B Rituale per', 'CIC,', 'SC', 'PO', 'Congregation of Rites,', 'ZZZApostolic',
+               'B Cf.', 'OE', 'GIRM', 'Fanqith,', 'Didache', 'EP', 'OP', 'Tertullian,',
+               'Indulgentiarum', 'BCIC,', 'OT', 'St. Peter', 'St. Catherine',
+               'St. John of the Cross,', 'St. John Chrysostom,', 'St. John Damascene,',
+               'St. John Eudes:', 'St. John Eudes,','St. John of the Cross,',
+               'St. John Vianney,', 'St. Maximus', 'St. Leo', 'St. Gregory of Nazianzus, Oratio',
+               'St. Bonaventure,', 'St. Theophilus of Antioch,', '2 Macc',
+               'The Correspondence of Sir Thomas More,', 'Julian of Norwich,',
+               'St. Fulgentius of Ruspe,', 'St. Ignatius of Antioch,', 'St. Justin,', 'St. Monica,',
+               'St. Thomas Aquinas', 'FC', 'CELAM,', 'Niceno-Constantinopolitan Creed.', 'OCF',
+               'St. Simeon of Thessalonica,', 'St. Gregory of Nyssa,', 'St.Teresa of Avila,',
+               'RP', 'cf. Mt', 'CA', 'St. Clement of Rome,', 'Ep. Barnabae,', 'CS', 'Leo XIII,',
+               'Cicero,', 'St. Athanasius,', 'St.Therese of Lisieux,', 'AA', 'NA',
+               'Sermo de die dominica', 'GE', 'Ad Diognetum 5,', 'CDF,', 'Cf.Tob', 'MD', 'Cf.Titus',
+               'HV', 'SRS', 'P. Hansen,', 'Martyrium Polycarpi', 'St. Ignatius of Loyola,',
+               'IM', 'St. Gregory the Great Moralia', 'Pastor Hermae,', 'Evagrius Ponticus,',
+               'St. Alphonsus Liguori,', 'Tertullian De orat.', 'St. Cyprian,',
+               'St. Ambrose De Sacr.', 'St. Cyprian,', 'Ad Diognetum', 'St. Cyprian De',
+               'Attributed to St. Ignatius Loyola,', 'St. Bernard of Clairvaux,',
+               'Clement of Alex.,', 'Kontakion of Romanos', 'St. Hilary of Poitiers,',
+               'St. Rose of Lima:', 'Ancient Homily for Holy Saturday:', 'St. John Cassian,',
+               'Liturgy of St. John']
+footnote_books = other_books + original_ot_books + original_nt_books
 
 # eccliastical books referenced in CCC footnotes
 # Common ecclesiastical document references in the CCC
@@ -114,32 +177,13 @@ ecclesiastical_documents_full = [
     ('UR', 'Unitatis redintegratio')
 ]
 
-# def replace_ecclesiastical_abbreviations(text, replacements):
-#     for abbreviation, full_name in replacements:
-#         # full_name_with_quotes = f'"{full_name}"'  # Enclose the full name in double quotes
-#         text = text.replace(abbreviation, full_name)
-    # return text
-
-
-
-def renameScriptureBooks( text ):
-    """
-    Rename the scripture books in the footnotes
-    from the original abbreviated names to the full names
-    """
-
-    footnote_search     = original_ot_books + original_nt_books
-    footnote_replace    = new_ot_books + new_nt_books
-    # search for footnote_search and replace with footnote_replace
-    for i in range( len( footnote_search ) ):
-        text = text.replace( footnote_search[i], footnote_replace[i] )
-
-    return text
 
 
 
 
-def cleanupFootnotes0_100( text ):
+
+
+def cleanupFootnotes0_100( text, debug_level ):
     """
         Cleanup more footnotes
     """
@@ -154,135 +198,10 @@ def cleanupFootnotes0_100( text ):
 
 
 
-# create function to search through the text looking for any line that starts with "[^9]:" and replace any book names using the replace_ecclesiastical_abbreviations function
-def replaceScriptureBooksInFootnotes_140( text ):
-    """
-        Replace the scripture books in the footnotes
-    """
-
-    # find the footnote markers and replace the book names
-    pattern = r"(\[\^\d+\]):(.*)"
-
-    def footnote_format(match):
-        footnote, line = match.groups()
-        return "%s: %s" % ( footnote, renameScriptureBooks( line ) )
-
-    text = re.sub(pattern, footnote_format, text, flags=re.MULTILINE)
-
-    return text
 
 
 
-
-# create function to search through the text looking for any line that starts with "[^9]:" and replace any book names using the replace_ecclesiastical_abbreviations function
-def replaceEccliasticBooksInFootnotes_150( text ):
-    """
-        Replace the ecclesiastical books in the footnotes
-    """
-
-    # find the footnote markers and replace the book names
-    pattern = r"(\[\^\d+\]):(.*)"
-
-    def footnote_format(match):
-        footnote, line = match.groups()
-        return "%s: %s" % ( footnote, replace_ecclesiastical_abbreviations( line, ecclesiastical_documents_full ) )
-
-    text = re.sub(pattern, footnote_format, text, flags=re.MULTILINE)
-
-
-    return text
-
-
-
-
-
-
-# other typos, fixes, anywhere in the text
-def cleanupOther_200( text ):
-    """
-        Cleanup other typos, fixes
-    """
-    str_search     = [  'Article 9THE NINTH', 'The Interpretation of the Heritage of FaithThe heritage of faith entrusted to the whole of the Church', '348The sabbath ',      '460TheWord became flesh', '408I John ',         '."488',    'life.489I.',      '503 1 Lk 24:17;',    '512 O vere beata',    '518I Th',       '540 Missale Romanum,',    '547 Nicene Creed.', '4 In 17:3.', '17 In 3:5-8.',           '18 In 14:16,',     '20 In 16:13.',     '261 Pet 4:14.',     '42 1 Thess 5:19.',     '67 Cf.Jn 1:14; Phil 2:7.',     '78Isa 43:19.',     '81Isa 11:1-2.', '84Isa 61:',         '[^718]:  ',   '[^719]:  ',     '133 St. Cyril of Alexandria,',      '137 St. Hippolytus,',     '2021 Pet 2:9.',     '231 Pope St. Gregory',        '262 St. Clement ', '305 CL 17, 3.',         '458 PC 1.' , '460CIC,', '460BCf. ', '460T Cf. ','Matthew19:12', '463 Ordo Consecrationis', '477 Nicetas', '497 Martyrium', '494 St. Dominic', '556 1 Thess 4', '587 The Imitation', '589 OCF', '597 Benedict', '6302 Pet 3', '645 Isa', '4 eu-logia,','45 Ep. 8.', '35 St. Hippolytus', '39 St. Jerome,', '43 St. Athanasius', '150 Apostolic Constitutions','12 St. Gregory of Nazianzus', '5 Guigo the Carthusian', '7 GILH', '22 St. Gregory', '1 St. Gregory' ]
-    str_replace     = [  'Article 9THE NINTH', 'The Interpretation of the Heritage of FaithThe heritage of faith entrusted to the whole of the Church', '348 The sabbath ',      '460 TheWord became flesh', '[^408]: I John ', '."[^488]', 'life.[^489]\nI.', '[^503]:1 Lk 24:17;', '[^512]:O vere beata', '[^518]   I Th', '[^540]:Missale Romanum,', '[^547]:Nicene Creed.', '[^4]:In 17:3.', '[^17]: In 3:5-8.', '[^18]: In 14:16,', '[^20]: In 16:13.', '[^26]:1 Pet 4:14.', '[^42]: 1 Thess 5:19.', '[^67]: Cf.Jn 1:14; Phil 2:7.', '[^78]:Isa 43:19.', '[^81]:Isa 11:1-2.', '[^84]:Isa 61:', '\nCCC 718\n', '\nCCC 719\n',   '[^133]:  St. Cyril of Alexandria,', '[^137]: St. Hippolytus,', '[^202]:1 Pet 2:9.', '[^231]: Pope St. Gregory',    '[^262]: St. Clement ', '[^305]: CL 17, 3.', '[^458]: PC 1.' , '460 CIC,', '[^460B] Cf. ', '[^460T] Cf. ','Matthew 19:12','[^463] Ordo Consecrationis','[^477] Nicetas','[^497] Martyrium','[^494] St. Dominic','[^556] 1 Thess 4','[^587] The Imitation', '[^589] OCF','[^597] Benedict','[^630] 2 Pet 3','[^645] Isa','[^4] eu-logia,','[^45] Ep. 8.','[^35] St. Hippolytus','[^39] St. Jerome,','[^43] St. Athanasius','[^150] Apostolic Constitutions','[^12] St. Gregory of Nazianzus','[^5] Guigo the Carthusian','[^7] GILH','[^22] St. Gregory','[^1] St. Gregory' ]
-    # search for str_search and replace with str_replace
-    for i in range( len( str_search ) ):
-        text = text.replace( str_search[i], str_replace[i] )
-
-    return text
-
-
-
-
-
-# other typos, fixes
-def cleanupInlineFootnotes_120( text ):
-    """
-        Cleanup other typos, fixes
-    """
-    str_search     = [  '"into all the truth".68',    'returned to the Father.69',    'glorification70 reveals',    'from the Father."71',    '"72 "For', '74 On the mountain',       'him!"75 Jesus', 'you."76 This',       'Creator.240 Man',    'him."242 None',    'partner.243 The',    'flesh."244',    'flesh",245 they',    'earth."246 ',    'work.247',    'the earth248',    'exists",249',    'justice".250',    'life".251',    'die.252',    'woman,253',    'concupiscence254',    'garden.255', 'burden,256',       'Augustine,257',    'religion".258',    'grace.259',    'conqueror.260', '190Heb 9:24.'        ]
-    str_replace    = [  '"into all the truth".[^68]', 'returned to the Father.[^69]', 'glorification[^70] reveals', 'from the Father."[^71]', '"[^72] "For', '[^74] On the mountain', 'him!"[^75] Jesus', 'you."[^76] This', 'Creator.[^240] Man', 'him."[^242] None', 'partner.[^243] The', 'flesh."[^244]', 'flesh",[^245] they', 'earth."[^246] ', 'work.[^247]', 'the earth[^248]', 'exists",[^249]', 'justice".[^250]', 'life".[^251]', 'die.[^252]', 'woman,[^253]', 'concupiscence[^254]', 'garden.[^255]', 'burden,[^256]', 'Augustine,[^257]', 'religion".[^258]', 'grace.[^259]', 'conqueror.[^260]', '190 Heb 9:24.' ]
-    # str_search for str_search and replace with str_replace
-    for i in range( len( str_search ) ):
-        text = text.replace( str_search[i], str_replace[i] )
-
-    return text
-
-
-
-def cleanupLastFootnotes_400( text ):
-    """
-        Cleanup other typos, fixes
-    """
-    str_search     = [  '[^]:   ' ]
-    str_replace    = [  '' ]
-    # str_search for str_search and replace with str_replace
-    for i in range( len( str_search ) ):
-        text = text.replace( str_search[i], str_replace[i] )
-
-    return text
-
-
-
-
-
-# must be global, used by cleanupFootnotes1_110 and 2
-other_books = [ 'Roman', 'CD', 'CT', 'Cf.', 'Extraordinary Synod of Bishops',
-               'John Paul II, Discourse', 'GS', 'St. Augustine,', 'St. Thomas Aquinas,',
-               'Vatican Council', 'Pius', 'ZZZLiturgy', 'Lateran Council', 'DV', 'St. Irenaeus,',
-               'St. John of the Cross,', 'UR', 'LG', 'St. Gregory the Great,', 'St. Bernard,',
-               'Origen,', 'Lettera gesta docet,','St. Caesaria the Younger',
-               'St. Therese of Lisieux,', 'Dei', 'John Henry Cardinal Newman,',
-               'St. Anselm,', 'DH', 'St. Basil De Spiritu Sancto', 'Faustus of Riez,',
-               'St. Cyril of Jerusalem,', 'Paul', 'St. Ambrose,', 'EX', 'St. Joan of',
-               'St. Nicholas of', 'St. Teresa', 'St. Caesarius of Arles,', 'GCD',
-               'The English phrases', 'Niceno-Constantinopolitan Creed;', 'Nicene Creed;',
-               'Council of', 'Fides', 'St. Basil,', 'St. Francis', 'St. Benedict,', 'LH,', 'LH',
-               'Prayer of Blessed Elizabeth', 'AG', 'DS', 'LC', 'John', 'Byzantine', 'OC',
-               'B Rituale per', 'CIC,', 'SC', 'PO', 'Congregation of Rites,', 'ZZZApostolic',
-               'B Cf.', 'OE', 'GIRM', 'Fanqith,', 'Didache', 'EP', 'OP', 'Tertullian,',
-               'Indulgentiarum', 'BCIC,', 'OT', 'St. Peter', 'St. Catherine',
-               'St. John of the Cross,', 'St. John Chrysostom,', 'St. John Damascene,',
-               'St. John Eudes:', 'St. John Eudes,','St. John of the Cross,',
-               'St. John Vianney,', 'St. Maximus', 'St. Leo', 'St. Gregory of Nazianzus, Oratio',
-               'St. Bonaventure,', 'St. Theophilus of Antioch,', '2 Macc',
-               'The Correspondence of Sir Thomas More,', 'Julian of Norwich,',
-               'St. Fulgentius of Ruspe,', 'St. Ignatius of Antioch,', 'St. Justin,', 'St. Monica,',
-               'St. Thomas Aquinas', 'FC', 'CELAM,', 'Niceno-Constantinopolitan Creed.', 'OCF',
-               'St. Simeon of Thessalonica,', 'St. Gregory of Nyssa,', 'St.Teresa of Avila,',
-               'RP', 'cf. Mt', 'CA', 'St. Clement of Rome,', 'Ep. Barnabae,', 'CS', 'Leo XIII,',
-               'Cicero,', 'St. Athanasius,', 'St.Therese of Lisieux,', 'AA', 'NA',
-               'Sermo de die dominica', 'GE', 'Ad Diognetum 5,', 'CDF,', 'Cf.Tob', 'MD', 'Cf.Titus',
-               'HV', 'SRS', 'P. Hansen,', 'Martyrium Polycarpi', 'St. Ignatius of Loyola,',
-               'IM', 'St. Gregory the Great Moralia', 'Pastor Hermae,', 'Evagrius Ponticus,',
-               'St. Alphonsus Liguori,', 'Tertullian De orat.', 'St. Cyprian,',
-               'St. Ambrose De Sacr.', 'St. Cyprian,', 'Ad Diognetum', 'St. Cyprian De',
-               'Attributed to St. Ignatius Loyola,', 'St. Bernard of Clairvaux,',
-               'Clement of Alex.,', 'Kontakion of Romanos', 'St. Hilary of Poitiers,',
-               'St. Rose of Lima:', 'Ancient Homily for Holy Saturday:', 'St. John Cassian,',
-               'Liturgy of St. John']
-footnote_books = other_books + original_ot_books + original_nt_books
-
-def cleanupFootnotes1_110( text ):
+def cleanupFootnotes1_110( text, debug_level ):
     """
     cleanup ones like this:
     1Rev 1:1
@@ -299,7 +218,7 @@ def cleanupFootnotes1_110( text ):
         # print (f">>>footnote: {num}, abbr: {abbr}, line: {line} returning: [^{num}]:{abbr} {line}")
         if num == '':
             raise ValueError( f"footnote num is empty, abbr: {abbr}, line: {line}")
-        return f"[^{num}]:{abbr} {line}"
+        return f"111[^{num}]:{abbr} {line}"
 
     text = re.sub(pattern, footnote_format, text, flags=re.MULTILINE)
 
@@ -309,8 +228,26 @@ def cleanupFootnotes1_110( text ):
 
 
 
+# other typos, fixes
+def cleanupInlineFootnotes_120( text, debug_level ):
+    """
+        Cleanup other typos, fixes
+    """
+    str_search     = [  '"into all the truth".68',    'returned to the Father.69',    'glorification70 reveals',    'from the Father."71',    '"72 "For', '74 On the mountain',       'him!"75 Jesus', 'you."76 This',       'Creator.240 Man',    'him."242 None',    'partner.243 The',    'flesh."244',    'flesh",245 they',    'earth."246 ',    'work.247',    'the earth248',    'exists",249',    'justice".250',    'life".251',    'die.252',    'woman,253',    'concupiscence254',    'garden.255', 'burden,256',       'Augustine,257',    'religion".258',    'grace.259',    'conqueror.260', '190Heb 9:24.'        ]
+    str_replace    = [  '"into all the truth".[^68]', 'returned to the Father.[^69]', 'glorification[^70] reveals', 'from the Father."[^71]', '"[^72] "For', '[^74] On the mountain', 'him!"[^75] Jesus', 'you."[^76] This', 'Creator.[^240] Man', 'him."[^242] None', 'partner.[^243] The', 'flesh."[^244]', 'flesh",[^245] they', 'earth."[^246] ', 'work.[^247]', 'the earth[^248]', 'exists",[^249]', 'justice".[^250]', 'life".[^251]', 'die.[^252]', 'woman,[^253]', 'concupiscence[^254]', 'garden.[^255]', 'burden,[^256]', 'Augustine,[^257]', 'religion".[^258]', 'grace.[^259]', 'conqueror.[^260]', '190 Heb 9:24.' ]
+    # str_search for str_search and replace with str_replace
+    for i in range( len( str_search ) ):
+        text = text.replace( str_search[i], str_replace[i] )
 
-def formatFootnote_130( text ):
+    return text
+
+
+
+
+
+
+
+def formatFootnote_130( text, debug_level ):
     """
         Looking for a footnote to format like these:
             1 Jn 17 3
@@ -329,7 +266,48 @@ def formatFootnote_130( text ):
 
     def footnote_format(match):
         num, abbr, line = match.groups()
-        return "[^%s]:%s %s" % (num, abbr, line)
+        # strip num, abbr, line
+
+        # return "[^%s]:%s %s" % (num, abbr, line)
+        return f"[^{num}]:{abbr} {line}"
+
+    text = re.sub(pattern, footnote_format, text, flags=re.MULTILINE)
+
+    return text
+
+
+
+
+
+
+# create function to search through the text looking for any line that starts with "[^9]:" and replace any book names using the replace_ecclesiastical_abbreviations function
+def replaceScriptureBooksInFootnotes_140( text, debug_level ):
+    """
+        Replace the scripture books in the footnotes
+    """
+
+    def _renameScriptureBooks( text ):
+        """
+        Rename the scripture books in the footnotes
+        from the original abbreviated names to the full names
+        """
+
+        footnote_search     = original_ot_books + original_nt_books
+        footnote_replace    = new_ot_books + new_nt_books
+        # search for footnote_search and replace with footnote_replace
+        for i in range( len( footnote_search ) ):
+            text = text.replace( footnote_search[i], footnote_replace[i] )
+
+        return text
+
+
+
+    # find the footnote markers and replace the book names
+    pattern = r"(\[\^\d+\]):(.*)"
+
+    def footnote_format(match):
+        footnote, line = match.groups()
+        return "%s: %s" % ( footnote, _renameScriptureBooks( line ) )
 
     text = re.sub(pattern, footnote_format, text, flags=re.MULTILINE)
 
@@ -341,11 +319,28 @@ def formatFootnote_130( text ):
 
 
 
-# create function to search through only the footnotes and call the replace_ecclesiastical_abbreviations function on each one
-def replace_ecclesiastical_abbreviations(text, replacements):
-    for abbreviation, full_name in replacements:
-        full_name_with_quotes = f'"{full_name}"'  # Enclose the full name in double quotes
-        text = text.replace(abbreviation, full_name_with_quotes)
+# create function to search through the text looking for any line that starts with "[^9]:" and replace any book names using the replace_ecclesiastical_abbreviations function
+def replaceEccliasticBooksInFootnotes_150( text, debug_level ):
+    """
+        Replace the ecclesiastical books in the footnotes
+    """
+    # create function to search through only the footnotes and call the replace_ecclesiastical_abbreviations function on each one
+    def _replace_ecclesiastical_abbreviations(text, replacements):
+        for abbreviation, full_name in replacements:
+            full_name_with_quotes = f'"{full_name}"'  # Enclose the full name in double quotes
+            text = text.replace(abbreviation, full_name_with_quotes)
+        return text
+
+    # find the footnote markers and replace the book names
+    pattern = r"(\[\^\d+\]):(.*)"
+
+    def footnote_format(match):
+        footnote, line = match.groups()
+        return "%s: %s" % ( footnote, _replace_ecclesiastical_abbreviations( line, ecclesiastical_documents_full ) )
+
+    text = re.sub(pattern, footnote_format, text, flags=re.MULTILINE)
+
+
     return text
 
 
@@ -354,7 +349,13 @@ def replace_ecclesiastical_abbreviations(text, replacements):
 
 
 
-def formatFootnoteMarker_160( text ):
+
+
+
+
+
+
+def formatFootnoteMarker_160( text, debug_level ):
     """
         Find any lines that are NOT a footnote and
         end with a number and format it as a footnote marker
@@ -367,14 +368,42 @@ def formatFootnoteMarker_160( text ):
     # [^\d+] and ends with a number of any length but at least 1 digit
     pattern = r"^(?![\^\d+]:)(.*)(\d+)$"
 
+    print( f"1debug_level: {debug_level}" )
+
     def footnote_format(match):
         line, num = match.groups()
         # print( f"\n>>>footnote marker: {line}, {num}")
-        # if num == "3":
-        #     exit()
-        return "%s [^%s]" % (line, num)
+        debug( f"\n>>> footnote marker: {line}, {num}", debug_level )
+
+        if "[^" not in line:
+            # return "%s [^%s]" % (line, num)
+            return f"{line} [^{num}]"
+        else:
+            return f"{line} {num}"
 
     text = re.sub(pattern, footnote_format, text, flags=re.MULTILINE)
+
+    return text
+
+def debug( text, debug_level ):
+    """
+        Debug function
+    """
+    if debug_level > 0:
+        print( f"{text}" )
+    # return text
+
+
+# other typos, fixes, anywhere in the text
+def cleanupOther_200( text, debug_level ):
+    """
+        Cleanup other typos, fixes
+    """
+    str_search     = [  'Article 9THE NINTH', 'The Interpretation of the Heritage of FaithThe heritage of faith entrusted to the whole of the Church', '348The sabbath ',      '460TheWord became flesh',    '408 I John ',         '."488',    'life.489I.',      '503 1 Lk 24:17;',    '512 O vere beata',    '518I Th',       '540 Missale Romanum,',    '547 Nicene Creed.', '4 In 17:3.', '17 In 3:5-8.',           '18 In 14:16,',     '20 In 16:13.',     '261 Pet 4:14.',     '42 1 Thess 5:19.',     '67 Cf.Jn 1:14; Phil 2:7.',     '78Isa 43:19.',     '81Isa 11:1-2.', '84Isa 61:',         '[^718]:  ',   '[^719]:  ',     '133 St. Cyril of Alexandria,',      '137 St. Hippolytus,',     '2021 Pet 2:9.',     '231 Pope St. Gregory',        '262 St. Clement ', '305 CL 17, 3.',         '458 PC 1.' , '460CIC,', '460BCf. ', '460T Cf. ','Matthew19:12', '463 Ordo Consecrationis', '477 Nicetas', '497 Martyrium', '494 St. Dominic', '556 1 Thess 4', '587 The Imitation', '589 OCF', '597 Benedict', '6302 Pet 3', '645 Isa', '4 eu-logia,','45 Ep. 8.', '35 St. Hippolytus', '39 St. Jerome,', '43 St. Athanasius', '150 Apostolic Constitutions','12 St. Gregory of Nazianzus', '5 Guigo the Carthusian', '7 GILH', '22 St. Gregory', '1 St. Gregory', '469 Bis Acts 2:24.', '518 I Th 4:14.', '78 Isa 43:19.', '81 Isa 11:1-2.', '84 Isa 61:1-2; cf. Lk 4:18-19.', '460 T Cf. John Paul II,Vita Consecrata 7.' ]
+    str_replace     = [  'Article 9THE NINTH', 'The Interpretation of the Heritage of FaithThe heritage of faith entrusted to the whole of the Church', '348 The sabbath ',      '460 TheWord became flesh', '[^408]: I John ', '."[^488]', 'life.[^489]\nI.', '[^503]:1 Lk 24:17;', '[^512]:O vere beata', '[^518]   I Th', '[^540]:Missale Romanum,', '[^547]:Nicene Creed.', '[^4]:In 17:3.', '[^17]: In 3:5-8.', '[^18]: In 14:16,', '[^20]: In 16:13.', '[^26]:1 Pet 4:14.', '[^42]: 1 Thess 5:19.', '[^67]: Cf.Jn 1:14; Phil 2:7.', '[^78]:Isa 43:19.', '[^81]:Isa 11:1-2.', '[^84]:Isa 61:', '\nCCC 718\n', '\nCCC 719\n',   '[^133]:  St. Cyril of Alexandria,', '[^137]: St. Hippolytus,', '[^202]:1 Pet 2:9.', '[^231]: Pope St. Gregory',    '[^262]: St. Clement ', '[^305]: CL 17, 3.', '[^458]: PC 1.' , '460 CIC,', '[^460B] Cf. ', '[^460T] Cf. ','Matthew 19:12','[^463] Ordo Consecrationis','[^477] Nicetas','[^497] Martyrium','[^494] St. Dominic','[^556] 1 Thess 4','[^587] The Imitation', '[^589] OCF','[^597] Benedict','[^630] 2 Pet 3','[^645] Isa','[^4] eu-logia,','[^45] Ep. 8.','[^35] St. Hippolytus','[^39] St. Jerome,','[^43] St. Athanasius','[^150] Apostolic Constitutions','[^12] St. Gregory of Nazianzus','[^5] Guigo the Carthusian','[^7] GILH','[^22] St. Gregory','[^1] St. Gregory','[^469Bis] Acts 2:24.','[^518] I Th 4:14.','[^78] Isa 43:19.','[^81] Isa 11:1-2.','[^84] Isa 61:1-2; cf. Lk 4:18-19.','[^460T] Cf. John Paul II,Vita Consecrata 7.' ]
+    # search for str_search and replace with str_replace
+    for i in range( len( str_search ) ):
+        text = text.replace( str_search[i], str_replace[i] )
 
     return text
 
@@ -382,7 +411,7 @@ def formatFootnoteMarker_160( text ):
 
 
 
-def handleCCCParagraphs_300( text ):
+def handleCCCParagraphs_300( text, debug_level ):
 
     # regex pattern matches any line that starts with a number
     pattern = r"^(\d+) (.*)"
@@ -398,7 +427,7 @@ def handleCCCParagraphs_300( text ):
 
 
 
-def handlePrologueHeader_310( text ):
+def handlePrologueHeader_310( text, debug_level ):
 
     pattern = r"^(PROLOGUE)"
 
@@ -413,7 +442,7 @@ def handlePrologueHeader_310( text ):
 
 
 
-def handlePartsHeader_320( text ):
+def handlePartsHeader_320( text, debug_level ):
 
     pattern = r"^(Part .*:)(.*)"
 
@@ -428,7 +457,7 @@ def handlePartsHeader_320( text ):
 
 
 
-def handleSectionHeader_330( text ):
+def handleSectionHeader_330( text, debug_level ):
 
     pattern = r"^(Section .*:)(.*)"
 
@@ -443,7 +472,7 @@ def handleSectionHeader_330( text ):
 
 
 
-def handleChapterHeader_340( text ):
+def handleChapterHeader_340( text, debug_level ):
 
     pattern = r"^(Chapter .*:)(.*)"
 
@@ -459,7 +488,7 @@ def handleChapterHeader_340( text ):
 
 
 
-def handleArticleHeader_350( text ):
+def handleArticleHeader_350( text, debug_level ):
 
     pattern = r"^Article (\d+)(.*)"
 
@@ -475,7 +504,26 @@ def handleArticleHeader_350( text ):
 
 
 
-def handleParagraphHeader_370( text ):
+
+
+
+def handleRomanNumeralHeader_360( text, debug_level ):
+
+    # I. heading...
+    pattern = r"(^[iv]+\.)(.*)"
+
+    def search_format(match):
+        part, line = match.groups()
+        return "%s %s" % (part, line)
+
+    text = re.sub(pattern, search_format, text, flags=re.IGNORECASE | re.MULTILINE)
+
+
+    return text
+
+
+
+def handleParagraphHeader_370( text, debug_level ):
 
     # Paragraph 1. ...
     pattern = r"(^Paragraph \d\.)(.*)"
@@ -492,26 +540,7 @@ def handleParagraphHeader_370( text ):
 
 
 
-
-def handleRomanNumeralHeader_360( text ):
-
-    # I. heading...
-    pattern = r"(^[iv]+\.)(.*)"
-
-    def search_format(match):
-        part, line = match.groups()
-        return "%s %s" % (part, line)
-
-    text = re.sub(pattern, search_format, text, flags=re.IGNORECASE | re.MULTILINE)
-
-
-    return text
-
-
-
-
-
-def handleInBrief_380( text ):
+def handleInBrief_380( text, debug_level ):
 
     # I. heading...
     pattern = r"(^IN BRIEF)"
@@ -526,9 +555,39 @@ def handleInBrief_380( text ):
     return text
 
 
+
+
+
+def cleanupLastFootnotes_400( text, debug_level ):
+    """
+        Cleanup other typos, fixes
+        Hmm, why did we need to do this?
+    """
+    #   - replace 'Sng and music' with 'Song and music'
+    #   - replace 'Is_this' with 'Is this'
+
+    str_search     = [ '[^]:   ', 'Sng and music', 'Is_this' ]
+    str_replace    = [ '', 'Song and music', 'Is this' ]
+    # str_search for str_search and replace with str_replace
+    for i in range( len( str_search ) ):
+        text = text.replace( str_search[i], str_replace[i] )
+
+    return text
+
+
+
+
+
+
+
+
+
+
 # function that will find each CCC paragraph and print it out with the CCC number
 def validateCCCParagraphs( text ):
-
+    """
+        Validate that all CCC paragraphs are present and in order
+    """
     expected_ccc_paragraphs = 2865
 
     pattern = r"^CCC (\d+)"
@@ -578,6 +637,8 @@ def validateCCCParagraphs( text ):
 
 
 
+
+
 def main():
     """
         Entrypoint for the script
@@ -586,33 +647,35 @@ def main():
     in_filename = 'ccc-raw.txt'
     out_filename = 'ccc.md'
 
+    print( f"DEBUG_160: {DEBUG_160}" )
+
 
     # load the text of the file
     with open( in_filename, 'r', encoding='utf-8') as myfile:
         print( "processing file: " + in_filename )
         text = myfile.read()
 
-    text = cleanupFootnotes0_100( text )
-    text = cleanupFootnotes1_110( text )
-    text = cleanupInlineFootnotes_120( text )
-    text = formatFootnote_130( text )
-    text = replaceScriptureBooksInFootnotes_140( text)
-    text = replaceEccliasticBooksInFootnotes_150( text )
-    text = formatFootnoteMarker_160( text )
+    text = cleanupFootnotes0_100( text, DEBUG_100 )
+    text = cleanupFootnotes1_110( text, DEBUG_110 )
+    text = cleanupInlineFootnotes_120( text, DEBUG_120 )
+    text = formatFootnote_130( text, DEBUG_130 )
+    text = replaceScriptureBooksInFootnotes_140( text, DEBUG_140 )
+    text = replaceEccliasticBooksInFootnotes_150( text, DEBUG_150 )
+    text = formatFootnoteMarker_160( text, DEBUG_160 )
 
-    text = cleanupOther_200( text )
+    text = cleanupOther_200( text, DEBUG_200 )
 
-    text = handleCCCParagraphs_300( text )
-    text = handlePrologueHeader_310( text )
-    text = handlePartsHeader_320( text )
-    text = handleSectionHeader_330( text )
-    text = handleChapterHeader_340( text )
-    text = handleArticleHeader_350( text )
-    text = handleRomanNumeralHeader_360( text )
-    text = handleParagraphHeader_370( text )
-    text = handleInBrief_380( text )
+    text = handleCCCParagraphs_300( text, DEBUG_300 )
+    text = handlePrologueHeader_310( text, DEBUG_310 )
+    text = handlePartsHeader_320( text, DEBUG_320 )
+    text = handleSectionHeader_330( text, DEBUG_330 )
+    text = handleChapterHeader_340( text, DEBUG_340 )
+    text = handleArticleHeader_350( text, DEBUG_350 )
+    text = handleRomanNumeralHeader_360( text, DEBUG_360 )
+    text = handleParagraphHeader_370( text, DEBUG_370 )
+    text = handleInBrief_380( text, DEBUG_380 )
 
-    text = cleanupLastFootnotes_400( text )
+    text = cleanupLastFootnotes_400( text, DEBUG_400 )
 
 
 
@@ -632,4 +695,11 @@ def main():
 
 
 if __name__ == '__main__':
+
+    # process any debug vars passed on command line
+    for arg in sys.argv:
+        if arg.startswith("DEBUG_"):
+            print( f"setting {arg} to 1")
+            globals()[arg] = 1
+
     main()
